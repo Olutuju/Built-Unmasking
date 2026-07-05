@@ -63,6 +63,16 @@ Everything below is generated automatically by `build.js` on every build:
 
 ---
 
+## Deploying (Vercel — recommended, free, works with a private repo)
+
+1. Go to [vercel.com](https://vercel.com), sign in with GitHub, **Add New… → Project**, and import this repo.
+2. Vercel reads `vercel.json` automatically — build command `npm run build`, output `dist`. Just click **Deploy**.
+3. You get a free `*.vercel.app` URL. Every push to the production branch auto-deploys.
+4. **Set `SITE_URL`** in Project → Settings → Environment Variables to your live URL (your `*.vercel.app`, later your custom domain) so canonical/OpenGraph/sitemap links are correct, then redeploy.
+5. **Custom domain later:** Project → Settings → Domains → add your domain. No rebuild needed.
+
+Netlify and Cloudflare Pages work identically (same build command / output dir).
+
 ## Deploying (GitHub Pages)
 
 Deployment is automated via `.github/workflows/deploy.yml`. One-time setup:

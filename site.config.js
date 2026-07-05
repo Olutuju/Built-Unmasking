@@ -9,8 +9,13 @@
 //   - Custom domain OR user/org Pages site: basePath = "" (empty)
 // Both can be overridden at build time with env vars, e.g.:
 //   SITE_URL=https://builtandunwell.com BASE_PATH="" npm run build
-const SITE_URL = (process.env.SITE_URL || "https://yvetteo-ybo.github.io").replace(/\/$/, "");
-const BASE_PATH = process.env.BASE_PATH ?? "/yetunde-reminders";
+// Default assumes a root-served host (Vercel / Netlify / custom domain): base path "".
+// The GitHub Pages workflow overrides BASE_PATH to "/<repo>" for its project sub-path.
+// On Vercel, set SITE_URL in the project's Environment Variables to your real URL
+// (e.g. https://built-and-unwell.vercel.app, later your custom domain) for correct
+// canonical/OpenGraph/sitemap links.
+const SITE_URL = (process.env.SITE_URL || "https://built-and-unwell.vercel.app").replace(/\/$/, "");
+const BASE_PATH = process.env.BASE_PATH ?? "";
 
 export default {
   siteUrl: SITE_URL,
