@@ -9,8 +9,8 @@ takeaways:
   - "Peer knowledge — how to actually live and work around illness — lives in the community, not the clinic."
   - "This site is peer to peer by design, not a medical resource."
 faq:
-  - q: "Why isn't The Understory a medical or health-advice website?"
-    a: "Because its members need peer connection, not more provider content. Many chronically ill entrepreneurs have been dismissed or failed by medical providers, so a site written by those same institutions isn't a trusted source. The Understory is peer to peer — lived experience about building a life and business around illness."
+  - q: "Why isn't Built & Unwell a medical or health-advice website?"
+    a: "Because its members need peer connection, not more provider content. Many chronically ill entrepreneurs have been dismissed or failed by medical providers, so a site written by those same institutions isn't a trusted source. Built & Unwell is peer to peer — lived experience about building a life and business around illness."
   - q: "What's the difference between medical advice and peer community?"
     a: "Medical advice comes from providers and addresses diagnosis and treatment. Peer community comes from people living the same reality and addresses everything else: how to run a business through flares, how to network without crashing, how to set boundaries. Both exist; peer knowledge is the part that's chronically underserved."
 ---
@@ -40,7 +40,7 @@ Think about what you're actually trying to figure out as a chronically ill found
 
 ## Peer to peer, on purpose
 
-That's why [The Understory](/about/) is not, and will never be, a medical resource. No treatment advice. No "have you tried" from people who haven't lived it. Just accomplished people in Austin who are solving the same real problems and comparing notes as equals.
+That's why [Built & Unwell](/about/) is not, and will never be, a medical resource. No treatment advice. No "have you tried" from people who haven't lived it. Just accomplished people in Austin who are solving the same real problems and comparing notes as equals.
 
 The research on peer support in other contexts is strong — [Stanford Social Innovation Review](https://ssir.org/) and others have documented for years how peer models create change that expert-delivered services can't. But honestly, you don't need a citation for this one. You already know the difference between talking to someone who *gets it* and someone who's read about it.
 

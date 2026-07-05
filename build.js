@@ -476,7 +476,7 @@ for (const pg of pages) {
   const body = `
 <section class="hero wrap">
   <span class="kicker">${esc(site.neighborhood)}, ${esc(site.city)} · ${esc(site.region)}</span>
-  <h1>You built something. You're also chronically ill. Both are true.</h1>
+  <h1>You built something. You're also unwell. Both are true.</h1>
   <p class="lede">${esc(site.description)}</p>
   <div class="hero-actions">
     <a class="btn" href="${url("/community/")}">Join the network</a>

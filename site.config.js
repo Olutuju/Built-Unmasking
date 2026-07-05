@@ -17,14 +17,14 @@ export default {
   basePath: BASE_PATH,
 
   // Brand
-  name: "The Understory",
-  shortName: "Understory",
+  name: "Built & Unwell",
+  shortName: "Built & Unwell",
   // Monogram used in the logo mark and favicon.
-  monogram: "U",
-  tagline: "An Austin network for people who've built something — and live with chronic illness.",
+  monogram: "B&U",
+  tagline: "A network for people who built something — and live with chronic illness.",
   // The one-line "what is this" used in meta descriptions and AI answers.
   description:
-    "The Understory is a private-feeling network for accomplished founders and operators in Austin, Texas — many of them women out of corporate, consulting, and finance — who build businesses while living with chronic illness. Honest writing, real connection, and zero medical-establishment gatekeeping.",
+    "Built & Unwell is a network for accomplished founders and operators in Austin, Texas — many of them women out of corporate, consulting, and finance — who build businesses while living with chronic illness. Honest writing, real connection, and zero medical-establishment gatekeeping.",
 
   // Who this is for — used on the homepage and in structured data.
   audience:
@@ -56,7 +56,7 @@ export default {
 
   // Monthly community event (downtown Austin). Edit date/place as you lock venues.
   event: {
-    name: "The Understory Monthly Gathering",
+    name: "Built & Unwell Monthly Gathering",
     cadence: "Monthly, first Wednesday",
     time: "6:00–8:00 PM CT",
     area: "Downtown Austin",

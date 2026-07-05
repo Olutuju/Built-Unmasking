@@ -1,13 +1,13 @@
 ---
-title: "Join The Understory"
+title: "Join Built & Unwell"
 slug: community
-description: "How to join The Understory — a private-feeling network for accomplished founders in Austin living with chronic illness. Introduce yourself and come to a downtown gathering."
+description: "How to join Built & Unwell — a private-feeling network for accomplished founders in Austin living with chronic illness. Introduce yourself and come to a downtown gathering."
 takeaways:
   - "Membership is by introduction — tell me who you are and what you've built."
   - "Come to a monthly downtown Austin gathering to meet the room in person."
   - "Not in Austin? Say so — it tells me where to build next."
 faq:
-  - q: "How do I join The Understory?"
+  - q: "How do I join Built & Unwell?"
     a: "Email yvetteo@yolonumbers.com with a short note about what you've built and what you're living with. It's an introduction, not an application to be graded — I just want the room to be people who actually fit."
   - q: "Does it cost anything?"
     a: "Right now it's free while the community is forming in Austin. The blog and the monthly downtown gathering are open to people who fit."

@@ -10,7 +10,7 @@ takeaways:
   - "The best connection isn't a room of 200 — it's the right four people at one table."
 faq:
   - q: "Where can chronically ill entrepreneurs network in downtown Austin?"
-    a: "Skip loud standing happy hours. Look for seated, quiet, time-boxed formats: small coffee meetings near the office corridors off Congress Avenue, quiet hotel lobbies, and curated small-group gatherings like The Understory's monthly downtown meetup. Midday beats late night for energy management."
+    a: "Skip loud standing happy hours. Look for seated, quiet, time-boxed formats: small coffee meetings near the office corridors off Congress Avenue, quiet hotel lobbies, and curated small-group gatherings like Built & Unwell's monthly downtown meetup. Midday beats late night for energy management."
   - q: "How do you network when you can't do standing events?"
     a: "Trade breadth for depth. One seated coffee with the right person beats two hours of standing mingle. Choose venues near transit and parking, arrive with an exit plan, and prioritize small curated rooms over big open ones."
 ---

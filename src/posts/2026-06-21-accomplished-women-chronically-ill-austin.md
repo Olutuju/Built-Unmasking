@@ -37,6 +37,6 @@ That's a specific and precious kind of room. Not a stage. A back table where the
 
 ## Why I'm building this in Austin
 
-This is a big part of why [The Understory](/about/) exists and why I keep saying "many of us are women." I wanted the room I just described — accomplished women in Austin who are done being the only one — and I couldn't find it, so I'm making it. Men who genuinely fit belong too, but I won't pretend the shape of this isn't largely women who are tired of running the marathon alone.
+This is a big part of why [Built & Unwell](/about/) exists and why I keep saying "many of us are women." I wanted the room I just described — accomplished women in Austin who are done being the only one — and I couldn't find it, so I'm making it. Men who genuinely fit belong too, but I won't pretend the shape of this isn't largely women who are tired of running the marathon alone.
 
 If that woman is you, you are so much less alone than the performance has convinced you. [Come sit at the table.](/community/) There's a [gathering downtown](/events/) with your name on a chair.
