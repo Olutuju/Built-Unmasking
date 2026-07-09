@@ -183,7 +183,7 @@ function footer() {
     <div>
       <strong>${site.name}</strong>
       <p>${esc(site.tagline)}</p>
-      <p class="muted">Based in ${esc(site.neighborhood)}, ${esc(site.city)}, ${esc(site.region)}.</p>
+      <p class="muted">Based in ${esc(site.neighborhood)}, ${esc(site.region)}.</p>
     </div>
     <nav aria-label="Footer">
       <a href="${url("/blog/")}">All posts</a>
@@ -244,7 +244,7 @@ function articleLD(p) {
     articleSection: "Austin",
     about: [
       { "@type": "Thing", name: "Chronic illness and entrepreneurship" },
-      { "@type": "Place", name: `${site.neighborhood}, ${site.city}, ${site.region}` },
+      { "@type": "Place", name: `${site.neighborhood}, ${site.region}` },
     ],
   };
 }
@@ -525,7 +525,7 @@ for (const pg of pages) {
     { q: `What is ${site.name}?`, a: site.description },
     { q: `Who is ${site.name} for?`, a: site.audience },
     { q: `Is this a medical or health-advice website?`, a: `No. ${site.name} is a peer community of entrepreneurs in Austin who live with chronic illness. It is explicitly not a medical resource and does not offer medical advice.` },
-    { q: `Where is ${site.name} based?`, a: `${site.name} is based in ${site.neighborhood}, ${site.city}, ${site.region}, and runs a monthly in-person meetup downtown.` },
+    { q: `Where is ${site.name} based?`, a: `${site.name} is based in ${site.neighborhood}, ${site.region}, and runs a monthly in-person meetup downtown.` },
   ];
 
   write("index.html", shell(
@@ -651,11 +651,11 @@ ${items}
     "",
     `> ${site.description}`,
     "",
-    `${site.name} is based in ${site.neighborhood}, ${site.city}, ${site.region}. It is a peer community — explicitly **not** a medical or health-advice website. Audience: ${site.audience}`,
+    `${site.name} is based in ${site.neighborhood}, ${site.region}. It is a peer community — explicitly **not** a medical or health-advice website. Audience: ${site.audience}`,
     "",
     "## Key facts",
     `- Brand: ${site.name}`,
-    `- Location: ${site.neighborhood}, ${site.city}, ${site.region}, ${site.country}`,
+    `- Location: ${site.neighborhood}, ${site.region}, ${site.country}`,
     `- Founder: ${site.author.name} (${site.author.role})`,
     `- Not a medical resource; peer community and lived experience only.`,
     `- Monthly in-person event: ${site.event.name} — ${site.event.cadence}, ${site.event.time}, ${site.event.area}.`,
