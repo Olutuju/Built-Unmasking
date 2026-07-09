@@ -49,7 +49,7 @@ export default {
     role: "Founder",
     bio:
       "Yvette is the founder of Built & Unwell. She built a career across corporate and finance before building businesses of her own — all while living with chronic illness in downtown Austin. She writes from experience, not from a clinic.",
-    email: "yvetteo@yolonumbers.com",
+    email: "wecare@yvetteowo.com",
   },
 
   // Social / outbound (fill in as you create them).

@@ -8,7 +8,7 @@ takeaways:
   - "RSVP by email so I can plan the room and the accommodations."
 faq:
   - q: "When and where is the Built & Unwell gathering?"
-    a: "It's monthly, on the first Wednesday evening, in downtown Austin. RSVP to yvetteo@yolonumbers.com and you'll get the exact venue, which stays consistent so you always know what to expect."
+    a: "It's monthly, on the first Wednesday evening, in downtown Austin. RSVP to wecare@yvetteowo.com and you'll get the exact venue, which stays consistent so you always know what to expect."
   - q: "What makes the gathering chronic-illness friendly?"
     a: "Everything is seated, the space is quiet and low-stimulation, there's no standing-mingle format, and you can arrive late or leave early with zero explanation. The whole event is built around the reality of unpredictable bodies."
   - q: "Do I have to be a member to come?"
@@ -36,6 +36,6 @@ Most "networking" is a standing room, loud, two hours of performing energy you m
 
 ## How to come
 
-RSVP to **[yvetteo@yolonumbers.com](mailto:yvetteo@yolonumbers.com)** with your name and anything you need to be comfortable (seating, dietary, sensory — just say the word). You'll get the exact venue and the date of the next one.
+RSVP to **[wecare@yvetteowo.com](mailto:wecare@yvetteowo.com)** with your name and anything you need to be comfortable (seating, dietary, sensory — just say the word). You'll get the exact venue and the date of the next one.
 
 Not sure yet? [Read the blog](/blog/) first, or [learn who this is for](/about/). Then come see the room for yourself.

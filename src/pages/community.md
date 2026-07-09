@@ -8,7 +8,7 @@ takeaways:
   - "Not in Austin? Say so — it tells me where to build next."
 faq:
   - q: "How do I join Built & Unwell?"
-    a: "Email yvetteo@yolonumbers.com with a short note about what you've built and what you're living with. It's an introduction, not an application to be graded — I just want the room to be people who actually fit."
+    a: "Email wecare@yvetteowo.com with a short note about what you've built and what you're living with. It's an introduction, not an application to be graded — I just want the room to be people who actually fit."
   - q: "Does it cost anything?"
     a: "Right now it's free while the community is forming in Austin. The blog and the monthly downtown gathering are open to people who fit."
   - q: "I'm not in Austin — can I still join?"
@@ -20,7 +20,7 @@ There's no big funnel here. This is a room I'm building on purpose, one person a
 ## The three ways in
 
 ### 1. Introduce yourself
-Email **[yvetteo@yolonumbers.com](mailto:yvetteo@yolonumbers.com)** with a few lines: what you've built, what you're managing health-wise (only as much as you want to share), and what you're hoping to find. That's it. It's an introduction between peers, not an application.
+Email **[wecare@yvetteowo.com](mailto:wecare@yvetteowo.com)** with a few lines: what you've built, what you're managing health-wise (only as much as you want to share), and what you're hoping to find. That's it. It's an introduction between peers, not an application.
 
 ### 2. Come to a gathering
 Meet the room in person at the monthly **[downtown Austin gathering](/events/)**. It's designed for real bodies — seated, quiet-friendly, and completely fine to leave early. You'll know within an evening whether these are your people.
@@ -36,4 +36,4 @@ Read the [blog](/blog/). If a post says the thing you've never heard said out lo
 
 > This isn't a support group and it isn't a mastermind. It's the peer group I couldn't find in Austin, so I'm making it.
 
-Ready? [Email me](mailto:yvetteo@yolonumbers.com) or [see the next gathering](/events/).
+Ready? [Email me](mailto:wecare@yvetteowo.com) or [see the next gathering](/events/).
