@@ -29,11 +29,11 @@ export default {
   tagline: "A network for people who built something — and live with chronic illness.",
   // The one-line "what is this" used in meta descriptions and AI answers.
   description:
-    "Built & Unwell is a network for accomplished founders and operators in Austin, Texas — many of them women out of corporate, consulting, and finance — who build businesses while living with chronic illness. Honest writing, real connection, and zero medical-establishment gatekeeping.",
+    "Built & Unwell is a network for business owners, founders, and company executives in Austin, Texas — many of them women out of corporate, consulting, and finance — who build businesses while living with chronic illness. Honest writing, real connection, and zero medical-establishment gatekeeping.",
 
   // Who this is for — used on the homepage and in structured data.
   audience:
-    "Experienced founders and ex-operators in Austin — former top-50 corporate leaders, strategy consultants, and finance professionals, many of them women — who are building businesses while managing chronic illness.",
+    "Business owners, founders, and company executives in Austin — former top-50 corporate leaders, strategy consultants, and finance professionals, many of them women — who are building businesses while managing chronic illness.",
 
   // Place focus (every post centers Austin; downtown Austin is the home base).
   city: "Austin",
@@ -66,7 +66,7 @@ export default {
     time: "6:00–8:00 PM CT",
     area: "Downtown Austin",
     blurb:
-      "A low-spoons evening for accomplished founders living with chronic illness. Seated, quiet-friendly, no pressure to stay the whole time.",
+      "A low-spoons evening for business owners, founders, and company executives living with chronic illness. Seated, quiet-friendly, no pressure to stay the whole time.",
   },
 
   // Build output folder.

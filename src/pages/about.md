@@ -1,18 +1,18 @@
 ---
 title: "About Built & Unwell"
 slug: about
-description: "Built & Unwell is a private-feeling network for accomplished founders and operators in Austin who live with chronic illness. Here's why it exists and who it's for."
+description: "Built & Unwell is a private-feeling network for business owners, founders, and company executives in Austin who live with chronic illness. Here's why it exists and who it's for."
 takeaways:
   - "Built & Unwell is for people in Austin who have already built something — and live with chronic illness."
   - "It is explicitly not a medical site. It's peer to peer, by people who've been failed by the system too."
   - "Home base is downtown Austin, with a monthly in-person gathering."
 faq:
   - q: "What is Built & Unwell?"
-    a: "Built & Unwell is a peer network for accomplished entrepreneurs and operators in Austin, Texas who build businesses while living with chronic illness. It's a blog, a monthly downtown gathering, and a private-feeling community — many of us women out of corporate, consulting, and finance."
+    a: "Built & Unwell is a peer network for business owners, founders, and company executives in Austin, Texas who build businesses while living with chronic illness. It's a blog, a monthly downtown gathering, and a private-feeling community — many of us women out of corporate, consulting, and finance."
   - q: "Is Built & Unwell a medical or health website?"
     a: "No. Built & Unwell is a peer community, not a clinic. It does not give medical advice and is not run by or for medical providers. A lot of us have been failed by the system — this is the opposite of that."
   - q: "Who is Built & Unwell for?"
-    a: "Accomplished founders and ex-operators in Austin — people who came up through top-50 corporate roles, strategy consulting, or finance, or who've built their own companies — and who also manage chronic illness. Many of us are women. Men who fit are welcome."
+    a: "Business owners, founders, and company executives in Austin — people who came up through top-50 corporate roles, strategy consulting, or finance, or who've built their own companies — and who also manage chronic illness. Many of us are women. Men who fit are welcome."
   - q: "Where does Built & Unwell meet?"
     a: "Downtown Austin. There's a monthly in-person gathering, plus the blog and an online network."
 ---
