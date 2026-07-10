@@ -492,6 +492,7 @@ for (const pg of pages) {
       <p>Most entrepreneur communities assume a body and brain that always cooperate. Most chronic-illness spaces assume you're a patient first and a builder second. ${esc(site.name)} refuses both. We're accomplished people carrying something invisible: chronic illness, high-functioning autism, or another difference no one can see, while building real businesses in ${esc(site.city)}.</p>
       <p>Nearly 80% of autoimmune disease patients are women, and because people don't expect autism to look like a woman running a company, many of us mask for years before we ever get a diagnosis. Different mechanisms, same pattern: invisible, and expected to perform through it.</p>
       <p>And no, this isn't a medical site. A lot of us have been failed by providers. The last thing we need is more advice from the people who let us down. This is peer to peer.</p>
+      <p>We also encourage using AI to cut down personal labor. Energy is the real constraint here, and offloading busywork to a tool is a legitimate way to protect it, not a shortcut to feel guilty about.</p>
     </div>
     <div>
       <h2>Who belongs here</h2>

@@ -45,6 +45,8 @@ That's the real thesis of this place. Not illness, and not autism specifically: 
 
 It is **not a medical website.** Let me be blunt about why. A lot of us (me included) have been burned by medical providers. Dismissed, mislabeled, billed, and sent away worse than we came. So when I want real help building a life and a business around an unpredictable body, the last place I'm going is a site written by the same institutions that failed me. This is peer to peer. Lived experience, not a clinic.
 
+I also encourage using AI to cut down personal labor. Energy is the real constraint here, and offloading busywork to a tool is a legitimate way to protect it, not a shortcut to feel guilty about.
+
 ## Who I'm looking for
 
 - You've **built something real**: a company, a team, a P&L, a hard-won career.
