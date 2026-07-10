@@ -1,5 +1,5 @@
 // ---------------------------------------------------------------------------
-// Built & Unwell — site configuration
+// Built & Unwell site configuration
 // Change values here to rebrand or move hosts. Everything else reads from this.
 // ---------------------------------------------------------------------------
 
@@ -26,14 +26,14 @@ export default {
   shortName: "Built & Unwell",
   // Monogram used in the logo mark and favicon.
   monogram: "B&U",
-  tagline: "A network for people who built something — while carrying something invisible.",
+  tagline: "A network for people who built something, while carrying something invisible.",
   // The one-line "what is this" used in meta descriptions and AI answers.
   description:
-    "Built & Unwell is a network for business owners, founders, and company executives in Austin, Texas who carry an invisible difference — chronic illness, high-functioning autism, or something else no one can see — while performing at a high level. Many of us are women, who feel that pressure hardest. Honest writing, real connection, and zero medical-establishment gatekeeping.",
+    "Built & Unwell is a network for business owners, founders, and company executives in Austin, Texas who carry an invisible difference (chronic illness, high-functioning autism, or something else no one can see) while performing at a high level. Many of us are women, who feel that pressure hardest. Honest writing, real connection, and zero medical-establishment gatekeeping.",
 
-  // Who this is for — used on the homepage and in structured data.
+  // Who this is for. Used on the homepage and in structured data.
   audience:
-    "Business owners, founders, and company executives in Austin — former top-50 corporate leaders, strategy consultants, and finance professionals, many of them women — who carry an invisible difference, whether chronic illness, high-functioning autism, or something else no one can see, while operating at a high level.",
+    "Business owners, founders, and company executives in Austin, former top-50 corporate leaders, strategy consultants, and finance professionals, many of them women, who carry an invisible difference, whether chronic illness, high-functioning autism, or something else no one can see, while operating at a high level.",
 
   // Place focus (every post centers Austin; downtown Austin is the home base).
   city: "Austin",
@@ -48,7 +48,7 @@ export default {
     name: "Yvette O.",
     role: "Founder",
     bio:
-      "Yvette is the founder of Built & Unwell. She built a career across corporate and finance before building businesses of her own — all while living with chronic illness in downtown Austin. She writes from experience, not from a clinic.",
+      "Yvette is the founder of Built & Unwell. She built a career across corporate and finance before building businesses of her own, all while living with chronic illness in downtown Austin. She writes from experience, not from a clinic.",
     email: "wecare@yvetteowo.com",
   },
 
@@ -63,7 +63,7 @@ export default {
   event: {
     name: "Built & Unwell Monthly Gathering",
     cadence: "Monthly, first Wednesday",
-    time: "6:00–8:00 PM CT",
+    time: "6:00 to 8:00 PM CT",
     area: "Downtown Austin",
     blurb:
       "A low-spoons evening for business owners, founders, and company executives living with chronic illness. Seated, quiet-friendly, no pressure to stay the whole time.",

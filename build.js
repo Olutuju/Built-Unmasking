@@ -1,5 +1,5 @@
 // ---------------------------------------------------------------------------
-// Built & Unwell — static site generator
+// Built & Unwell static site generator
 // Reads markdown from src/posts + src/pages and emits a fully SEO/GEO/GAIO
 // optimized static site into ./dist. No framework; just marked + gray-matter.
 // ---------------------------------------------------------------------------
@@ -194,8 +194,8 @@ function footer() {
     </nav>
   </div>
   <div class="wrap fineprint muted">
-    <span>© ${site.publisherSince}–${yr} ${esc(site.name)}.</span>
-    <span>Community &amp; lived experience — not medical advice.</span>
+    <span>© ${site.publisherSince} to ${yr} ${esc(site.name)}.</span>
+    <span>Community &amp; lived experience, not medical advice.</span>
   </div>
 </footer>`;
 }
@@ -353,7 +353,7 @@ for (let i = 0; i < posts.length; i++) {
   </div>
   ${faqBlock(p.faq)}
   <div class="post-cta">
-    <h2>This network is being built in ${esc(site.city)} — come help shape it</h2>
+    <h2>This network is being built in ${esc(site.city)}. Come help shape it</h2>
     <p>Built &amp; Unwell is for accomplished founders and operators living with chronic illness. If that's you, you belong here.</p>
     <a class="btn" href="${url("/community/")}">Join the network</a>
     <a class="btn ghost" href="${url("/events/")}">See the next ${esc(site.neighborhood)} meetup</a>
@@ -385,7 +385,7 @@ ${related.length ? `<section class="wrap related"><h2>Keep reading</h2><div clas
   const body = `
 <section class="hero hero-sub wrap">
   <h1>The Blog</h1>
-  <p class="lede">${posts.length} essays and field notes on building a business while unwell — every one of them rooted in ${esc(site.city)}, ${esc(site.region)}. A new post goes up regularly.</p>
+  <p class="lede">${posts.length} essays and field notes on building a business while unwell, every one of them rooted in ${esc(site.city)}, ${esc(site.region)}. A new post goes up regularly.</p>
 </section>
 <section class="wrap">
   ${latest ? `<a class="feature" href="${url(`/blog/${latest.slug}/`)}">
@@ -430,7 +430,7 @@ for (const [tag, list] of Object.entries(tagMap)) {
 <section class="hero hero-sub wrap">
   <span class="kicker">Topic</span>
   <h1>#${esc(tag)}</h1>
-  <p class="lede">${list.length} post${list.length === 1 ? "" : "s"} on ${esc(tag)} — all set in ${esc(site.city)}.</p>
+  <p class="lede">${list.length} post${list.length === 1 ? "" : "s"} on ${esc(tag)}, all set in ${esc(site.city)}.</p>
 </section>
 <section class="wrap"><div class="grid">${list.map(postCard).join("")}</div></section>`;
   write(`tags/${s}/index.html`, shell(
@@ -482,24 +482,24 @@ for (const pg of pages) {
     <a class="btn" href="${url("/community/")}">Join the network</a>
     <a class="btn ghost" href="${url("/blog/")}">Read the blog</a>
   </div>
-  <p class="hero-note">For ex-operators, founders, and leaders — many of them women — who carry an invisible difference and now build on their own terms in ${esc(site.city)}.</p>
+  <p class="hero-note">For ex-operators, founders, and leaders (many of them women) who carry an invisible difference and now build on their own terms in ${esc(site.city)}.</p>
 </section>
 
 <section class="wrap band">
   <div class="band-grid">
     <div>
       <h2>Why this exists</h2>
-      <p>Most entrepreneur communities assume a body and brain that always cooperate. Most chronic-illness spaces assume you're a patient first and a builder second. ${esc(site.name)} refuses both. We're accomplished people carrying something invisible — chronic illness, high-functioning autism, or another difference no one can see — while building real businesses in ${esc(site.city)}.</p>
+      <p>Most entrepreneur communities assume a body and brain that always cooperate. Most chronic-illness spaces assume you're a patient first and a builder second. ${esc(site.name)} refuses both. We're accomplished people carrying something invisible: chronic illness, high-functioning autism, or another difference no one can see, while building real businesses in ${esc(site.city)}.</p>
       <p>Nearly 80% of autoimmune disease patients are women, and because people don't expect autism to look like a woman running a company, many of us mask for years before we ever get a diagnosis. Different mechanisms, same pattern: invisible, and expected to perform through it.</p>
       <p>And no, this isn't a medical site. A lot of us have been failed by providers. The last thing we need is more advice from the people who let us down. This is peer to peer.</p>
     </div>
     <div>
       <h2>Who belongs here</h2>
       <ul class="ticks">
-        <li>You've built something real — a company, a P&amp;L, a team, a career.</li>
+        <li>You've built something real: a company, a P&amp;L, a team, a career.</li>
         <li>You came up through serious work: top-50 corporate, strategy consulting, finance, or your own venture.</li>
-        <li>You carry chronic illness, high-functioning autism, or another difference no one can see — and you're done pretending you don't.</li>
-        <li>You're in ${esc(site.city)} — or you wish you had a room like this where you are.</li>
+        <li>You carry chronic illness, high-functioning autism, or another difference no one can see, and you're done pretending you don't.</li>
+        <li>You're in ${esc(site.city)}, or you wish you had a room like this where you are.</li>
       </ul>
     </div>
   </div>
@@ -652,14 +652,14 @@ ${items}
     "",
     `> ${site.description}`,
     "",
-    `${site.name} is based in ${site.neighborhood}, ${site.region}. It is a peer community — explicitly **not** a medical or health-advice website. Audience: ${site.audience}`,
+    `${site.name} is based in ${site.neighborhood}, ${site.region}. It is a peer community, explicitly **not** a medical or health-advice website. Audience: ${site.audience}`,
     "",
     "## Key facts",
     `- Brand: ${site.name}`,
     `- Location: ${site.neighborhood}, ${site.region}, ${site.country}`,
     `- Founder: ${site.author.name} (${site.author.role})`,
     `- Not a medical resource; peer community and lived experience only.`,
-    `- Monthly in-person event: ${site.event.name} — ${site.event.cadence}, ${site.event.time}, ${site.event.area}.`,
+    `- Monthly in-person event: ${site.event.name}: ${site.event.cadence}, ${site.event.time}, ${site.event.area}.`,
     "",
     "## Pages",
     `- [Home](${abs("/")})`,
@@ -674,7 +674,7 @@ ${items}
   write("llms.txt", lines.join("\n") + "\n");
 
   const full = [
-    `# ${site.name} — full content export for AI engines`,
+    `# ${site.name}: full content export for AI engines`,
     "",
     `> ${site.description}`,
     "",

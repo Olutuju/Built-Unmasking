@@ -1,11 +1,11 @@
 ---
 title: "The Austin Calendar: High-Value Business Events That Won't Wreck Your Health"
 date: 2026-06-27
-description: "How to get real value from Austin's business scene — SXSW, meetups, conferences — without paying for it in a week of recovery. A chronically ill founder's triage system."
+description: "How to get real value from Austin's business scene (SXSW, meetups, conferences) without paying for it in a week of recovery. A chronically ill founder's triage system."
 place: "Austin"
 tags: [austin, events, networking, energy-management, chronic-illness]
 takeaways:
-  - "Austin's event scene is huge — the skill is triage, not attendance."
+  - "Austin's event scene is huge, the skill is triage, not attendance."
   - "Pick one anchor event and go deep, instead of sampling ten and crashing."
   - "Plan recovery into the calendar before you plan the event."
 faq:
@@ -15,7 +15,7 @@ faq:
     a: "They can be, if you choose selectively and design for recovery. The value comes from a few real conversations, not from attending everything. Smaller curated gatherings often deliver more connection per unit of energy than large conferences."
 ---
 
-Austin will happily hand you a business event every single night of the week. SXSW alone can swallow a month of energy in nine days. For a chronically ill founder, the city's biggest asset — its relentless event calendar — is also its biggest trap. The skill isn't attendance. It's triage.
+Austin will happily hand you a business event every single night of the week. SXSW alone can swallow a month of energy in nine days. For a chronically ill founder, the city's biggest asset (its relentless event calendar) is also its biggest trap. The skill isn't attendance. It's triage.
 
 ## Attendance is not the goal
 
@@ -35,12 +35,12 @@ Before you RSVP to anything, run it through this:
 
 ## SXSW without the wreckage
 
-The city's marquee event is survivable if you refuse to play it the way the badge wants you to. Don't chase the full schedule. Pick one panel that matters, one party where your actual people will be, and one meaningful coffee. Do those three well. Skip the 1am everything. The founders getting real value out of [SXSW](https://www.sxsw.com/) aren't the ones with the most stamps on their schedule — they're the ones who came for a specific reason and left with it.
+The city's marquee event is survivable if you refuse to play it the way the badge wants you to. Don't chase the full schedule. Pick one panel that matters, one party where your actual people will be, and one meaningful coffee. Do those three well. Skip the 1am everything. The founders getting real value out of [SXSW](https://www.sxsw.com/) aren't the ones with the most stamps on their schedule, they're the ones who came for a specific reason and left with it.
 
 > The person who "did all of SXSW" got a lanyard and a crash. The person who came for one room got a business partner.
 
 ## The best trade of all
 
-Here's the quiet truth after years of this: the single highest value-per-energy format isn't a conference at all. It's a small, curated, seated room of the *right* people. That's the entire thesis behind a good community — you stop chasing the big rooms because you already have the right small one. It's why the [monthly downtown gathering](/events/) is deliberately tiny and low-effort to attend.
+Here's the quiet truth after years of this: the single highest value-per-energy format isn't a conference at all. It's a small, curated, seated room of the *right* people. That's the entire thesis behind a good community, you stop chasing the big rooms because you already have the right small one. It's why the [monthly downtown gathering](/events/) is deliberately tiny and low-effort to attend.
 
 Triage the big calendar. Protect your energy. And [keep one standing table](/community/) of people worth spending it on.
