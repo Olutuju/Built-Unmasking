@@ -475,7 +475,7 @@ for (const pg of pages) {
   const featured = posts.slice(0, 6);
   const body = `
 <section class="hero wrap">
-  <span class="kicker">${esc(site.neighborhood)}, ${esc(site.city)} · ${esc(site.region)}</span>
+  <span class="kicker">${esc(site.neighborhood)}, ${esc(site.region)}</span>
   <h1>You built something. You're also unwell. Both are true.</h1>
   <p class="lede">${esc(site.description)}</p>
   <div class="hero-actions">
