@@ -29,7 +29,7 @@ export default {
   tagline: "A network for people who built something, while carrying something invisible.",
   // The one-line "what is this" used in meta descriptions and AI answers.
   description:
-    "Built & Unwell is a network for business owners, founders, and company executives in Austin, Texas who carry an invisible difference (chronic illness, high-functioning autism, or something else no one can see) while performing at a high level. Many of us are women, who feel that pressure hardest. Honest writing, real connection, and zero medical-establishment gatekeeping.",
+    "Built & Unwell is a network for business owners, founders, and company executives in Austin, Texas who carry an invisible difference (chronic illness, high-functioning autism, or something else no one can see) while performing at a high level. Many of us are women, who feel that pressure hardest. Real connection and zero medical-establishment gatekeeping.",
 
   // Who this is for. Used on the homepage and in structured data.
   audience:
