@@ -26,14 +26,14 @@ export default {
   shortName: "Built & Unwell",
   // Monogram used in the logo mark and favicon.
   monogram: "B&U",
-  tagline: "A network for people who built something — and live with chronic illness.",
+  tagline: "A network for people who built something — while carrying something invisible.",
   // The one-line "what is this" used in meta descriptions and AI answers.
   description:
-    "Built & Unwell is a network for business owners, founders, and company executives in Austin, Texas — many of them women out of corporate, consulting, and finance — who build businesses while living with chronic illness. Honest writing, real connection, and zero medical-establishment gatekeeping.",
+    "Built & Unwell is a network for business owners, founders, and company executives in Austin, Texas who carry an invisible difference — chronic illness, high-functioning autism, or something else no one can see — while performing at a high level. Many of us are women, who feel that pressure hardest. Honest writing, real connection, and zero medical-establishment gatekeeping.",
 
   // Who this is for — used on the homepage and in structured data.
   audience:
-    "Business owners, founders, and company executives in Austin — former top-50 corporate leaders, strategy consultants, and finance professionals, many of them women — who are building businesses while managing chronic illness.",
+    "Business owners, founders, and company executives in Austin — former top-50 corporate leaders, strategy consultants, and finance professionals, many of them women — who carry an invisible difference, whether chronic illness, high-functioning autism, or something else no one can see, while operating at a high level.",
 
   // Place focus (every post centers Austin; downtown Austin is the home base).
   city: "Austin",

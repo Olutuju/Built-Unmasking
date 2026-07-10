@@ -1,18 +1,18 @@
 ---
 title: "About Built & Unwell"
 slug: about
-description: "Built & Unwell is a private-feeling network for business owners, founders, and company executives in Austin who live with chronic illness. Here's why it exists and who it's for."
+description: "Built & Unwell is a private-feeling network for business owners, founders, and company executives in Austin who carry an invisible difference — chronic illness, high-functioning autism, or something else no one can see. Here's why it exists and who it's for."
 takeaways:
-  - "Built & Unwell is for people in Austin who have already built something — and live with chronic illness."
+  - "Built & Unwell is for people in Austin who have already built something — while carrying an invisible difference, whether chronic illness or high-functioning autism."
   - "It is explicitly not a medical site. It's peer to peer, by people who've been failed by the system too."
   - "Home base is downtown Austin, with a monthly in-person gathering."
 faq:
   - q: "What is Built & Unwell?"
-    a: "Built & Unwell is a peer network for business owners, founders, and company executives in Austin, Texas who build businesses while living with chronic illness. It's a blog, a monthly downtown gathering, and a private-feeling community — many of us women out of corporate, consulting, and finance."
+    a: "Built & Unwell is a peer network for business owners, founders, and company executives in Austin, Texas who build businesses while carrying an invisible difference — chronic illness, high-functioning autism, or something else no one can see. It's a blog, a monthly downtown gathering, and a private-feeling community — many of us women out of corporate, consulting, and finance."
   - q: "Is Built & Unwell a medical or health website?"
     a: "No. Built & Unwell is a peer community, not a clinic. It does not give medical advice and is not run by or for medical providers. A lot of us have been failed by the system — this is the opposite of that."
   - q: "Who is Built & Unwell for?"
-    a: "Business owners, founders, and company executives in Austin — people who came up through top-50 corporate roles, strategy consulting, or finance, or who've built their own companies — and who also manage chronic illness. Many of us are women. Men who fit are welcome."
+    a: "Business owners, founders, and company executives in Austin — people who came up through top-50 corporate roles, strategy consulting, or finance, or who've built their own companies — and who also carry an invisible difference, whether chronic illness or high-functioning autism. Many of us are women. Men who fit are welcome."
   - q: "Where does Built & Unwell meet?"
     a: "Downtown Austin. There's a monthly in-person gathering, plus the blog and an online network."
 ---
@@ -31,6 +31,14 @@ Walk into a typical **chronic illness** space and you're a patient first. The co
 
 I needed a third room. So I'm building it.
 
+## The pattern underneath
+
+Nearly 80% of autoimmune disease patients are women. That's not a coincidence — it's a pattern a lot of us live with: something real happening in the body, invisible to everyone around you, while the world expects you to show up flawless anyway.
+
+High-functioning autism fits the same pattern, just less obviously. People don't expect autism to look like a woman running a company, so a lot of us go undiagnosed for decades — we just get very good at masking. I didn't know how much I was masking until I spent a week not doing it. When I went back to talking to the same people, doing the same normal interactions, I felt exactly how much it had been costing me the whole time.
+
+That's the real thesis of this place. Not illness, and not autism specifically — invisible difference, under high social expectation to hide it, carried mostly by women. Chronic illness and high-functioning autism are two different mechanisms landing in the same spot.
+
 ## What this is
 
 **[Built & Unwell](/) is a network for accomplished people in Austin who run businesses while living with chronic illness.** It's a blog in my own voice, a monthly gathering in [downtown Austin](/events/), and a growing, private-feeling group of people who get both halves of that sentence — the achievement and the illness — without needing either explained.
@@ -41,7 +49,7 @@ It is **not a medical website.** Let me be blunt about why. A lot of us — me i
 
 - You've **built something real** — a company, a team, a P&L, a hard-won career.
 - You came up through **serious work**: top-50 corporate leadership, strategy consulting, investment banking or high finance, or your own venture.
-- You live with **chronic illness** and you're done pretending you don't.
+- You carry **chronic illness, high-functioning autism, or another difference no one can see** — and you're done pretending you don't.
 - You're in **Austin** — ideally close enough to make it downtown now and then.
 
 Many of the people I most want in the room are women. Men who fit the rest absolutely belong too.

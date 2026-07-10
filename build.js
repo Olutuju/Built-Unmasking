@@ -482,14 +482,15 @@ for (const pg of pages) {
     <a class="btn" href="${url("/community/")}">Join the network</a>
     <a class="btn ghost" href="${url("/blog/")}">Read the blog</a>
   </div>
-  <p class="hero-note">For ex-operators, founders, and leaders — many of them women — who came up through corporate, consulting, and finance, and now build on their own terms in ${esc(site.city)}.</p>
+  <p class="hero-note">For ex-operators, founders, and leaders — many of them women — who carry an invisible difference and now build on their own terms in ${esc(site.city)}.</p>
 </section>
 
 <section class="wrap band">
   <div class="band-grid">
     <div>
       <h2>Why this exists</h2>
-      <p>Most entrepreneur communities assume a body that always cooperates. Most chronic-illness spaces assume you're a patient first and a builder second. ${esc(site.name)} refuses both. We're accomplished people — who happen to be unwell — building real businesses in ${esc(site.city)}.</p>
+      <p>Most entrepreneur communities assume a body and brain that always cooperate. Most chronic-illness spaces assume you're a patient first and a builder second. ${esc(site.name)} refuses both. We're accomplished people carrying something invisible — chronic illness, high-functioning autism, or another difference no one can see — while building real businesses in ${esc(site.city)}.</p>
+      <p>Nearly 80% of autoimmune disease patients are women, and because people don't expect autism to look like a woman running a company, many of us mask for years before we ever get a diagnosis. Different mechanisms, same pattern: invisible, and expected to perform through it.</p>
       <p>And no, this isn't a medical site. A lot of us have been failed by providers. The last thing we need is more advice from the people who let us down. This is peer to peer.</p>
     </div>
     <div>
@@ -497,7 +498,7 @@ for (const pg of pages) {
       <ul class="ticks">
         <li>You've built something real — a company, a P&amp;L, a team, a career.</li>
         <li>You came up through serious work: top-50 corporate, strategy consulting, finance, or your own venture.</li>
-        <li>You live with chronic illness and you're done pretending you don't.</li>
+        <li>You carry chronic illness, high-functioning autism, or another difference no one can see — and you're done pretending you don't.</li>
         <li>You're in ${esc(site.city)} — or you wish you had a room like this where you are.</li>
       </ul>
     </div>
