@@ -1,13 +1,13 @@
 ---
-title: "Join Built & Unwell"
+title: "Join Built & Unseen"
 slug: community
-description: "How to join Built & Unwell, a private-feeling network for accomplished founders in Austin living with chronic illness. Show up to the monthly gathering, no application, no email."
+description: "How to join Built & Unseen, a private-feeling network for accomplished founders in Austin living with chronic illness. Show up to the monthly gathering, no application, no email."
 takeaways:
   - "There's no application and no email. Showing up to the gathering is how you join."
   - "Nobody in the room needs your illness or your business explained to them."
   - "The network only works if people are willing to be honest, not polished."
 faq:
-  - q: "How do I join Built & Unwell?"
+  - q: "How do I join Built & Unseen?"
     a: "Come to the monthly downtown gathering. No application, no RSVP, and nothing to explain beforehand. Showing up is the whole process."
   - q: "Does it cost anything?"
     a: "Right now it's free while the community is forming in Austin. The blog and the monthly downtown gathering are open to people who fit."

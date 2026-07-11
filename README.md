@@ -1,4 +1,4 @@
-# Built & Unwell
+# Built & Unseen
 
 A peer network for business owners, founders, and company executives in Austin who carry an invisible difference — chronic illness, high-functioning autism, or something else no one can see. Based in **downtown Austin, Texas**.
 
@@ -99,4 +99,4 @@ dist/                   # build output (gitignored)
 
 ---
 
-*Built & Unwell — community and lived experience. Not medical advice.*
+*Built & Unseen — community and lived experience. Not medical advice.*

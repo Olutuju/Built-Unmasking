@@ -1,13 +1,13 @@
 ---
 title: "Monthly Gathering in Downtown Austin"
 slug: events
-description: "Built & Unwell hosts a monthly in-person gathering in downtown Austin for accomplished founders living with chronic illness. No RSVP, just show up and talk to people who get it."
+description: "Built & Unseen hosts a monthly in-person gathering in downtown Austin for accomplished founders living with chronic illness. No RSVP, just show up and talk to people who get it."
 takeaways:
   - "Monthly, first Wednesday, evening, in downtown Austin. No RSVP, just show up."
   - "Designed low-spoons: seated, quiet-friendly, no pressure to stay the whole time."
   - "This only works if people are honest. Come ready to talk, not perform."
 faq:
-  - q: "When and where is the Built & Unwell gathering?"
+  - q: "When and where is the Built & Unseen gathering?"
     a: "It's monthly, on the first Wednesday evening, in downtown Austin. Same venue every time, so once you know it, you know it."
   - q: "Do I need to RSVP?"
     a: "No. Just show up. There's no list to get on and nobody to email first."
@@ -17,11 +17,11 @@ faq:
     a: "There's no membership to apply for. Showing up is joining. Come, sit down with people who already get it, and see if it's for you."
 ---
 
-Community is a local thing before it's anything else. So the heart of Built & Unwell isn't a Slack channel or an inbox. It's a table in **downtown Austin**, once a month, with people who get it, no explanation required.
+Community is a local thing before it's anything else. So the heart of Built & Unseen isn't a Slack channel or an inbox. It's a table in **downtown Austin**, once a month, with people who get it, no explanation required.
 
 ## The details
 
-- **What:** Built & Unwell Monthly Gathering
+- **What:** Built & Unseen Monthly Gathering
 - **Who:** Accomplished founders and operators living with chronic illness (and the chronically-ill-curious who fit the room). Many of us are women; men who fit are welcome.
 - **When:** Monthly, **first Wednesday, 6:00 to 8:00 PM CT**
 - **Where:** [venue name and address here, same venue every month]

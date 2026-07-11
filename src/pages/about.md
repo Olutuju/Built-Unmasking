@@ -1,28 +1,28 @@
 ---
-title: "About Built & Unwell"
+title: "About Built & Unseen"
 slug: about
-description: "Built & Unwell is a private-feeling network for business owners, founders, and company executives in Austin who carry an invisible difference (chronic illness, high-functioning autism, or something else no one can see). Here's why it exists and who it's for."
+description: "Built & Unseen is a private-feeling network for business owners, founders, and company executives in Austin who carry an invisible difference (chronic illness, high-functioning autism, or something else no one can see). Here's why it exists and who it's for."
 takeaways:
-  - "Built & Unwell is for people in Austin who have already built something, while carrying an invisible difference, whether chronic illness or high-functioning autism."
+  - "Built & Unseen is for people in Austin who have already built something, while carrying an invisible difference, whether chronic illness or high-functioning autism."
   - "It is explicitly not a medical site. It's peer to peer, by people who've been failed by the system too."
   - "Home base is downtown Austin, with a monthly in-person gathering."
   - "Energy, not time, is the real constraint, which is why AI agents run parts of both my health tracking and my business."
 faq:
-  - q: "What is Built & Unwell?"
-    a: "Built & Unwell is a peer network for business owners, founders, and company executives in Austin, Texas who build businesses while carrying an invisible difference (chronic illness, high-functioning autism, or something else no one can see). It's a blog, a monthly downtown gathering, and a private-feeling community, many of us women out of corporate, consulting, and finance."
-  - q: "Is Built & Unwell a medical or health website?"
-    a: "No. Built & Unwell is a peer community, not a clinic. It does not give medical advice and is not run by or for medical providers. A lot of us have been failed by the system: this is the opposite of that."
-  - q: "Who is Built & Unwell for?"
+  - q: "What is Built & Unseen?"
+    a: "Built & Unseen is a peer network for business owners, founders, and company executives in Austin, Texas who build businesses while carrying an invisible difference (chronic illness, high-functioning autism, or something else no one can see). It's a blog, a monthly downtown gathering, and a private-feeling community, many of us women out of corporate, consulting, and finance."
+  - q: "Is Built & Unseen a medical or health website?"
+    a: "No. Built & Unseen is a peer community, not a clinic. It does not give medical advice and is not run by or for medical providers. A lot of us have been failed by the system: this is the opposite of that."
+  - q: "Who is Built & Unseen for?"
     a: "Business owners, founders, and company executives in Austin, people who came up through top-50 corporate roles, strategy consulting, or finance, or who've built their own companies, and who also carry an invisible difference, whether chronic illness or high-functioning autism. Many of us are women. Men who fit are welcome."
-  - q: "Where does Built & Unwell meet?"
+  - q: "Where does Built & Unseen meet?"
     a: "Downtown Austin. There's a monthly in-person gathering, plus the blog and an online network."
 ---
 
 I'll say the true thing first, because that's the whole point of this place: I've built things I'm proud of, and I'm also chronically ill. Both are true at once, every single day, and almost no room I walk into is built for both.
 
-## Why "Built & Unwell"
+## Why "Built & Unseen"
 
-The name is the whole thesis in two words. **Built**: because everyone here has already done the hard thing: built a company, a career, a P&L, a team. **Unwell**: because we say the quiet part out loud instead of performing "fine." Most spaces make you pick one of those words to lead with. This one refuses. Both are true, at the same time, and you don't have to soften either to be in this room.
+The name is the whole thesis in two words. **Built**: because everyone here has already done the hard thing: built a company, a career, a P&L, a team. **Unseen**: because what you're carrying, chronic illness, high-functioning autism, or something else, doesn't show up in a headshot or a board deck. Not "unwell." Autism isn't an illness, and I'm not going to name a room after a word that implies it is. Unseen is just accurate: it's hard to see, on either side of that word, and most rooms make you explain it before they'll talk to you about anything else. This one refuses.
 
 ## The two rooms that don't fit
 
@@ -42,7 +42,7 @@ That's the real thesis of this place. Not illness, and not autism specifically: 
 
 ## What this is
 
-**[Built & Unwell](/) is a network for accomplished people in Austin who run businesses while living with chronic illness.** The center of it is a monthly gathering in [downtown Austin](/events/), a table where people say the real thing instead of the polished one. The blog is here too, in my own voice, but the room is where it actually happens: people who get both halves of that sentence (the achievement and the illness) without needing either explained.
+**[Built & Unseen](/) is a network for accomplished people in Austin who run businesses while living with chronic illness.** The center of it is a monthly gathering in [downtown Austin](/events/), a table where people say the real thing instead of the polished one. The blog is here too, in my own voice, but the room is where it actually happens: people who get both halves of that sentence (the achievement and the illness) without needing either explained.
 
 It is **not a medical website.** Let me be blunt about why. A lot of us (me included) have been burned by medical providers. Dismissed, mislabeled, billed, and sent away worse than we came. So when I want real help building a life and a business around an unpredictable body, the last place I'm going is a site written by the same institutions that failed me. This is peer to peer. Lived experience, not a clinic.
 
