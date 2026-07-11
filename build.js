@@ -162,7 +162,13 @@ function nav(active = "") {
   return `<header class="site-header">
   <div class="wrap">
     <a class="brand" href="${url("/")}">
-      <span class="brand-mark">${esc(site.monogram)}</span>
+      <span class="brand-mark" role="img" aria-label="${esc(site.name)} mark">
+        <svg viewBox="0 0 64 64" width="40" height="40" aria-hidden="true">
+          <rect width="64" height="64" rx="14" fill="#c1502e"/>
+          <circle cx="29" cy="32" r="16" fill="#2a160c"/>
+          <circle cx="38" cy="25" r="14" fill="#c1502e"/>
+        </svg>
+      </span>
       <span class="brand-name">${site.name}</span>
     </a>
     <nav class="site-nav" aria-label="Primary">

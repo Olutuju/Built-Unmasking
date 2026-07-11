@@ -43,7 +43,8 @@ a:hover { color: var(--accent-2); }
 .site-header { border-bottom: 1px solid var(--line); background: rgba(251,250,248,.9); backdrop-filter: blur(8px); position: sticky; top: 0; z-index: 50; }
 .site-header .wrap { display: flex; align-items: center; justify-content: space-between; gap: 16px; min-height: 64px; flex-wrap: wrap; }
 .brand { display: flex; align-items: center; gap: 10px; font-weight: 700; text-decoration: none; color: var(--ink); }
-.brand-mark { display: inline-grid; place-items: center; width: 40px; height: 40px; flex: none; background: var(--accent); color: #fff; border-radius: 9px; font-family: var(--display); font-size: 15px; font-weight: 700; letter-spacing: -.02em; white-space: nowrap; }
+.brand-mark { display: inline-grid; place-items: center; width: 40px; height: 40px; flex: none; border-radius: 9px; overflow: hidden; }
+.brand-mark svg { display: block; }
 .brand-name { font-family: var(--display); font-size: 19px; letter-spacing: .005em; }
 .site-nav { display: flex; gap: 4px; flex-wrap: wrap; }
 .site-nav a { color: var(--ink-soft); text-decoration: none; padding: 8px 12px; border-radius: 8px; font-size: 15px; font-weight: 500; }
