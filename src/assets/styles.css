@@ -8,7 +8,7 @@
   --card: #ffffff;
   --accent: #c1502e;       /* rust/terracotta — warm, vivid, still grounded (not corporate-purple) */
   --accent-dark: #9c3f22;  /* hover/pressed shade of accent */
-  --accent-2: #3f5c47;     /* deep forest sage — secondary, grounding */
+  --accent-2: #8a4a1f;     /* deep amber-brown — secondary warm tone, no green */
   --accent-soft: #fbe4d6;  /* peach tint, pairs with accent */
   --ring: rgba(193, 80, 46, 0.28);
   --radius: 14px;
@@ -93,10 +93,10 @@ a:hover { color: var(--accent-2); }
 .tag:hover { background: var(--accent); color: #fff; }
 
 /* Feature */
-.feature { display: block; background: #33402f; color: #fff; border-radius: 18px; padding: 36px; text-decoration: none; margin-bottom: 28px; }
-.feature .kicker { color: #cbd9c4; }
+.feature { display: block; background: #3a2418; color: #fff; border-radius: 18px; padding: 36px; text-decoration: none; margin-bottom: 28px; }
+.feature .kicker { color: #f0c7a3; }
 .feature h2 { color: #fff; margin: 6px 0 10px; font-size: clamp(1.5rem, 3.4vw, 2.1rem); letter-spacing: -.01em; }
-.feature p { color: #e3e6de; margin: 0 0 14px; }
+.feature p { color: #f0e0d3; margin: 0 0 14px; }
 .feature .readmore { color: #fff; font-weight: 600; }
 .feature:hover { transform: translateY(-2px); transition: transform .15s ease; }
 
@@ -140,9 +140,9 @@ a:hover { color: var(--accent-2); }
 .faq details > div { padding-bottom: 14px; color: var(--ink-soft); }
 
 /* Post CTA + related */
-.post-cta { margin: 44px 0 8px; padding: 30px; background: #33402f; color: #fff; border-radius: 18px; }
+.post-cta { margin: 44px 0 8px; padding: 30px; background: #3a2418; color: #fff; border-radius: 18px; }
 .post-cta h2 { color: #fff; margin: 0 0 8px; font-size: 1.4rem; }
-.post-cta p { color: #e3e6de; margin: 0 0 16px; }
+.post-cta p { color: #f0e0d3; margin: 0 0 16px; }
 .post-cta .btn { margin-right: 8px; margin-bottom: 8px; }
 .post-cta .btn.ghost { color: #fff; border-color: rgba(255,255,255,.5); }
 .related { margin: 56px auto; }
