@@ -1,0 +1,9 @@
+node_modules/
+dist/
+.DS_Store
+*.log
+npm-debug.log*
+
+# build artifacts
+built-and-unwell-site.zip
+*.zip
