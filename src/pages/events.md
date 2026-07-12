@@ -6,6 +6,7 @@ takeaways:
   - "Monthly, first Wednesday, evening, in downtown Austin. Capped at 20 seats."
   - "Venue's still being picked. Leave your email below to hear where and when it's locked in."
   - "Designed low-spoons: seated, quiet-friendly, no pressure to stay the whole time."
+  - "Real tactics get traded, not just feelings, things like AI agents that manage appointments and cut the mental load."
 faq:
   - q: "When and where is the Built & Unseen gathering?"
     a: "It's monthly, on the first Wednesday evening, in downtown Austin. The venue for the next gathering isn't locked in yet. Leave your email below and you'll hear the moment it is."
@@ -19,35 +20,7 @@ faq:
 
 Community is a local thing before it's anything else. So the heart of Built & Unseen isn't a Slack channel or an inbox. It's a table in **downtown Austin**, once a month, with people who get it, no explanation required.
 
-**Next gathering: first Wednesday of the month, 6:00 to 8:00 PM CT. Venue still being picked.**
-
-## The details
-
-- **What:** Built & Unseen Monthly Gathering
-- **Who:** Accomplished founders and operators living with chronic illness (and the chronically-ill-curious who fit the room). Many of us are women; men who fit are welcome.
-- **When:** Monthly, **first Wednesday, 6:00 to 8:00 PM CT**
-- **Where:** Venue still being picked. Leave your email below and you'll hear the moment it's locked in.
-- **Seats:** Capped at 20
-- **Cost:** Free while we're forming
-- **RSVP:** None once you're in. Leaving your email below is the only step ahead of time.
-
-## Built for real bodies
-
-Most "networking" is a standing room, loud, two hours of performing energy you may not have. This is the opposite, on purpose:
-
-- **Seated the whole time.** No standing mingle, no working the room on your feet.
-- **Quiet and low-stimulation.** Soft lighting, low noise, a space you can actually think in.
-- **Come and go freely.** Arrive late, leave early, step out, no explanation owed to anyone.
-- **Near transit and parking.** Downtown, easy to get to and get home from when you're running low.
-- **Nothing to explain.** Everyone at the table already carries something invisible. You don't have to justify why you're tired, why you left corporate, or why today's a bad day.
-
-## Come ready to be honest
-
-This isn't a room for the polished version of yourself. Say the real thing: what's actually hard, what you're actually scared of, what you haven't said out loud to people who don't get it. That's what makes the room work. Everyone across the table is carrying the same kind of weight, and they'd rather hear the truth than the highlight reel.
-
-## Hear where, first
-
-The room is capped at 20. Tell me a little about you, and I'll email you the moment the venue's locked in.
+**Next gathering: first Wednesday of the month, 6:00 to 8:00 PM CT. Venue still being picked, capped at 20 seats.**
 
 <form class="rsvp-form" action="__FORMSPREE_ENDPOINT__" method="POST">
   <h3>Get notified when the venue's set</h3>
@@ -98,6 +71,33 @@ The room is capped at 20. Tell me a little about you, and I'll email you the mom
   <button type="submit" class="btn">Notify me</button>
   <p class="rsvp-fine">Just for the venue announcement. Nothing else.</p>
 </form>
+
+## The details
+
+- **What:** Built & Unseen Monthly Gathering
+- **Who:** Accomplished founders and operators living with chronic illness (and the chronically-ill-curious who fit the room). Many of us are women; men who fit are welcome.
+- **When:** Monthly, **first Wednesday, 6:00 to 8:00 PM CT**
+- **Where:** Venue still being picked, same room every month once it's set
+- **Seats:** Capped at 20
+- **Cost:** Free while we're forming
+
+## Built for real bodies
+
+Most "networking" is a standing room, loud, two hours of performing energy you may not have. This is the opposite, on purpose:
+
+- **Seated the whole time.** No standing mingle, no working the room on your feet.
+- **Quiet and low-stimulation.** Soft lighting, low noise, a space you can actually think in.
+- **Come and go freely.** Arrive late, leave early, step out, no explanation owed to anyone.
+- **Near transit and parking.** Downtown, easy to get to and get home from when you're running low.
+- **Nothing to explain.** Everyone at the table already carries something invisible. You don't have to justify why you're tired, why you left corporate, or why today's a bad day.
+
+## What actually gets shared
+
+This isn't a room where you just talk about what's hard, it's where you trade what's working. Someone's built an AI agent that tracks their doctor's appointments and medications so it's not all living in their head anymore. Someone else has a system for meeting notes that runs itself. The room swaps the tools and workarounds that actually cut the mental and emotional load, not just commiseration.
+
+## Come ready to be honest
+
+This isn't a room for the polished version of yourself. Say the real thing: what's actually hard, what you're actually scared of, what you haven't said out loud to people who don't get it. That's what makes the room work. Everyone across the table is carrying the same kind of weight, and they'd rather hear the truth than the highlight reel.
 
 ## How to come
 
