@@ -41,7 +41,12 @@ function rmrf(dir) {
 function write(rel, content) {
   const full = path.join(OUT, rel);
   fs.mkdirSync(path.dirname(full), { recursive: true });
-  fs.writeFileSync(full, content);
+  // Swap in config-driven tokens any page's raw markdown/HTML may reference,
+  // e.g. the events page's signup form action.
+  const resolved = typeof content === "string"
+    ? content.replaceAll("__FORMSPREE_ENDPOINT__", site.formspreeEndpoint || "")
+    : content;
+  fs.writeFileSync(full, resolved);
 }
 function copyDir(from, to) {
   if (!fs.existsSync(from)) return;

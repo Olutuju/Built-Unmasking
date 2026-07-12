@@ -93,6 +93,36 @@ a:hover { color: var(--accent-2); }
 .tag { font-size: .78rem; color: var(--accent); background: var(--accent-soft); padding: 3px 9px; border-radius: 999px; text-decoration: none; }
 .tag:hover { background: var(--accent); color: #fff; }
 
+/* RSVP / notify form */
+.rsvp-form { background: var(--card); border: 1px solid var(--line); border-radius: var(--radius); box-shadow: var(--shadow); padding: 28px; margin: 28px 0; max-width: var(--narrow); }
+.rsvp-form h3 { margin: 0 0 6px; font-size: 1.2rem; }
+.rsvp-form .rsvp-sub { margin: 0 0 20px; color: var(--ink-soft); font-size: .95rem; }
+.rsvp-form .field { margin-bottom: 16px; }
+.rsvp-form label { display: block; font-weight: 600; font-size: .9rem; margin-bottom: 6px; color: var(--ink); }
+.rsvp-form .field-note { display: block; font-weight: 400; font-size: .84rem; color: var(--muted); margin-top: 4px; }
+.rsvp-form input,
+.rsvp-form select,
+.rsvp-form textarea {
+  width: 100%;
+  font-family: inherit;
+  font-size: .96rem;
+  color: var(--ink);
+  background: #fff;
+  border: 1px solid var(--line);
+  border-radius: 8px;
+  padding: 10px 12px;
+}
+.rsvp-form input:focus,
+.rsvp-form select:focus,
+.rsvp-form textarea:focus {
+  outline: none;
+  border-color: var(--accent);
+  box-shadow: 0 0 0 3px var(--ring);
+}
+.rsvp-form textarea { resize: vertical; min-height: 84px; }
+.rsvp-form .btn { border: none; cursor: pointer; font-size: .96rem; }
+.rsvp-form .rsvp-fine { margin: 14px 0 0; font-size: .82rem; color: var(--muted); }
+
 /* Feature */
 .feature { display: block; background: #3a2418; color: #fff; border-radius: 18px; padding: 36px; text-decoration: none; margin-bottom: 28px; }
 .feature .kicker { color: #f0c7a3; }

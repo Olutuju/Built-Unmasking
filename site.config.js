@@ -64,9 +64,16 @@ export default {
     cadence: "Monthly, first Wednesday",
     time: "6:00 to 8:00 PM CT",
     area: "Downtown Austin",
+    seats: 20,
     blurb:
       "A low-spoons evening for business owners, founders, and company executives living with chronic illness. Seated, quiet-friendly, no pressure to stay the whole time.",
   },
+
+  // Formspree endpoint for the "get notified" form on the events page.
+  // Create a free form at formspree.io, paste the endpoint below (looks like
+  // https://formspree.io/f/xxxxxxxx), then rebuild. Leave blank and the form
+  // won't submit anywhere yet.
+  formspreeEndpoint: "",
 
   // Build output folder.
   outDir: "dist",

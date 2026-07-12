@@ -4,7 +4,9 @@ A peer network for business owners, founders, and company executives in Austin w
 
 This repository is the whole website: a fast, static, SEO/GEO/GAIO-optimized blog and community site. Every blog post centers Austin (and downtown Austin) on purpose. It is a **peer community, not a medical resource.**
 
-**Round two.** Round one's content and structure were right; the process wasn't — pages got rewritten five times chasing CTA wording, tone, and contact-info changes mid-build. This round starts from that already-settled direction (see `../built-and-unwell-summary.md` for the full brief) instead of re-litigating it. The one open item carried over: **the venue address in `src/pages/events.md` is still a placeholder** — fill it in before treating the "no RSVP, just show up" model as live.
+**Round two.** Round one's content and structure were right; the process wasn't — pages got rewritten five times chasing CTA wording, tone, and contact-info changes mid-build. This round starts from that already-settled direction (see `../built-and-unwell-summary.md` for the full brief) instead of re-litigating it.
+
+**Status:** everything is written, styled, and deploy-ready. The events page runs "venue TBD" with a signup form (Formspree) instead of blocking launch on a locked address, visitors leave level, industry, and email, capped framing at 20 seats. The one thing nobody but Yvette can complete: create a free Formspree form at formspree.io and hand over the endpoint URL, it goes into `formspreeEndpoint` in `site.config.js` (one line, no code changes). Once that's set, going live is: merge the open PR (or push to `main`), then flip **Settings → Pages → Source: GitHub Actions** per the deploy section below.
 
 ---
 
@@ -72,7 +74,12 @@ Netlify and Cloudflare Pages work identically (same build command / output dir).
 
 ## Deploying (GitHub Pages)
 
-There's no auto-deploy workflow in this repo yet — add a `.github/workflows/deploy.yml` that runs `npm run build` and publishes `dist/` if you want that path. Otherwise the `dist/` folder is a plain static site and can be pushed to any static host by hand.
+`.github/workflows/deploy.yml` builds and publishes on every push to `main`. One-time setup to actually go live:
+
+1. **Settings → Pages → Build and deployment → Source: GitHub Actions.** This is the "make it public" switch — nothing deploys automatically until this is set.
+2. Push to `main` (or re-run the workflow from the Actions tab). The site publishes to `https://<username>.github.io/<repo>/`.
+
+Until that Source is set to GitHub Actions, pushing to `main` builds nothing publicly visible — the repo can stay exactly as private/public as it already is.
 
 ---
 
