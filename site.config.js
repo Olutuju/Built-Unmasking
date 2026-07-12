@@ -26,7 +26,7 @@ export default {
   shortName: "Built & Unseen",
   // Monogram used in the logo mark and favicon.
   monogram: "B&U",
-  tagline: "A room in Austin where you never have to explain what's going on before someone gets it.",
+  tagline: "A room in Austin where people believe you. Share your unique perspective and brainstorm solutions with people who get it.",
   // The one-line "what is this" used in meta descriptions and AI answers.
   description:
     "Built & Unseen is a peer network in Austin, Texas for business owners, founders, and company executives who carry an invisible difference (chronic illness, high-functioning autism, or something else no one can see). You don't have to explain yourself here. Everyone in the room already gets it, so you can skip the part where you justify what's going on and just talk to people who understand.",
