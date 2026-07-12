@@ -1,14 +1,14 @@
 ---
 title: "Join Built & Unseen"
 slug: community
-description: "How to join Built & Unseen, a private-feeling network for accomplished founders in Austin living with chronic illness. Leave your email, hear where, show up. No application."
+description: "How to join Built & Unseen, a private-feeling network for accomplished founders in Austin living with chronic illness. RSVP, hear where, show up. No application."
 takeaways:
-  - "Leave your email on the events page. No application, that's just how you hear where the room is."
+  - "RSVP on the events page. No application, that's just how you get a seat and hear where the room is."
   - "Nobody in the room needs your illness or your business explained to them. Say what you're actually dealing with, and nobody questions it."
   - "The network only works if people are willing to be honest, not polished."
 faq:
   - q: "How do I join Built & Unseen?"
-    a: "Leave your email on the events page. Once the venue's set, you'll hear where and show up. No application, nothing to explain beforehand."
+    a: "RSVP on the events page. Once the venue's set, you'll get the address and show up. No application, nothing to explain beforehand."
   - q: "Does it cost anything?"
     a: "Right now it's free while the community is forming in Austin. The blog and the monthly downtown gathering are open to people who fit."
   - q: "I'm not in Austin, can I still join?"
@@ -19,7 +19,7 @@ There's no application here, and nothing you need to explain before you're in th
 
 ## How you join
 
-Leave your email on the **[events page](/events/)**. You'll hear the moment the venue's locked in, no application, nothing reviewed, just how you get in line for one of 20 seats. Once you know where, show up. You sit down, you talk to people who already carry something invisible, and you find out within an evening whether these are your people.
+RSVP on the **[events page](/events/)**. You'll get the address the moment it's locked in, no application, nothing reviewed, just how you claim one of 20 seats. Once you know where, show up. You sit down, you talk to people who already carry something invisible, and you find out within an evening whether these are your people.
 
 The network isn't a list or a Slack channel. It's whoever's in the room, being honest, on a given first Wednesday.
 

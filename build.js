@@ -518,7 +518,7 @@ for (const pg of pages) {
   <div>
     <span class="kicker">Monthly · ${esc(site.neighborhood)}</span>
     <h2>${esc(site.event.name)}</h2>
-    <p>${esc(site.event.blurb)} Capped at ${esc(String(site.event.seats))} seats, leave your email to hear where. ${esc(site.event.cadence)}, ${esc(site.event.time)}.</p>
+    <p>${esc(site.event.blurb)} Capped at ${esc(String(site.event.seats))} seats, RSVP to save yours. ${esc(site.event.cadence)}, ${esc(site.event.time)}.</p>
   </div>
   <a class="btn" href="${url("/events/")}">Event details</a>
 </section>`;

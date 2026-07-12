@@ -1,30 +1,30 @@
 ---
 title: "Monthly Gathering in Downtown Austin"
 slug: events
-description: "Built & Unseen hosts a monthly in-person gathering in downtown Austin for accomplished founders living with chronic illness. Capped at 20 seats. Leave your email to hear where."
+description: "Built & Unseen hosts a monthly in-person gathering in downtown Austin for accomplished founders living with chronic illness. Capped at 20 seats. RSVP to save your seat."
 takeaways:
   - "Monthly, first Wednesday, evening, in downtown Austin. Capped at 20 seats."
-  - "Venue's still being picked. Leave your email below to hear where and when it's locked in."
+  - "Venue's still being picked. RSVP below to save a seat, the address follows once it's locked in."
   - "Designed low-spoons: seated, quiet-friendly, no pressure to stay the whole time."
   - "Real tactics get traded, not just feelings, things like AI agents that manage appointments and cut the mental load."
 faq:
   - q: "When and where is the Built & Unseen gathering?"
-    a: "It's monthly, on the first Wednesday evening, in downtown Austin. The venue for the next gathering isn't locked in yet. Leave your email below and you'll hear the moment it is."
+    a: "It's monthly, on the first Wednesday evening, in downtown Austin. The venue for the next gathering isn't locked in yet. RSVP below and you'll get the address the moment it is."
   - q: "Do I need to RSVP?"
-    a: "Once you're in, no. Just show up. The only thing to do ahead of time is leave your email so you find out where the room is."
+    a: "Yes. The room's capped at 20, so RSVPing is how you get a seat and how you'll get the address once it's locked in."
   - q: "What makes the gathering chronic-illness friendly?"
     a: "Everything is seated, the space is quiet and low-stimulation, there's no standing-mingle format, and you can arrive late or leave early with zero explanation. The whole event is built around the reality of unpredictable bodies."
   - q: "Do I have to be a member to come?"
-    a: "There's no membership to apply for. The room is capped at 20 seats, so leaving your email is how you get in line, not an application to be reviewed."
+    a: "There's no membership to apply for. The room is capped at 20 seats, so RSVPing is how you get a seat, not an application to be reviewed."
 ---
 
 Community is a local thing before it's anything else. So the heart of Built & Unseen isn't a Slack channel or an inbox. It's a table in **downtown Austin**, once a month, with people who get it, no explanation required.
 
-**Next gathering: first Wednesday of the month, 6:00 to 8:00 PM CT. Venue still being picked, capped at 20 seats.**
+**Next gathering: Wednesday, August 5, 6:00 to 8:00 PM CT. Venue still being picked, capped at 20 seats.**
 
 <form class="rsvp-form" action="__FORMSPREE_ENDPOINT__" method="POST">
-  <h3>Get notified when the venue's set</h3>
-  <p class="rsvp-sub">20 seats. First Wednesday, 6 to 8 PM CT, downtown Austin.</p>
+  <h3>RSVP for August 5</h3>
+  <p class="rsvp-sub">20 seats. 6 to 8 PM CT, downtown Austin, address to follow once it's locked in.</p>
 
   <div class="field">
     <label for="rsvp-name">Name</label>
@@ -68,14 +68,14 @@ Community is a local thing before it's anything else. So the heart of Built & Un
     <textarea id="rsvp-why" name="why"></textarea>
   </div>
 
-  <button type="submit" class="btn">Notify me</button>
-  <p class="rsvp-fine">Just for the venue announcement. Nothing else.</p>
+  <button type="submit" class="btn">Count me in</button>
+  <p class="rsvp-fine">This is your RSVP. I'll send the address once it's locked in, nothing else.</p>
 </form>
 
 ## The details
 
 - **What:** Built & Unseen Monthly Gathering
-- **Who:** Accomplished founders and operators living with chronic illness (and the chronically-ill-curious who fit the room). Many of us are women; men who fit are welcome.
+- **Who:** Accomplished founders, executives, and operators living with chronic illness (and the chronically-ill-curious who fit the room). Many of us are women; men who fit are welcome.
 - **When:** Monthly, **first Wednesday, 6:00 to 8:00 PM CT**
 - **Where:** Venue still being picked, same room every month once it's set
 - **Seats:** Capped at 20
@@ -101,6 +101,6 @@ This isn't a room for the polished version of yourself. Say the real thing: what
 
 ## How to come
 
-Once you're on the list and the venue's set, there's no RSVP and nothing else to fill out. Just show up, first Wednesday, 6 to 8 PM CT. The room is already built for common accommodations (seated, quiet, low-stimulation), so there's nothing to request ahead of time.
+RSVP above and I'll send the address once it's locked in. After that, there's nothing else to fill out, just show up, first Wednesday, 6 to 8 PM CT. The room is already built for common accommodations (seated, quiet, low-stimulation), so there's nothing to request ahead of time.
 
 Not sure yet? [Read the blog](/blog/) first, or [learn who this is for](/about/). Then come see the room for yourself.
