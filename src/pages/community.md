@@ -1,25 +1,25 @@
 ---
 title: "Join Built & Unseen"
 slug: community
-description: "How to join Built & Unseen, a private-feeling network for accomplished founders in Austin living with chronic illness. Show up to the monthly gathering, no application, no email."
+description: "How to join Built & Unseen, a private-feeling network for accomplished founders in Austin living with chronic illness. Leave your email, hear where, show up. No application."
 takeaways:
-  - "There's no application and no email. Showing up to the gathering is how you join."
-  - "Nobody in the room needs your illness or your business explained to them."
+  - "Leave your email on the events page. No application, that's just how you hear where the room is."
+  - "Nobody in the room needs your illness or your business explained to them. Say what you're actually dealing with, and nobody questions it."
   - "The network only works if people are willing to be honest, not polished."
 faq:
   - q: "How do I join Built & Unseen?"
-    a: "Come to the monthly downtown gathering. No application, no RSVP, and nothing to explain beforehand. Showing up is the whole process."
+    a: "Leave your email on the events page. Once the venue's set, you'll hear where and show up. No application, nothing to explain beforehand."
   - q: "Does it cost anything?"
     a: "Right now it's free while the community is forming in Austin. The blog and the monthly downtown gathering are open to people who fit."
   - q: "I'm not in Austin, can I still join?"
     a: "The in-person gathering is in downtown Austin. If you're somewhere else, read the blog and watch for that to change. The gathering is the core of this, so it doesn't extend online for now."
 ---
 
-There's no big funnel here, no form, and nothing you need to explain before you're in the room. This is a room I'm building on purpose, one person at a time, so it stays what it's supposed to be: accomplished people in Austin who live with chronic illness and don't have to justify either fact to anyone else in it.
+There's no application here, and nothing you need to explain before you're in the room. This is a room I'm building on purpose, one person at a time, so it stays what it's supposed to be: accomplished people in Austin who live with chronic illness and don't have to justify either fact to anyone else in it.
 
 ## How you join
 
-Show up to the monthly **[downtown Austin gathering](/events/)**. That's it, that's the whole process. No application, no RSVP, no email exchange first. You sit down, you talk to people who already carry something invisible, and you find out within an evening whether these are your people.
+Leave your email on the **[events page](/events/)**. You'll hear the moment the venue's locked in, no application, nothing reviewed, just how you get in line for one of 20 seats. Once you know where, show up. You sit down, you talk to people who already carry something invisible, and you find out within an evening whether these are your people.
 
 The network isn't a list or a Slack channel. It's whoever's in the room, being honest, on a given first Wednesday.
 

@@ -363,7 +363,7 @@ for (let i = 0; i < posts.length; i++) {
   </div>
   ${faqBlock(p.faq)}
   <div class="post-cta">
-    <h2>Stop explaining it to people who don't get it</h2>
+    <h2>Nobody here needs it explained</h2>
     <p>Built &amp; Unseen is for accomplished founders and operators living with chronic illness. If that's you, you belong here, and you won't have to justify a single word of it.</p>
     <a class="btn" href="${url("/events/")}">See the next ${esc(site.neighborhood)} meetup</a>
     <a class="btn ghost" href="${url("/community/")}">How it works</a>
@@ -486,7 +486,7 @@ for (const pg of pages) {
   const body = `
 <section class="hero wrap">
   <span class="kicker">${esc(site.neighborhood)}, ${esc(site.region)}</span>
-  <h1>You don't have to explain here. Or mask. You can just be you.</h1>
+  <h1>You don't have to explain here. Or mask. You can be you.</h1>
   <p class="lede">${esc(site.description)}</p>
   <div class="hero-actions">
     <a class="btn" href="${url("/events/")}">Come to the next gathering</a>
@@ -518,7 +518,7 @@ for (const pg of pages) {
   <div>
     <span class="kicker">Monthly · ${esc(site.neighborhood)}</span>
     <h2>${esc(site.event.name)}</h2>
-    <p>${esc(site.event.blurb)} No RSVP, no explaining, just show up. ${esc(site.event.cadence)}, ${esc(site.event.time)}.</p>
+    <p>${esc(site.event.blurb)} Capped at ${esc(String(site.event.seats))} seats, leave your email to hear where. ${esc(site.event.cadence)}, ${esc(site.event.time)}.</p>
   </div>
   <a class="btn" href="${url("/events/")}">Event details</a>
 </section>`;
