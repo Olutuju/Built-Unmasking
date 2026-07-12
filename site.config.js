@@ -73,7 +73,7 @@ export default {
   // Create a free form at formspree.io, paste the endpoint below (looks like
   // https://formspree.io/f/xxxxxxxx), then rebuild. Leave blank and the form
   // won't submit anywhere yet.
-  formspreeEndpoint: "",
+  formspreeEndpoint: "https://formspree.io/f/mkodnwwe",
 
   // Build output folder.
   outDir: "dist",

@@ -15,7 +15,7 @@
   --shadow: 0 1px 2px rgba(31,41,51,.06), 0 8px 24px rgba(31,41,51,.06);
   --wrap: 1080px;
   --narrow: 720px;
-  --display: "Iowan Old Style", "Palatino Linotype", Palatino, Georgia, "Times New Roman", serif;
+  --display: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
 }
 
 * { box-sizing: border-box; }
