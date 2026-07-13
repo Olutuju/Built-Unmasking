@@ -3,19 +3,14 @@
 // Change values here to rebrand or move hosts. Everything else reads from this.
 // ---------------------------------------------------------------------------
 
-// SITE_URL = the live origin (no trailing slash).
-// BASE_PATH = the sub-folder the site is served from.
-//   - GitHub Pages PROJECT site (default):  origin = https://<user>.github.io , basePath = /<repo>
-//   - Custom domain OR user/org Pages site: basePath = "" (empty)
-// Both can be overridden at build time with env vars, e.g.:
-//   SITE_URL=https://builtandunmasking.com BASE_PATH="" npm run build
-// Default assumes a root-served host (Vercel / Netlify / custom domain): base path "".
-// The GitHub Pages workflow overrides BASE_PATH to "/<repo>" for its project sub-path.
-// On Vercel, set SITE_URL in the project's Environment Variables to your real URL
-// (e.g. https://built-and-unmasking.vercel.app, later your custom domain) for correct
-// canonical/OpenGraph/sitemap links.
+// SITE_URL = the live origin (no trailing slash). Vercel is the only deploy
+// target (GitHub Pages was tried and dropped — see README), so this is always
+// root-served: no BASE_PATH sub-folder to account for.
+// On Vercel, set SITE_URL in the project's Environment Variables to the real
+// URL (e.g. https://built-and-unmasking.vercel.app, later a custom domain)
+// for correct canonical/OpenGraph/sitemap links.
 const SITE_URL = (process.env.SITE_URL || "https://built-and-unmasking.vercel.app").replace(/\/$/, "");
-const BASE_PATH = process.env.BASE_PATH ?? "";
+const BASE_PATH = "";
 
 export default {
   siteUrl: SITE_URL,

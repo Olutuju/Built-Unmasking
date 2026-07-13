@@ -6,7 +6,7 @@ This repository is the whole website: a fast, static, SEO/GEO/GAIO-optimized blo
 
 **Round two.** Round one's content and structure were right; the process wasn't — pages got rewritten five times chasing CTA wording, tone, and contact-info changes mid-build. This round starts from that already-settled direction (see `../built-and-unmasking-summary.md` for the full brief) instead of re-litigating it.
 
-**Status:** everything is written, styled, and deploy-ready. The events page runs "venue TBD" with a signup form (Formspree) instead of blocking launch on a locked address, visitors leave level, industry, and email, capped framing at 20 seats. The one thing nobody but Yvette can complete: create a free Formspree form at formspree.io and hand over the endpoint URL, it goes into `formspreeEndpoint` in `site.config.js` (one line, no code changes). Once that's set, going live is: merge the open PR (or push to `main`), then flip **Settings → Pages → Source: GitHub Actions** per the deploy section below.
+**Status:** live at [built-unseen.vercel.app](https://built-unseen.vercel.app/), auto-deploying on every push to `main`. GitHub Pages was tried first and dropped, it served the page with no CSS/fonts applied (a base-path mismatch not worth chasing down) — Vercel renders correctly, so it's the only deployment target now.
 
 ---
 
@@ -62,24 +62,18 @@ Everything below is generated automatically by `build.js` on every build:
 
 ---
 
-## Deploying (Vercel — recommended, free, works with a private repo)
+## Deploying (Vercel — the only deployment target)
 
-1. Go to [vercel.com](https://vercel.com), sign in with GitHub, **Add New… → Project**, and import this repo.
-2. Vercel reads `vercel.json` automatically — build command `npm run build`, output `dist`. Just click **Deploy**.
-3. You get a free `*.vercel.app` URL. Every push to the production branch auto-deploys.
-4. **Set `SITE_URL`** in Project → Settings → Environment Variables to your live URL (your `*.vercel.app`, later your custom domain) so canonical/OpenGraph/sitemap links are correct, then redeploy.
-5. **Custom domain later:** Project → Settings → Domains → add your domain. No rebuild needed.
+Already connected: the GitHub repo is linked to a Vercel project, so every push to `main` auto-deploys to [built-unseen.vercel.app](https://built-unseen.vercel.app/). Nothing to run manually.
 
-Netlify and Cloudflare Pages work identically (same build command / output dir).
+For reference, this is how it was connected (only needed again if the link ever breaks):
 
-## Deploying (GitHub Pages)
+1. [vercel.com](https://vercel.com) → sign in with GitHub → **Add New… → Project** → import this repo.
+2. Vercel reads `vercel.json` automatically — build command `npm run build`, output `dist`.
+3. **Set `SITE_URL`** in Project → Settings → Environment Variables to the live URL, so canonical/OpenGraph/sitemap links are correct, then redeploy.
+4. **Custom domain later:** Project → Settings → Domains → add the domain. No rebuild needed.
 
-`.github/workflows/deploy.yml` builds and publishes on every push to `main`. One-time setup to actually go live:
-
-1. **Settings → Pages → Build and deployment → Source: GitHub Actions.** This is the "make it public" switch — nothing deploys automatically until this is set.
-2. Push to `main` (or re-run the workflow from the Actions tab). The site publishes to `https://<username>.github.io/<repo>/`.
-
-Until that Source is set to GitHub Actions, pushing to `main` builds nothing publicly visible — the repo can stay exactly as private/public as it already is.
+GitHub Pages was tried and dropped — it served the site with no CSS or fonts loading, and rather than debug a second deploy target for a static site that already works on Vercel, Pages is just disabled. There's no `.github/workflows/deploy.yml` anymore for the same reason.
 
 ---
 
