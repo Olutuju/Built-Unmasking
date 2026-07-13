@@ -1,9 +1,9 @@
 {
-  "name": "built-and-unseen",
+  "name": "built-and-unmasking",
   "version": "1.0.0",
   "private": true,
   "type": "module",
-  "description": "Built & Unseen — a network for accomplished entrepreneurs building businesses while living with chronic illness, based in Austin, Texas.",
+  "description": "Built & Unmasking — a network for accomplished entrepreneurs building businesses while living with chronic illness, based in Austin, Texas.",
   "scripts": {
     "build": "node build.js",
     "serve": "node build.js && node scripts/serve.js",

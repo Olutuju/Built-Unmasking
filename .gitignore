@@ -5,5 +5,5 @@ dist/
 npm-debug.log*
 
 # build artifacts
-built-and-unwell-site.zip
+built-and-unmasking-site.zip
 *.zip

@@ -1,10 +1,10 @@
-# Built & Unseen
+# Built & Unmasking
 
 A peer network for business owners, founders, and company executives in Austin who carry an invisible difference — chronic illness, high-functioning autism, or something else no one can see. Based in **downtown Austin, Texas**.
 
 This repository is the whole website: a fast, static, SEO/GEO/GAIO-optimized blog and community site. Every blog post centers Austin (and downtown Austin) on purpose. It is a **peer community, not a medical resource.**
 
-**Round two.** Round one's content and structure were right; the process wasn't — pages got rewritten five times chasing CTA wording, tone, and contact-info changes mid-build. This round starts from that already-settled direction (see `../built-and-unwell-summary.md` for the full brief) instead of re-litigating it.
+**Round two.** Round one's content and structure were right; the process wasn't — pages got rewritten five times chasing CTA wording, tone, and contact-info changes mid-build. This round starts from that already-settled direction (see `../built-and-unmasking-summary.md` for the full brief) instead of re-litigating it.
 
 **Status:** everything is written, styled, and deploy-ready. The events page runs "venue TBD" with a signup form (Formspree) instead of blocking launch on a locked address, visitors leave level, industry, and email, capped framing at 20 seats. The one thing nobody but Yvette can complete: create a free Formspree form at formspree.io and hand over the endpoint URL, it goes into `formspreeEndpoint` in `site.config.js` (one line, no code changes). Once that's set, going live is: merge the open PR (or push to `main`), then flip **Settings → Pages → Source: GitHub Actions** per the deploy section below.
 
@@ -106,4 +106,4 @@ dist/                   # build output (gitignored)
 
 ---
 
-*Built & Unseen — community and lived experience. Not medical advice.*
+*Built & Unmasking — community and lived experience. Not medical advice.*

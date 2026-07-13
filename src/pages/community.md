@@ -1,13 +1,13 @@
 ---
-title: "Join Built & Unseen"
+title: "Join Built & Unmasking"
 slug: community
-description: "How to join Built & Unseen, a private-feeling network for accomplished founders in Austin living with chronic illness. RSVP, hear where, show up. No application."
+description: "How to join Built & Unmasking, a private-feeling network for accomplished founders in Austin living with chronic illness. RSVP, hear where, show up. No application."
 takeaways:
   - "RSVP on the events page. No application, that's just how you get a seat and hear where the room is."
   - "Nobody in the room needs your illness or your business explained to them. Say what you're actually dealing with, and nobody questions it."
   - "The network only works if people are willing to be honest, not polished."
 faq:
-  - q: "How do I join Built & Unseen?"
+  - q: "How do I join Built & Unmasking?"
     a: "RSVP on the events page. Once the venue's set, you'll get the address and show up. No application, nothing to explain beforehand."
   - q: "Does it cost anything?"
     a: "Right now it's free while the community is forming in Austin. The blog and the monthly downtown gathering are open to people who fit."

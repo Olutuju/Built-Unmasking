@@ -9,8 +9,8 @@ takeaways:
   - "This is peer to peer, not medical. A lot of us have been failed by the system already."
   - "Home base is downtown Austin, where I live and where the monthly gathering happens."
 faq:
-  - q: "What is Built & Unseen in Austin?"
-    a: "Built & Unseen is a peer network for accomplished founders and operators in Austin, Texas who build businesses while living with chronic illness. It centers on a monthly downtown gathering plus writing in a founder's own voice. It is not a medical resource."
+  - q: "What is Built & Unmasking in Austin?"
+    a: "Built & Unmasking is a peer network for accomplished founders and operators in Austin, Texas who build businesses while living with chronic illness. It centers on a monthly downtown gathering plus writing in a founder's own voice. It is not a medical resource."
   - q: "Why start a chronic-entrepreneur community in Austin specifically?"
     a: "Because community is local before it's anything else. The founder lives in downtown Austin and wanted people she could actually sit across from, not another Slack group, but a real room in her own city."
 ---
@@ -27,7 +27,7 @@ Austin has no shortage of entrepreneur energy. The [Austin Chamber](https://www.
 
 And the chronic-illness communities I found put me in a chair as a *patient*, first and always. Symptoms, systems, coping. All real. But they treat the most ambitious part of me like a distraction from the important business of being sick.
 
-I'm neither of those defaults. I built a career through serious rooms (the kind of corporate and finance work where you learn what real rigor costs) and I did it while managing a body that keeps its own schedule. I know I'm not the only one in this city living in that exact overlap. The overlap is the whole point. It's why I named this [Built & Unseen](/about/): the layer that grows and holds everything up from the shade, unseen.
+I'm neither of those defaults. I built a career through serious rooms (the kind of corporate and finance work where you learn what real rigor costs) and I did it while managing a body that keeps its own schedule. I know I'm not the only one in this city living in that exact overlap. The overlap is the whole point. It's why I named this [Built & Unmasking](/about/): the layer that grows and holds everything up from the shade, unseen.
 
 ## Why this is not a medical site
 

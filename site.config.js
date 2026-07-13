@@ -1,5 +1,5 @@
 // ---------------------------------------------------------------------------
-// Built & Unseen site configuration
+// Built & Unmasking site configuration
 // Change values here to rebrand or move hosts. Everything else reads from this.
 // ---------------------------------------------------------------------------
 
@@ -8,13 +8,13 @@
 //   - GitHub Pages PROJECT site (default):  origin = https://<user>.github.io , basePath = /<repo>
 //   - Custom domain OR user/org Pages site: basePath = "" (empty)
 // Both can be overridden at build time with env vars, e.g.:
-//   SITE_URL=https://builtandunseen.com BASE_PATH="" npm run build
+//   SITE_URL=https://builtandunmasking.com BASE_PATH="" npm run build
 // Default assumes a root-served host (Vercel / Netlify / custom domain): base path "".
 // The GitHub Pages workflow overrides BASE_PATH to "/<repo>" for its project sub-path.
 // On Vercel, set SITE_URL in the project's Environment Variables to your real URL
-// (e.g. https://built-and-unseen.vercel.app, later your custom domain) for correct
+// (e.g. https://built-and-unmasking.vercel.app, later your custom domain) for correct
 // canonical/OpenGraph/sitemap links.
-const SITE_URL = (process.env.SITE_URL || "https://built-and-unseen.vercel.app").replace(/\/$/, "");
+const SITE_URL = (process.env.SITE_URL || "https://built-and-unmasking.vercel.app").replace(/\/$/, "");
 const BASE_PATH = process.env.BASE_PATH ?? "";
 
 export default {
@@ -22,14 +22,14 @@ export default {
   basePath: BASE_PATH,
 
   // Brand
-  name: "Built & Unseen",
-  shortName: "Built & Unseen",
+  name: "Built & Unmasking",
+  shortName: "Built & Unmasking",
   // Monogram used in the logo mark and favicon.
   monogram: "B&U",
   tagline: "A room in Austin where people believe you. Share your unique perspective and brainstorm solutions with people who get it.",
   // The one-line "what is this" used in meta descriptions and AI answers.
   description:
-    "Built & Unseen is a peer network in Austin, Texas for business owners, founders, and company executives who carry an invisible difference (chronic illness, high-functioning autism, or something else no one can see). You don't have to explain yourself here. Everyone in the room already gets it, so you can skip the part where you justify what's going on and just talk to people who understand.",
+    "Built & Unmasking is a peer network in Austin, Texas for business owners, founders, and company executives who carry an invisible difference (chronic illness, high-functioning autism, or something else no one can see). You don't have to explain yourself here. Everyone in the room already gets it, so you can skip the part where you justify what's going on and just talk to people who understand.",
 
   // Who this is for. Used on the homepage and in structured data.
   audience:
@@ -48,7 +48,7 @@ export default {
     name: "Yvette O.",
     role: "Founder",
     bio:
-      "Yvette is the founder of Built & Unseen. She built a career across corporate and finance before building businesses of her own, all while living with chronic illness in downtown Austin. She writes from experience, not from a clinic.",
+      "Yvette is the founder of Built & Unmasking. She built a career across corporate and finance before building businesses of her own, all while living with chronic illness in downtown Austin. She writes from experience, not from a clinic.",
   },
 
   // Social / outbound (fill in as you create them).
@@ -60,7 +60,7 @@ export default {
 
   // Monthly community event (downtown Austin). Edit date/place as you lock venues.
   event: {
-    name: "Built & Unseen Monthly Gathering",
+    name: "Built & Unmasking Monthly Gathering",
     cadence: "Monthly, first Wednesday",
     time: "6:00 to 8:00 PM CT",
     area: "Downtown Austin",

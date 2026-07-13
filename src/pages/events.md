@@ -1,14 +1,14 @@
 ---
 title: "Monthly Gathering in Downtown Austin"
 slug: events
-description: "Built & Unseen hosts a monthly in-person gathering in downtown Austin for accomplished founders living with chronic illness. Capped at 20 seats. RSVP to save your seat."
+description: "Built & Unmasking hosts a monthly in-person gathering in downtown Austin for accomplished founders living with chronic illness. Capped at 20 seats. RSVP to save your seat."
 takeaways:
   - "Monthly, first Wednesday, evening, in downtown Austin. Capped at 20 seats."
   - "Venue's still being picked. RSVP below to save a seat, the address follows once it's locked in."
   - "Designed low-spoons: seated, quiet-friendly, no pressure to stay the whole time."
   - "Real tactics get traded, not just feelings, things like AI agents that manage appointments and cut the mental load."
 faq:
-  - q: "When and where is the Built & Unseen gathering?"
+  - q: "When and where is the Built & Unmasking gathering?"
     a: "It's monthly, on the first Wednesday evening, in downtown Austin. The venue for the next gathering isn't locked in yet. RSVP below and you'll get the address the moment it is."
   - q: "Do I need to RSVP?"
     a: "Yes. The room's capped at 20, so RSVPing is how you get a seat and how you'll get the address once it's locked in."
@@ -18,7 +18,7 @@ faq:
     a: "There's no membership to apply for. The room is capped at 20 seats, so RSVPing is how you get a seat, not an application to be reviewed."
 ---
 
-Community is a local thing before it's anything else. So the heart of Built & Unseen isn't a Slack channel or an inbox. It's a table in **downtown Austin**, once a month, with people who get it, no explanation required.
+Community is a local thing before it's anything else. So the heart of Built & Unmasking isn't a Slack channel or an inbox. It's a table in **downtown Austin**, once a month, with people who get it, no explanation required.
 
 **Next gathering: Wednesday, August 5, 6:00 to 8:00 PM CT. Venue still being picked, capped at 20 seats.**
 
@@ -74,7 +74,7 @@ Community is a local thing before it's anything else. So the heart of Built & Un
 
 ## The details
 
-- **What:** Built & Unseen Monthly Gathering
+- **What:** Built & Unmasking Monthly Gathering
 - **Who:** Accomplished founders, executives, and operators living with chronic illness (and the chronically-ill-curious who fit the room). Many of us are women; men who fit are welcome.
 - **When:** Monthly, **first Wednesday, 6:00 to 8:00 PM CT**
 - **Where:** Venue still being picked, same room every month once it's set

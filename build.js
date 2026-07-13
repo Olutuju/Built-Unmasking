@@ -1,5 +1,5 @@
 // ---------------------------------------------------------------------------
-// Built & Unseen static site generator
+// Built & Unmasking static site generator
 // Reads markdown from src/posts + src/pages and emits a fully SEO/GEO/GAIO
 // optimized static site into ./dist. No framework; just marked + gray-matter.
 // ---------------------------------------------------------------------------
@@ -364,7 +364,7 @@ for (let i = 0; i < posts.length; i++) {
   ${faqBlock(p.faq)}
   <div class="post-cta">
     <h2>Nobody here needs it explained</h2>
-    <p>Built &amp; Unseen is for accomplished founders and operators living with chronic illness. If that's you, you belong here, and you won't have to justify a single word of it.</p>
+    <p>Built &amp; Unmasking is for accomplished founders and operators living with chronic illness. If that's you, you belong here, and you won't have to justify a single word of it.</p>
     <a class="btn" href="${url("/events/")}">See the next ${esc(site.neighborhood)} meetup</a>
     <a class="btn ghost" href="${url("/community/")}">How it works</a>
   </div>
@@ -395,7 +395,7 @@ ${related.length ? `<section class="wrap related"><h2>Keep reading</h2><div clas
   const body = `
 <section class="hero hero-sub wrap">
   <h1>The Blog</h1>
-  <p class="lede">${posts.length} essays and field notes on building a business while carrying something unseen, every one of them rooted in ${esc(site.city)}, ${esc(site.region)}. A new post goes up regularly.</p>
+  <p class="lede">${posts.length} essays and field notes on building a business while unmasking, every one of them rooted in ${esc(site.city)}, ${esc(site.region)}. A new post goes up regularly.</p>
 </section>
 <section class="wrap">
   ${latest ? `<a class="feature" href="${url(`/blog/${latest.slug}/`)}">
@@ -486,7 +486,7 @@ for (const pg of pages) {
   const body = `
 <section class="hero wrap">
   <span class="kicker">${esc(site.neighborhood)}, ${esc(site.region)}</span>
-  <h1>You don't have to explain here. Or mask. You can be you.</h1>
+  <h1>Take off the mask. Be you. The full you is welcome here.</h1>
   <p class="lede">${esc(site.description)}</p>
   <div class="hero-actions">
     <a class="btn" href="${url("/events/")}">Come to the next gathering</a>
