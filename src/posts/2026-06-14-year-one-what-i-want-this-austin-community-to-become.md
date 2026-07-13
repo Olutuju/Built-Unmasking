@@ -19,7 +19,7 @@ I want to end this first stretch of writing where a community should always star
 
 ## Where this starts
 
-Right now, [Built & Unmasking](/about/) is two things: this blog, in my real voice, and a [monthly gathering in downtown Austin](/events/) built for real bodies. That's it, and that's on purpose. I'm not interested in a big empty launch. I'm interested in the *right people*, accomplished founders and operators in Austin who live with chronic illness and are tired of having no room that fits both halves of who they are.
+Right now, [Built & Unmasking](/about/) is two things: this blog, in my real voice, and a [monthly gathering in downtown Austin](/events/) built for real bodies. That's it, and that's on purpose. I'm not interested in a big empty launch. I'm interested in the *right people*, accomplished professionals and operators in Austin who live with chronic illness and are tired of having no room that fits both halves of who they are.
 
 Year one is not a numbers game. I would rather have twenty people who genuinely belong than two thousand who don't. [Depth over breadth](/blog/where-chronically-ill-founders-meet-downtown-austin/) isn't just my networking advice; it's the whole design principle of this community. The strongest networks (the [First Round](https://review.firstround.com/) communities, the real ones) were never built on size. They were built on trust and fit, slowly.
 

@@ -1,7 +1,7 @@
 ---
 title: "Monthly Gathering in Downtown Austin"
 slug: events
-description: "Built & Unmasking hosts a monthly in-person gathering in downtown Austin for accomplished founders living with chronic illness. Capped at 20 seats. RSVP to save your seat."
+description: "Built & Unmasking hosts a monthly in-person gathering in downtown Austin for accomplished professionals living with chronic illness. Capped at 20 seats. RSVP to save your seat."
 takeaways:
   - "Monthly, first Wednesday, evening, in downtown Austin. Capped at 20 seats."
   - "Venue's still being picked. RSVP below to save a seat, the address follows once it's locked in."

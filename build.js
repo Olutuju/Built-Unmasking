@@ -170,8 +170,9 @@ function nav(active = "") {
       <span class="brand-mark" role="img" aria-label="${esc(site.name)} mark">
         <svg viewBox="0 0 64 64" width="40" height="40" aria-hidden="true">
           <rect width="64" height="64" rx="14" fill="#c1502e"/>
-          <circle cx="29" cy="32" r="16" fill="#2a160c"/>
-          <circle cx="38" cy="25" r="14" fill="#c1502e"/>
+          <rect x="10" y="25" width="44" height="14" rx="7" fill="#2a160c"/>
+          <circle cx="24" cy="32" r="5" fill="#c1502e"/>
+          <circle cx="40" cy="32" r="5" fill="#c1502e"/>
         </svg>
       </span>
       <span class="brand-name">${site.name}</span>
@@ -364,7 +365,7 @@ for (let i = 0; i < posts.length; i++) {
   ${faqBlock(p.faq)}
   <div class="post-cta">
     <h2>Nobody here needs it explained</h2>
-    <p>Built &amp; Unmasking is for accomplished founders and operators living with chronic illness. If that's you, you belong here, and you won't have to justify a single word of it.</p>
+    <p>Built &amp; Unmasking is for accomplished professionals and operators living with chronic illness. If that's you, you belong here, and you won't have to justify a single word of it.</p>
     <a class="btn" href="${url("/events/")}">See the next ${esc(site.neighborhood)} meetup</a>
     <a class="btn ghost" href="${url("/community/")}">How it works</a>
   </div>
