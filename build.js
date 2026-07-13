@@ -583,6 +583,14 @@ ${urls
   );
 }
 
+// ---- IndexNow key file -----------------------------------------------------
+// Proves domain ownership to Bing/Yandex (and other IndexNow participants) so
+// build.js can push instant "this URL changed" pings instead of waiting on
+// crawl schedules. Google does not participate in IndexNow; it still needs
+// Search Console, which requires Yvette's own Google login.
+const INDEXNOW_KEY = "ceb1055faf2fba2a8e280964db714a6c";
+write(`${INDEXNOW_KEY}.txt`, INDEXNOW_KEY);
+
 // ---- robots.txt -----------------------------------------------------------
 write(
   "robots.txt",
