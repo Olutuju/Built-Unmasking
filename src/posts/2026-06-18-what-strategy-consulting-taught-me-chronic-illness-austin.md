@@ -19,19 +19,19 @@ I spent formative years in strategy consulting, and like a lot of ex-consultants
 
 ## 80/20: the single most useful tool you have
 
-The Pareto principle (roughly 80% of results come from 20% of activities) is consulting 101. It's also, I'd argue, the most important idea a chronically ill founder can internalize. When your energy is cut in half, you cannot do everything, so the entire game becomes *identifying the vital 20% and ruthlessly protecting your capacity for it.*
+The Pareto principle (roughly 80% of results come from 20% of activities) is consulting 101. It's also, I'd argue, the most important idea a chronically ill founder can internalize. When your energy is cut in half, you cannot do everything, so the entire game becomes **identifying the vital 20% and ruthlessly protecting your capacity for it.**
 
 Look at your business honestly: which fraction of your activities actually drives the results? Protect the energy for those. Cut, automate, or [delegate](/blog/delegation-when-you-cant-do-it-all-austin-founder/) as much of the rest as you can bear to. A healthy founder can afford to spend energy on the low-value 80%. You can't, and that constraint (painful as it is) forces a focus most founders never achieve. [McKinsey](https://www.mckinsey.com/) built an empire partly on teaching companies this discipline. You get to apply it to your own life.
 
 ## Hypothesis-driven thinking, applied to your body
 
-Consultants don't boil the ocean; they form a hypothesis and test it. Your capacity is a system with variables, and "I feel bad and I don't know why" is the boil-the-ocean version. The consulting move: hypothesize. *Is it the late meetings? The back-to-back days? The specific kind of work?* Test one variable at a time. Keep what the evidence supports. You'll learn your own patterns far faster with structured testing than with vague suffering, and unlike a provider guessing at you, you actually have the data.
+Consultants don't boil the ocean; they form a hypothesis and test it. Your capacity is a system with variables, and "I feel bad and I don't know why" is the boil-the-ocean version. The consulting move: hypothesize. **Is it the late meetings? The back-to-back days? The specific kind of work?** Test one variable at a time. Keep what the evidence supports. You'll learn your own patterns far faster with structured testing than with vague suffering, and unlike a provider guessing at you, you actually have the data.
 
 > I couldn't fix my illness. But I could treat my capacity as a system to understand instead of a mystery to endure. That reframe alone gave me back a sense of control.
 
 ## MECE: make it a set of solvable problems
 
-Chronic illness overwhelms because it feels like one giant, formless weight. The consulting instinct is to break a mess into parts that are Mutually Exclusive and Collectively Exhaustive, distinct, non-overlapping, complete. Do that to your situation and the monolith becomes a list: *energy management, business structure, boundaries, community, logistics.* Each of those is a solvable problem with its own tactics. (It's roughly the structure of this whole blog, not by accident.) A list of solvable problems is a fundamentally more workable thing than an undifferentiated sense of doom.
+Chronic illness overwhelms because it feels like one giant, formless weight. The consulting instinct is to break a mess into parts that are Mutually Exclusive and Collectively Exhaustive, distinct, non-overlapping, complete. Do that to your situation and the monolith becomes a list: **energy management, business structure, boundaries, community, logistics.** Each of those is a solvable problem with its own tactics. (It's roughly the structure of this whole blog, not by accident.) A list of solvable problems is a fundamentally more workable thing than an undifferentiated sense of doom.
 
 ## Structure is a form of hope
 

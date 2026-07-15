@@ -21,7 +21,7 @@ I've told people. All the people you're supposed to tell. My family. Close frien
 
 ## The math nobody admits they're running
 
-Here's what I think is actually happening. People don't consciously decide not to believe you. They run a quiet shortcut instead: *she runs a company, she shows up, she's put together, so whatever she's describing can't be that bad.* Your competence becomes evidence against your own testimony. The more visibly capable you are, the more that shortcut overrides the actual sentence coming out of your mouth.
+Here's what I think is actually happening. People don't consciously decide not to believe you. They run a quiet shortcut instead: **she runs a company, she shows up, she's put together, so whatever she's describing can't be that bad.** Your competence becomes evidence against your own testimony. The more visibly capable you are, the more that shortcut overrides the actual sentence coming out of your mouth.
 
 This isn't cruelty. Most of the time it's not even carelessness. It's just faster to pattern-match you against "successful people are fine" than to sit with the harder, less tidy idea that someone can be both. So they smile, say something supportive, and quietly file it away as not that serious. You said the true thing. They heard "she's handling it."
 

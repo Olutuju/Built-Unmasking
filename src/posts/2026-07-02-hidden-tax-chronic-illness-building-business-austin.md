@@ -23,7 +23,7 @@ The normal costs of entrepreneurship are visible. This tax is the surcharge on t
 
 **Time.** Days lost to flares. Recovery days after the "good" day you overspent. The morning you needed and didn't have. [The SBA](https://www.sba.gov/) will tell you most small businesses run lean on time already; now subtract the days your body reclaims without asking.
 
-**Energy.** The specific, exhausting labor of *masking*, showing up to the Austin pitch meeting looking like the version of you that slept eight hours, when you slept two. Sociologists have studied this as emotional labor for decades; every chronically ill professional pays it and almost nobody expenses it.
+**Energy.** The specific, exhausting labor of **masking**, showing up to the Austin pitch meeting looking like the version of you that slept eight hours, when you slept two. Sociologists have studied this as emotional labor for decades; every chronically ill professional pays it and almost nobody expenses it.
 
 **Redundancy.** Healthy founders can be a single point of failure and mostly get away with it. You can't. So you build backup, documented processes, a second person who can run the thing, buffers in every timeline. That redundancy is expensive up front and it is not optional.
 

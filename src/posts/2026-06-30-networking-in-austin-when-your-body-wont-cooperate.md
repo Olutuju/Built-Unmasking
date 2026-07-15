@@ -19,7 +19,7 @@ The hardest part of networking with a chronic illness isn't the event. It's the 
 
 ## Rule 1: Plan against your average, not your peak
 
-Founders are optimists, it's practically a job requirement. But scheduling from your best day is how you end up canceling from your worst. Look at a real month and ask what your *median* capacity is. Build your networking calendar for that person. [HBR's work on managing energy over time](https://hbr.org/) applies double to us: the resource you're rationing isn't hours, it's usable ones.
+Founders are optimists, it's practically a job requirement. But scheduling from your best day is how you end up canceling from your worst. Look at a real month and ask what your **median** capacity is. Build your networking calendar for that person. [HBR's work on managing energy over time](https://hbr.org/) applies double to us: the resource you're rationing isn't hours, it's usable ones.
 
 ## Rule 2: Keep scripts loaded
 
@@ -33,7 +33,7 @@ Notice none of them hand over a diagnosis. You owe people a reschedule, not your
 
 ## Rule 3: Let async carry the weight
 
-The standing-room model pretends the only real connection happens live and loud. It doesn't. A thoughtful email, a genuinely useful intro, a comment that shows you actually read someone's work, these build relationships on your schedule, from your couch, on a bad day. [Paul Graham has written](https://www.paulgraham.com/articles.html) about how the best professional relationships are built on being genuinely useful over time, not on working a room once. That is *good* news for us.
+The standing-room model pretends the only real connection happens live and loud. It doesn't. A thoughtful email, a genuinely useful intro, a comment that shows you actually read someone's work, these build relationships on your schedule, from your couch, on a bad day. [Paul Graham has written](https://www.paulgraham.com/articles.html) about how the best professional relationships are built on being genuinely useful over time, not on working a room once. That is **good** news for us.
 
 ## Rule 4: Trade up to warm introductions
 

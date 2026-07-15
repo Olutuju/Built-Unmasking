@@ -19,7 +19,7 @@ You cannot schedule a flare. It doesn't check your calendar, it doesn't care abo
 
 ## Assume the flare into the design
 
-Most founders design for the good day and get ambushed by the bad one. Flip it. Design for the bad day and be pleasantly surprised by the good one. When "I might be down for three days with no warning" is a *design input* instead of a disaster, you build very different systems:
+Most founders design for the good day and get ambushed by the bad one. Flip it. Design for the bad day and be pleasantly surprised by the good one. When "I might be down for three days with no warning" is a **design input** instead of a disaster, you build very different systems:
 
 - **Documentation, so the business runs without you.** If the only copy of how something works is in your head, a flare takes the whole company down with you. Write it down. This is the same [systems discipline](/blog/corporate-to-founder-executive-rigor-chronic-illness-austin/) good operators already have.
 - **Buffers in every timeline.** A deadline with no slack is a promise you can only keep if you never get sick. Quote realistically. [First Round Review](https://review.firstround.com/) is full of founders who learned the hard way that under-promising and over-delivering beats the reverse.
@@ -27,13 +27,13 @@ Most founders design for the good day and get ambushed by the bad one. Flip it. 
 
 ## Batch the high-stakes work into your good windows
 
-Most chronically ill people have *some* pattern (mornings are better, or the two days after rest, or whatever yours is. Treat those windows as your most valuable real estate. The board deck, the big pitch, the hard decision) batch them into your reliable hours and defend those hours like they're revenue, because they are. Everything low-stakes can live in the unpredictable time.
+Most chronically ill people have **some** pattern (mornings are better, or the two days after rest, or whatever yours is. Treat those windows as your most valuable real estate. The board deck, the big pitch, the hard decision) batch them into your reliable hours and defend those hours like they're revenue, because they are. Everything low-stakes can live in the unpredictable time.
 
 > A flare is only a crisis if your business required you to be well. Build one that doesn't, and the flare becomes a scheduling problem instead of an existential one.
 
 ## You usually don't owe anyone a diagnosis
 
-The instinct is to over-explain to clients and partners. Resist it. What clients actually want is for the work to land and the communication to be reliable, not the medical reason a given Wednesday was hard. Set expectations through *systems*: honest timelines, a backup contact, a rhythm of updates. A downtown Austin agency owner I know has never once disclosed her condition to a client, because her operation is built so well that she never has to. The work speaks; the illness stays hers.
+The instinct is to over-explain to clients and partners. Resist it. What clients actually want is for the work to land and the communication to be reliable, not the medical reason a given Wednesday was hard. Set expectations through **systems**: honest timelines, a backup contact, a rhythm of updates. A downtown Austin agency owner I know has never once disclosed her condition to a client, because her operation is built so well that she never has to. The work speaks; the illness stays hers.
 
 That's the quiet power move, not hiding, exactly, but making the illness irrelevant to whether you deliver. It takes real design work up front. It's a lot easier when you're comparing notes with people who've solved the same puzzle, which is most of what happens at the [monthly downtown gathering](/events/).
 

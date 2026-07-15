@@ -15,7 +15,7 @@ faq:
     a: "Yes. Flexible or part-time coworking suits chronically ill founders well, you get professional space, ambient contact, and a change of environment on your good days without committing to a daily commute you can't reliably make. Match the membership to your real attendance, not an aspirational one."
 ---
 
-Working from home when you're chronically ill is a double-edged sword: it's flexible and forgiving, but it can also blur into isolation and turn your recovery space into your grind space. Coworking can fix that, *if* you choose it as an energy decision, not just a real-estate one. Here's how I think about workspace in **downtown Austin**.
+Working from home when you're chronically ill is a double-edged sword: it's flexible and forgiving, but it can also blur into isolation and turn your recovery space into your grind space. Coworking can fix that, **if** you choose it as an energy decision, not just a real-estate one. Here's how I think about workspace in **downtown Austin**.
 
 ## The space is an energy variable
 
@@ -25,8 +25,8 @@ A workspace either adds to your energy cost or subtracts from it. A loud, open, 
 
 - **Quiet zones and private rooms.** Open-plan buzz is expensive for a lot of us. You want the option of a door, a phone booth, a genuinely quiet floor.
 - **Proximity and easy access.** Downtown's advantage is density. A space near your home, near transit, with real parking, turns the commute from a tax into a rounding error. The closer, the more days you can actually use it.
-- **Flexible, part-time access.** Do not sign up for a daily-desk model your body can't honor. Look for part-time, hot-desk, or day-pass options so your membership matches your *real* attendance, not an aspirational one.
-- **Calm sensory environment.** Lighting, noise, air, temperature. The nicer downtown spaces increasingly compete on exactly this. Go tour on a normal workday and just *feel* whether your nervous system settles or braces.
+- **Flexible, part-time access.** Do not sign up for a daily-desk model your body can't honor. Look for part-time, hot-desk, or day-pass options so your membership matches your **real** attendance, not an aspirational one.
+- **Calm sensory environment.** Lighting, noise, air, temperature. The nicer downtown spaces increasingly compete on exactly this. Go tour on a normal workday and just **feel** whether your nervous system settles or braces.
 
 ## Use it for the good days
 
@@ -38,6 +38,6 @@ Here's the mindset shift: coworking doesn't have to be your everyday. Use it as 
 
 There's a quieter payoff. A good downtown space gives you low-pressure professional contact without the performance of a networking event, you can [meet people](/blog/where-chronically-ill-founders-meet-downtown-austin/) just by sharing a quiet floor with them. [Harvard Business Review](https://hbr.org/) has written plenty about why workplace "weak ties" matter for opportunity and morale; coworking is a way to keep those ties alive without the standing-room cost.
 
-And when you want the *strong* ties (a real peer group, not just ambient contact) that's what the [monthly downtown gathering](/events/) is for. Same neighborhood, deeper room.
+And when you want the **strong** ties (a real peer group, not just ambient contact) that's what the [monthly downtown gathering](/events/) is for. Same neighborhood, deeper room.
 
 [Come find both.](/community/)

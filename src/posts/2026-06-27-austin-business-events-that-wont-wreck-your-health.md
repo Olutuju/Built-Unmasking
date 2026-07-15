@@ -19,7 +19,7 @@ Austin will happily hand you a business event every single night of the week. SX
 
 ## Attendance is not the goal
 
-Let go of the idea that a "good" founder goes to everything. That's FOMO wearing a productivity costume. The goal is *value per unit of energy*, and by that measure, going to ten events and crashing for a week is a terrible trade. Going to one, well-chosen, rested, and getting three real conversations out of it is a great one.
+Let go of the idea that a "good" founder goes to everything. That's FOMO wearing a productivity costume. The goal is **value per unit of energy**, and by that measure, going to ten events and crashing for a week is a terrible trade. Going to one, well-chosen, rested, and getting three real conversations out of it is a great one.
 
 [Cal Newport's](https://www.calnewport.com/) whole argument about deep versus shallow work maps perfectly onto events: a little, done deliberately, beats a lot done frantically.
 
@@ -31,7 +31,7 @@ Before you RSVP to anything, run it through this:
 2. **Audit the format.** Seated or standing? Loud or quiet? Two hours or open-ended? The [format decides the cost](/blog/where-chronically-ill-founders-meet-downtown-austin/) more than the topic does.
 3. **Arrive rested, on purpose.** Treat the day before an anchor event like the day before a flight you can't miss. Protect it.
 4. **Find the quiet room.** Every big Austin venue has a corner, a lobby, a bench. Scout it in advance. Ten minutes seated in silence mid-event can buy you another hour.
-5. **Block recovery first.** Put the recovery day on the calendar *before* the event, not after you've already overspent. This is non-negotiable.
+5. **Block recovery first.** Put the recovery day on the calendar **before** the event, not after you've already overspent. This is non-negotiable.
 
 ## SXSW without the wreckage
 
@@ -41,6 +41,6 @@ The city's marquee event is survivable if you refuse to play it the way the badg
 
 ## The best trade of all
 
-Here's the quiet truth after years of this: the single highest value-per-energy format isn't a conference at all. It's a small, curated, seated room of the *right* people. That's the entire thesis behind a good community, you stop chasing the big rooms because you already have the right small one. It's why the [monthly downtown gathering](/events/) is deliberately tiny and low-effort to attend.
+Here's the quiet truth after years of this: the single highest value-per-energy format isn't a conference at all. It's a small, curated, seated room of the **right** people. That's the entire thesis behind a good community, you stop chasing the big rooms because you already have the right small one. It's why the [monthly downtown gathering](/events/) is deliberately tiny and low-effort to attend.
 
 Triage the big calendar. Protect your energy. And [keep one standing table](/community/) of people worth spending it on.

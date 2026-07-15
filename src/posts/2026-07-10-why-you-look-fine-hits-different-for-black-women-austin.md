@@ -21,7 +21,7 @@ faq:
 
 ## Strength, mistaken for the absence of a problem
 
-The "strong Black woman" script isn't new and it isn't subtle. It reads endurance under pressure as an identity trait: *she just handles it, she always does.* Said as praise, it forecloses the actual question underneath, *is she okay*, before anyone has to ask it. If "you look fine" makes people discount what an accomplished woman tells them, "you're always so strong" does something worse: it turns the exhaustion itself into evidence of capability, so the more she's visibly carrying, the less anyone thinks to check on the cost.
+The "strong Black woman" script isn't new and it isn't subtle. It reads endurance under pressure as an identity trait: **she just handles it, she always does.** Said as praise, it forecloses the actual question underneath, **is she okay**, before anyone has to ask it. If "you look fine" makes people discount what an accomplished woman tells them, "you're always so strong" does something worse: it turns the exhaustion itself into evidence of capability, so the more she's visibly carrying, the less anyone thinks to check on the cost.
 
 That's a specific bind. Not "nobody believes me," but "the more I hold up, the less anyone thinks there's anything to ask about."
 
@@ -31,7 +31,7 @@ I don't want to leave this as an impression, because it isn't one. Research on p
 
 ## Why this matters for who's in the room
 
-I built this room because I got tired of being the only one at the table who understood both halves of "built and struggling" at once. But "the room already gets it" isn't evenly true for everyone who walks in. A white woman in this community still has to fight the "you look too successful for that" reflex. A Black woman in the same room is often fighting that reflex *plus* a second one that reframes her exhaustion as proof of strength instead of a signal to check in. Pretending those are the same fight doesn't make the room more welcoming, it just makes the second one invisible again, which is exactly the thing this whole project exists to stop doing.
+I built this room because I got tired of being the only one at the table who understood both halves of "built and struggling" at once. But "the room already gets it" isn't evenly true for everyone who walks in. A white woman in this community still has to fight the "you look too successful for that" reflex. A Black woman in the same room is often fighting that reflex **plus** a second one that reframes her exhaustion as proof of strength instead of a signal to check in. Pretending those are the same fight doesn't make the room more welcoming, it just makes the second one invisible again, which is exactly the thing this whole project exists to stop doing.
 
 > Being believed isn't just about who's in the room. It's about whether the room already knows what you're carrying, instead of needing you to prove it twice.
 

@@ -23,7 +23,7 @@ When you ran a function at a major company (or survived the [consulting](/blog/w
 
 - **Ruthless prioritization.** You know how to look at forty things and name the three that matter. When your usable hours are cut in half by illness, that's not a nice-to-have, it's the whole game.
 - **Delegation.** You managed managers. You already know work doesn't require your hands on every piece. Most solo founders have to unlearn heroics; you learned to let go years ago.
-- **Systems over heroics.** You built processes that ran without you in the room. A chronically ill founder *has* to be replaceable inside her own company. You already know how.
+- **Systems over heroics.** You built processes that ran without you in the room. A chronically ill founder **has** to be replaceable inside her own company. You already know how.
 - **Resource forecasting.** You ran a budget, a plan, a P&L. Now you run one more line item: capacity.
 
 ## Run your body like a P&L

@@ -25,7 +25,7 @@ The cruelty is the moral framing. When "just work harder" is the whole philosoph
 
 ## The data was never on hustle's side
 
-Here's the part that should make every grind-culture founder uncomfortable: the productivity research doesn't back them up. Study after study ([Stanford's well-known work on the productivity cliff of long hours](https://siepr.stanford.edu/), the broad literature summarized repeatedly in [Harvard Business Review](https://hbr.org/)) finds that output *degrades* past a certain point, and that sustained overwork produces worse decisions, not more of them. Sprinting past your limits doesn't even win on hustle's own terms. Chronically ill founders just hit the cliff sooner and can't pretend it isn't there.
+Here's the part that should make every grind-culture founder uncomfortable: the productivity research doesn't back them up. Study after study ([Stanford's well-known work on the productivity cliff of long hours](https://siepr.stanford.edu/), the broad literature summarized repeatedly in [Harvard Business Review](https://hbr.org/)) finds that output **degrades** past a certain point, and that sustained overwork produces worse decisions, not more of them. Sprinting past your limits doesn't even win on hustle's own terms. Chronically ill founders just hit the cliff sooner and can't pretend it isn't there.
 
 > Hustle culture isn't even efficient. It's a story healthy people tell themselves right up until their own body sends the bill. We just get ours early.
 
@@ -39,6 +39,6 @@ The model that beats hustle isn't laziness. It's **sustainable, compounding outp
 
 ## Austin can actually lead here
 
-Austin loves to talk about a better way to build than Silicon Valley's. Fine, then prove it on this. A founder culture that measures people by durable output instead of visible martyrdom would be genuinely differentiating, and it would be *better for everyone*, not just the chronically ill. We're simply the canary that shows the flaw first.
+Austin loves to talk about a better way to build than Silicon Valley's. Fine, then prove it on this. A founder culture that measures people by durable output instead of visible martyrdom would be genuinely differentiating, and it would be **better for everyone**, not just the chronically ill. We're simply the canary that shows the flaw first.
 
 That's part of what I want [this community](/about/) to model in Austin: proof that you can build something serious without lighting yourself on fire to do it. [Come help make that the norm here.](/community/)

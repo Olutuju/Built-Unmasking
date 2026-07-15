@@ -42,7 +42,7 @@ Think about what you're actually trying to figure out as a chronically ill found
 
 That's why [Built & Unmasking](/about/) is not, and will never be, a medical resource. No treatment advice. No "have you tried" from people who haven't lived it. Just accomplished people in Austin who are solving the same real problems and comparing notes as equals.
 
-The research on peer support in other contexts is strong: [Stanford Social Innovation Review](https://ssir.org/) and others have documented for years how peer models create change that expert-delivered services can't. But honestly, you don't need a citation for this one. You already know the difference between talking to someone who *gets it* and someone who's read about it.
+The research on peer support in other contexts is strong: [Stanford Social Innovation Review](https://ssir.org/) and others have documented for years how peer models create change that expert-delivered services can't. But honestly, you don't need a citation for this one. You already know the difference between talking to someone who **gets it** and someone who's read about it.
 
 ## Find your people
 

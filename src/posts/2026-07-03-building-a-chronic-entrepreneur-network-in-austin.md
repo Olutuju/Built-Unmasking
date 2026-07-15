@@ -17,7 +17,7 @@ faq:
 
 Here is the room I went looking for and couldn't find in Austin: accomplished people (founders, ex-operators, people who ran real teams and real numbers) who also live with chronic illness, sitting together and talking straight about both.
 
-Not a support group. Not a mastermind full of people optimizing their morning routines. A peer group where I don't have to explain the achievement *or* the illness, because everyone already gets both.
+Not a support group. Not a mastermind full of people optimizing their morning routines. A peer group where I don't have to explain the achievement **or** the illness, because everyone already gets both.
 
 It doesn't exist here. So I'm building it, in **downtown Austin**, where I live.
 
@@ -25,7 +25,7 @@ It doesn't exist here. So I'm building it, in **downtown Austin**, where I live.
 
 Austin has no shortage of entrepreneur energy. The [Austin Chamber](https://www.austinchamber.com/) will happily tell you we're one of the best startup cities in the country, and the data mostly backs it up. But walk into almost any of those rooms and the unspoken assumption is a body that always cooperates: 7am coffees, standing happy hours, "just push through the quarter."
 
-And the chronic-illness communities I found put me in a chair as a *patient*, first and always. Symptoms, systems, coping. All real. But they treat the most ambitious part of me like a distraction from the important business of being sick.
+And the chronic-illness communities I found put me in a chair as a **patient**, first and always. Symptoms, systems, coping. All real. But they treat the most ambitious part of me like a distraction from the important business of being sick.
 
 I'm neither of those defaults. I built a career through serious rooms (the kind of corporate and finance work where you learn what real rigor costs) and I did it while managing a body that keeps its own schedule. I know I'm not the only one in this city living in that exact overlap. The overlap is the whole point. It's why I named this [Built & Unmasking](/about/): the layer that grows and holds everything up from the shade, unseen.
 

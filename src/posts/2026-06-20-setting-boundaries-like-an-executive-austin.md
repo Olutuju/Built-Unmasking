@@ -25,7 +25,7 @@ The move is simply to point that same muscle at your **health**. Your peak hours
 
 ## Boundaries are a system, not a mood
 
-Fuzzy boundaries leak. "I'll try to make it," "maybe I can squeeze it in," "let me see", these invite exactly the erosion that costs you a flare. Executives don't run on maybes; they run on clear commitments. So define yours as *rules*, not moods:
+Fuzzy boundaries leak. "I'll try to make it," "maybe I can squeeze it in," "let me see", these invite exactly the erosion that costs you a flare. Executives don't run on maybes; they run on clear commitments. So define yours as **rules**, not moods:
 
 - **Non-negotiables named in advance.** "I don't take meetings before 10." "Fridays are heads-down." Decide once, not every time.
 - **Communicated without apology.** "That doesn't work for me, here's what does." No paragraph of justification. [You don't owe a diagnosis](/blog/networking-in-austin-when-your-body-wont-cooperate/) to enforce a calendar.
@@ -35,7 +35,7 @@ Fuzzy boundaries leak. "I'll try to make it," "maybe I can squeeze it in," "let 
 
 ## The counterintuitive part: boundaries build authority
 
-Founders fear that boundaries make them look less committed. The opposite is true, and the leadership research backs it. [Harvard Business Review](https://hbr.org/) has covered at length how leaders who model sustainable limits earn *more* trust and build healthier organizations, not less. Clear edges read as confidence. The person who's always available, always scrambling, always saying yes reads as someone without control of their own operation. You want to be the calm one with the firm no.
+Founders fear that boundaries make them look less committed. The opposite is true, and the leadership research backs it. [Harvard Business Review](https://hbr.org/) has covered at length how leaders who model sustainable limits earn **more** trust and build healthier organizations, not less. Clear edges read as confidence. The person who's always available, always scrambling, always saying yes reads as someone without control of their own operation. You want to be the calm one with the firm no.
 
 And when you set boundaries openly as a founder, you give everyone around you (your team, your peers) permission to do the same. That's culture-building, not selfishness.
 

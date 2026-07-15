@@ -19,7 +19,7 @@ Two Austin founders get hit with the same flare-up in the same week. One loses t
 
 ## Brittle models vs. bending models
 
-A business is brittle when it requires *you*, *here*, *now*, reliably. Fixed in-person hours. A founder who has to physically be in the room for everything to function. Synchronous everything. That model works beautifully right up until your body doesn't cooperate, and then it snaps.
+A business is brittle when it requires **you**, **here**, **now**, reliably. Fixed in-person hours. A founder who has to physically be in the room for everything to function. Synchronous everything. That model works beautifully right up until your body doesn't cooperate, and then it snaps.
 
 A bending model assumes flexibility from the start:
 
@@ -41,6 +41,6 @@ Austin is a genuinely good place to do this. It's a real hub for remote and dist
 
 The mistake is waiting until a crisis to introduce flexibility. By then you're making structural decisions from your worst day, with the least energy. Do it now, from a good week: write the processes, set up the async workflows, design the redundancy. It's the same [forward-planning discipline](/blog/corporate-to-founder-executive-rigor-chronic-illness-austin/) you'd apply to any operational risk, you're just underwriting your own capacity.
 
-Figuring out the right structure for *your* business and illness is exactly the kind of problem that's easier with people who've solved it for theirs. That comparing-of-notes is a lot of what happens at the [monthly downtown gathering](/events/).
+Figuring out the right structure for **your** business and illness is exactly the kind of problem that's easier with people who've solved it for theirs. That comparing-of-notes is a lot of what happens at the [monthly downtown gathering](/events/).
 
 [Come design a business that bends.](/community/)

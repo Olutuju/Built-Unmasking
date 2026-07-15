@@ -37,6 +37,19 @@ Community is a local thing before it's anything else. So the heart of Built & Un
   </div>
 
   <div class="field">
+    <label for="rsvp-industry">Industry</label>
+    <select id="rsvp-industry" name="industry" required>
+      <option value="" disabled selected>Choose one</option>
+      <option>Private Equity</option>
+      <option>Investment Banking</option>
+      <option>Strategy Consulting</option>
+      <option>Other Finance</option>
+      <option>Other Consulting</option>
+      <option>Other</option>
+    </select>
+  </div>
+
+  <div class="field">
     <label for="rsvp-level">Level</label>
     <select id="rsvp-level" name="level" required>
       <option value="" disabled selected>Choose one</option>
@@ -45,18 +58,6 @@ Community is a local thing before it's anything else. So the heart of Built & Un
       <option>C-Suite</option>
       <option>Senior Leadership</option>
       <option>Product Manager</option>
-      <option>Other</option>
-    </select>
-  </div>
-
-  <div class="field">
-    <label for="rsvp-industry">Industry</label>
-    <select id="rsvp-industry" name="industry" required>
-      <option value="" disabled selected>Choose one</option>
-      <option>Investment Banking</option>
-      <option>Strategy Consulting</option>
-      <option>Other Finance</option>
-      <option>Other Consulting</option>
       <option>Other</option>
     </select>
   </div>

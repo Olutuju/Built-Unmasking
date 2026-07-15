@@ -23,7 +23,7 @@ There are a lot of her here. This is for her.
 
 Two facts sit on top of each other. First, **chronic and autoimmune illness disproportionately affects women**, that's well established, and women are also more likely to have symptoms dismissed or diagnosis delayed, which is its own long story about [why so many of us don't trust the system](/blog/peer-community-over-medical-advice-austin/).
 
-Second, the professional pressure to appear *effortless* is heaviest exactly on high-achieving women. The research on this is deep: [Harvard Business Review](https://hbr.org/) and [McKinsey's Women in the Workplace](https://www.mckinsey.com/) work document, year after year, the extra scrutiny and the narrower margin women get for any sign of "not having it together." Add a chronic illness to that and the incentive is obvious: hide it. Perform the effortless version. Never let them see the cost.
+Second, the professional pressure to appear **effortless** is heaviest exactly on high-achieving women. The research on this is deep: [Harvard Business Review](https://hbr.org/) and [McKinsey's Women in the Workplace](https://www.mckinsey.com/) work document, year after year, the extra scrutiny and the narrower margin women get for any sign of "not having it together." Add a chronic illness to that and the incentive is obvious: hide it. Perform the effortless version. Never let them see the cost.
 
 So they don't. And the result is a city full of accomplished women each privately convinced she's the only one, when the truth is she's surrounded by others running the exact same silent marathon.
 
@@ -31,7 +31,7 @@ So they don't. And the result is a city full of accomplished women each privatel
 
 ## Visibility to each other, not to the world
 
-I want to be careful here, because I'm not telling anyone to disclose. [You control disclosure](/blog/building-work-around-flares-austin-operators/), always, and there are real reasons to keep your illness out of certain rooms. The visibility I'm talking about is different: it's private, lateral, peer to peer. It's finding the other women who are doing this, so you can drop the performance *with them*, even while you keep it up everywhere else.
+I want to be careful here, because I'm not telling anyone to disclose. [You control disclosure](/blog/building-work-around-flares-austin-operators/), always, and there are real reasons to keep your illness out of certain rooms. The visibility I'm talking about is different: it's private, lateral, peer to peer. It's finding the other women who are doing this, so you can drop the performance **with them**, even while you keep it up everywhere else.
 
 That's a specific and precious kind of room. Not a stage. A back table where the mask comes off because everyone at it wears the same one out in the world.
 

@@ -15,7 +15,7 @@ faq:
     a: "Spoon theory describes chronic-illness energy as a limited daily supply of 'spoons' you spend on every task. Applied to business, it's portfolio allocation: you have finite units of capacity, so you invest them where the return is highest and stop spending them on low-value obligations."
 ---
 
-Most productivity advice manages *time* (as if the only scarce resource is the hours in the day. For a chronically ill founder, that's the wrong ledger. You can have a wide-open calendar and no capacity to use it. Your scarce resource isn't time. It's **energy**) and once you treat it like the capital it is, everything about how you run your business in Austin changes.
+Most productivity advice manages **time** (as if the only scarce resource is the hours in the day. For a chronically ill founder, that's the wrong ledger. You can have a wide-open calendar and no capacity to use it. Your scarce resource isn't time. It's **energy**) and once you treat it like the capital it is, everything about how you run your business in Austin changes.
 
 ## Spoon theory is just portfolio theory
 
@@ -42,6 +42,6 @@ This is the same rigor you'd apply to [running a business like a P&L](/blog/corp
 
 ## Why this needs a community
 
-Here's the catch: allocating energy well requires *permission*, permission to decline, to protect your window, to not perform availability. That permission is far easier to hold when you're surrounded by people who allocate the same way, instead of a culture screaming at you to grind. It's a lot of what we trade at the [monthly downtown gathering](/events/): the tactics, yes, but also the collective backbone to actually use them.
+Here's the catch: allocating energy well requires **permission**, permission to decline, to protect your window, to not perform availability. That permission is far easier to hold when you're surrounded by people who allocate the same way, instead of a culture screaming at you to grind. It's a lot of what we trade at the [monthly downtown gathering](/events/): the tactics, yes, but also the collective backbone to actually use them.
 
 [Come compare portfolios.](/community/)

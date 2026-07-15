@@ -19,9 +19,9 @@ Most founders treat delegation as a growth problem, something you do once you're
 
 ## The single-point-of-failure problem
 
-Here's the uncomfortable audit: what work, right now, can *only* you do? Every one of those is a single point of failure. A healthy founder can carry a pile of them for years and mostly get away with it. You can't, because any of those tasks becomes a crisis the moment a flare hits. So your delegation priority list isn't "what's annoying." It's "what only I can currently do," ranked by how badly it'd hurt if I were down for a week.
+Here's the uncomfortable audit: what work, right now, can **only** you do? Every one of those is a single point of failure. A healthy founder can carry a pile of them for years and mostly get away with it. You can't, because any of those tasks becomes a crisis the moment a flare hits. So your delegation priority list isn't "what's annoying." It's "what only I can currently do," ranked by how badly it'd hurt if I were down for a week.
 
-This is just [systems-over-heroics](/blog/corporate-to-founder-executive-rigor-chronic-illness-austin/) thinking applied with more urgency. If you managed people before, you already know work doesn't require your hands. You just have to believe it applies to *your* work too.
+This is just [systems-over-heroics](/blog/corporate-to-founder-executive-rigor-chronic-illness-austin/) thinking applied with more urgency. If you managed people before, you already know work doesn't require your hands. You just have to believe it applies to **your** work too.
 
 ## Delegate before the flare, not during it
 
@@ -40,7 +40,7 @@ Do it while you're well:
 
 The mechanics of delegation are easy. The psychology is brutal, especially for high-achievers whose competence has always been the point. Handing your work to someone who'll do it 80% as well as you (at first) feels like failure. [Harvard Business Review](https://hbr.org/) has written endlessly about why capable leaders under-delegate, and it's almost always this: the identity knot, not the logistics.
 
-Here's the reframe that helped me. Refusing to delegate doesn't make you more capable. It makes your business *more fragile* and ties its survival to your worst day. The truly capable move (the executive move) is to build something that outlasts your presence in the room. That's not letting go of control. That's a higher form of it.
+Here's the reframe that helped me. Refusing to delegate doesn't make you more capable. It makes your business **more fragile** and ties its survival to your worst day. The truly capable move (the executive move) is to build something that outlasts your presence in the room. That's not letting go of control. That's a higher form of it.
 
 Working through that knot is a lot easier alongside people who've untied it themselves. It comes up constantly at the [monthly downtown gathering](/events/).
 
