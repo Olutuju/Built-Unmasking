@@ -61,14 +61,22 @@ export default {
     area: "Downtown Austin",
     seats: 20,
     blurb:
-      "A low-spoons evening for business owners, founders, and company executives living with chronic illness. Seated, quiet-friendly, no pressure to stay the whole time.",
+      "A low-spoons evening for business owners, founders, and company executives living with chronic illness or high-functioning autism. Seated, quiet-friendly, no pressure to stay the whole time.",
   },
 
-  // Formspree endpoint for the "get notified" form on the events page.
+  // Formspree endpoint for the RSVP form on the events page.
   // Create a free form at formspree.io, paste the endpoint below (looks like
   // https://formspree.io/f/xxxxxxxx), then rebuild. Leave blank and the form
   // won't submit anywhere yet.
   formspreeEndpoint: "https://formspree.io/f/mkodnwwe",
+
+  // Formspree endpoint for the lighter-weight "email me the blog + gathering
+  // announcements" signup (a low-friction alternative to RSVPing for people
+  // not ready to commit yet). Create a SECOND, separate free form at
+  // formspree.io for this (keeps notify-list signups from mixing with RSVP
+  // data), paste the endpoint below, then rebuild. Leave blank and the form
+  // won't submit anywhere yet.
+  notifyFormspreeEndpoint: "",
 
   // Build output folder.
   outDir: "dist",

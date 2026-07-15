@@ -73,6 +73,14 @@ Community is a local thing before it's anything else. So the heart of Built & Un
   <p class="rsvp-fine">This is your RSVP. I'll send the address once it's locked in, nothing else.</p>
 </form>
 
+<div class="notify-form">
+  <p>Not ready to RSVP yet? Get new posts and the next gathering announcement by email, no level, no industry, no why, just email.</p>
+  <form class="notify-row" action="__NOTIFY_FORMSPREE_ENDPOINT__" method="POST">
+    <input type="email" name="email" placeholder="you@wherever.com" required>
+    <button type="submit" class="btn">Keep me posted</button>
+  </form>
+</div>
+
 ## The details
 
 - **What:** Built & Unmasking Monthly Gathering

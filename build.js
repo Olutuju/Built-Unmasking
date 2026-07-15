@@ -42,9 +42,11 @@ function write(rel, content) {
   const full = path.join(OUT, rel);
   fs.mkdirSync(path.dirname(full), { recursive: true });
   // Swap in config-driven tokens any page's raw markdown/HTML may reference,
-  // e.g. the events page's signup form action.
+  // e.g. the events page's signup form actions.
   const resolved = typeof content === "string"
-    ? content.replaceAll("__FORMSPREE_ENDPOINT__", site.formspreeEndpoint || "")
+    ? content
+        .replaceAll("__FORMSPREE_ENDPOINT__", site.formspreeEndpoint || "")
+        .replaceAll("__NOTIFY_FORMSPREE_ENDPOINT__", site.notifyFormspreeEndpoint || "")
     : content;
   fs.writeFileSync(full, resolved);
 }

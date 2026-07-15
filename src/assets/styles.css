@@ -130,6 +130,14 @@ a:hover { color: var(--accent-2); }
 .rsvp-form .btn { border: none; cursor: pointer; font-size: .96rem; }
 .rsvp-form .rsvp-fine { margin: 14px 0 0; font-size: .82rem; color: var(--muted); }
 
+/* Lightweight secondary signup: not ready to RSVP, get emailed instead */
+.notify-form { max-width: var(--narrow); margin: 20px 0 40px; padding: 18px 20px; background: var(--accent-soft); border: 1px solid #f0c7ab; border-radius: var(--radius); }
+.notify-form p { margin: 0 0 12px; font-size: .92rem; color: var(--ink-soft); }
+.notify-form .notify-row { display: flex; gap: 10px; flex-wrap: wrap; }
+.notify-form input[type="email"] { flex: 1 1 220px; font-family: inherit; font-size: .92rem; color: var(--ink); background: #fff; border: 1px solid var(--line); border-radius: 8px; padding: 9px 12px; }
+.notify-form input[type="email"]:focus { outline: none; border-color: var(--accent); box-shadow: 0 0 0 3px var(--ring); }
+.notify-form .btn { border: none; cursor: pointer; font-size: .92rem; padding: 9px 18px; }
+
 /* Feature */
 .feature { display: block; background: #3a2418; color: #fff; border-radius: 18px; padding: 36px; text-decoration: none; margin-bottom: 28px; }
 .feature .kicker { color: #f0c7a3; }
