@@ -75,7 +75,7 @@ a:hover { color: var(--accent-2); }
 .ticks li { position: relative; padding-left: 28px; margin-bottom: 10px; }
 .ticks li::before { content: "✓"; position: absolute; left: 0; color: var(--accent); font-weight: 700; }
 
-.steps { list-style: none; padding: 0; margin: 0; display: grid; grid-template-columns: repeat(3, 1fr); gap: 28px; }
+.steps { list-style: none; padding: 0; margin: 0; display: grid; grid-template-columns: repeat(4, 1fr); gap: 24px; }
 .steps li { display: flex; gap: 14px; align-items: flex-start; }
 .steps .step-num { flex: none; display: inline-grid; place-items: center; width: 34px; height: 34px; border-radius: 50%; background: var(--accent); color: #fff; font-weight: 700; }
 .steps h3 { margin: 2px 0 4px; font-size: 1.05rem; }

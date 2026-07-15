@@ -533,16 +533,17 @@ for (const pg of pages) {
 <section class="wrap band">
   <div class="band-single">
     <h2>Who ends up in the room</h2>
-    <p>Mostly it's people who came up through top-50 corporate roles, strategy consulting firms like Accenture, private equity, investment banking, or built their own company from nothing, and who are also carrying chronic illness, high-functioning autism, or something else no one can see. A lot of us are women. Men who fit that same shape are welcome too. Nobody's checking credentials at the door, that's just who tends to walk in.</p>
+    <p>Mostly it's people who came up through top-50 corporate roles, strategy consulting firms like Accenture, private equity, investment banking, or built their own company from nothing, and who are also carrying chronic illness, high-functioning autism, or something else no one can see. A lot of us are women. Men who fit that same shape are welcome too. That's why every RSVP gets a look before the address goes out, so the room stays that shape instead of whoever finds the link first.</p>
   </div>
 </section>
 
 <section class="wrap band" id="how-to-come">
   <h2>How to come</h2>
   <ol class="steps">
-    <li><span class="step-num">1</span><div><h3>RSVP</h3><p>Save one of ${esc(String(site.event.seats))} seats. No application, nothing reviewed.</p></div></li>
-    <li><span class="step-num">2</span><div><h3>Get the address</h3><p>Sent the moment the venue's locked in, nothing else.</p></div></li>
-    <li><span class="step-num">3</span><div><h3>Show up</h3><p>Seated, quiet, say the real thing. Leave whenever you need to.</p></div></li>
+    <li><span class="step-num">1</span><div><h3>RSVP</h3><p>Request one of ${esc(String(site.event.seats))} seats.</p></div></li>
+    <li><span class="step-num">2</span><div><h3>Get reviewed</h3><p>Every RSVP gets a look, this keeps the room the right shape.</p></div></li>
+    <li><span class="step-num">3</span><div><h3>Get the address</h3><p>Approved RSVPs get the date and address once the venue's locked in.</p></div></li>
+    <li><span class="step-num">4</span><div><h3>Show up</h3><p>Seated, quiet, say the real thing. Leave whenever you need to.</p></div></li>
   </ol>
   <ul class="ticks" style="margin-top:24px">
     <li><strong>Discretion.</strong> What's said in the room stays in the room.</li>
@@ -573,7 +574,7 @@ for (const pg of pages) {
     { q: `Who is ${site.name} for?`, a: site.audience },
     { q: `Is this a medical or health-advice website?`, a: `No. ${site.name} is a peer community of professionals in Austin who live with chronic illness or high-functioning autism. It is explicitly not a medical resource and does not offer medical advice.` },
     { q: `Where is ${site.name} based?`, a: `${site.name} is based in ${site.neighborhood}, ${site.region}, and runs a monthly in-person meetup downtown.` },
-    { q: `How do I join ${site.name}?`, a: `RSVP on the events page. Once the venue's set, you'll get the address and show up. No application, nothing to explain beforehand.` },
+    { q: `How do I join ${site.name}?`, a: `RSVP on the events page. Every RSVP is reviewed; once yours is approved and the venue's set, you'll get the address and show up.` },
     { q: `Does it cost anything?`, a: `Right now it's free while the community is forming in Austin.` },
   ];
 
