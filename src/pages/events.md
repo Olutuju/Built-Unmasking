@@ -1,7 +1,7 @@
 ---
 title: "Monthly Gathering in Downtown Austin"
 slug: events
-description: "Built & Unmasking hosts a monthly in-person gathering in downtown Austin for accomplished professionals living with chronic illness. Capped at 20 seats. RSVP to save your seat."
+description: "Built & Unmasking hosts a monthly in-person gathering in downtown Austin for accomplished professionals living with chronic illness or high-functioning autism. Capped at 20 seats. RSVP to save your seat."
 takeaways:
   - "Monthly, first Wednesday, evening, in downtown Austin. Capped at 20 seats."
   - "Venue's still being picked. RSVP below to save a seat, the address follows once it's locked in."
@@ -76,7 +76,7 @@ Community is a local thing before it's anything else. So the heart of Built & Un
 ## The details
 
 - **What:** Built & Unmasking Monthly Gathering
-- **Who:** Accomplished founders, executives, and operators living with chronic illness (and the chronically-ill-curious who fit the room). Many of us are women; men who fit are welcome.
+- **Who:** Accomplished professionals, executives, and operators living with chronic illness or high-functioning autism (and anyone who fits the room's shape). Many of us are women; men who fit are welcome.
 - **When:** Monthly, **first Wednesday, 6:00 to 8:00 PM CT**
 - **Where:** Venue still being picked, same room every month once it's set
 - **Seats:** Capped at 20
@@ -104,4 +104,4 @@ This isn't a room for the polished version of yourself. Say the real thing: what
 
 RSVP above and I'll send the address once it's locked in. After that, there's nothing else to fill out, just show up, first Wednesday, 6 to 8 PM CT. The room is already built for common accommodations (seated, quiet, low-stimulation), so there's nothing to request ahead of time.
 
-Not sure yet? [Read the blog](/blog/) first, or [learn who this is for](/about/). Then come see the room for yourself.
+Not sure yet? [Read the blog](/blog/) first, or [learn who this is for](/). Then come see the room for yourself.

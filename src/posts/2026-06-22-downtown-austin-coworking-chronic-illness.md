@@ -40,4 +40,4 @@ There's a quieter payoff. A good downtown space gives you low-pressure professio
 
 And when you want the **strong** ties (a real peer group, not just ambient contact) that's what the [monthly downtown gathering](/events/) is for. Same neighborhood, deeper room.
 
-[Come find both.](/community/)
+[Come find both.](/events/)

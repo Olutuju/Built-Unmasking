@@ -40,4 +40,4 @@ Notice that none of this requires anyone to disclose a thing, or singles anyone 
 
 Everything above is the operating manual for the [monthly downtown Austin gathering](/events/), small, seated, quiet, time-boxed, come-and-go, accommodations by default. It's not complicated. It's just built for the people it's for.
 
-If you host anything (a dinner, a salon, a founder meetup) try running it this way. And if you'd rather just come to one that already works, [there's a chair waiting](/community/).
+If you host anything (a dinner, a salon, a founder meetup) try running it this way. And if you'd rather just come to one that already works, [there's a chair waiting](/events/).

@@ -43,4 +43,4 @@ The mistake is waiting until a crisis to introduce flexibility. By then you're m
 
 Figuring out the right structure for **your** business and illness is exactly the kind of problem that's easier with people who've solved it for theirs. That comparing-of-notes is a lot of what happens at the [monthly downtown gathering](/events/).
 
-[Come design a business that bends.](/community/)
+[Come design a business that bends.](/events/)

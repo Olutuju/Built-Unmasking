@@ -40,7 +40,7 @@ Think about what you're actually trying to figure out as a chronically ill found
 
 ## Peer to peer, on purpose
 
-That's why [Built & Unmasking](/about/) is not, and will never be, a medical resource. No treatment advice. No "have you tried" from people who haven't lived it. Just accomplished people in Austin who are solving the same real problems and comparing notes as equals.
+That's why [Built & Unmasking](/) is not, and will never be, a medical resource. No treatment advice. No "have you tried" from people who haven't lived it. Just accomplished people in Austin who are solving the same real problems and comparing notes as equals.
 
 The research on peer support in other contexts is strong: [Stanford Social Innovation Review](https://ssir.org/) and others have documented for years how peer models create change that expert-delivered services can't. But honestly, you don't need a citation for this one. You already know the difference between talking to someone who **gets it** and someone who's read about it.
 
@@ -48,4 +48,4 @@ The research on peer support in other contexts is strong: [Stanford Social Innov
 
 The medical system will do what it does. Meanwhile, the most valuable thing you can build for yourself isn't another appointment, it's a room of people who don't need the situation explained. That's what I'm making here in Austin: [a monthly gathering downtown](/events/) and a network of peers, no white coats required.
 
-If you're tired of being handed pamphlets and want people instead, [come find your people](/community/).
+If you're tired of being handed pamphlets and want people instead, [come find your people](/events/).

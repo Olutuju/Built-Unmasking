@@ -41,6 +41,6 @@ Here's what almost no one tells you: chronic illness can **sharpen** ambition. W
 
 ## Redefining it together
 
-It's genuinely hard to hold a quieter definition of success while the whole culture screams the loud one at you. That's why doing it in community matters, a room where durability and autonomy are the shared scoreboard makes it possible to actually live by them. Building that room in Austin is the entire point of [what I'm making here](/about/).
+It's genuinely hard to hold a quieter definition of success while the whole culture screams the loud one at you. That's why doing it in community matters, a room where durability and autonomy are the shared scoreboard makes it possible to actually live by them. Building that room in Austin is the entire point of [what I'm making here](/).
 
-[Come define success on your own terms, with people who share them.](/community/)
+[Come define success on your own terms, with people who share them.](/events/)

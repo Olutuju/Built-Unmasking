@@ -27,7 +27,7 @@ Austin has no shortage of entrepreneur energy. The [Austin Chamber](https://www.
 
 And the chronic-illness communities I found put me in a chair as a **patient**, first and always. Symptoms, systems, coping. All real. But they treat the most ambitious part of me like a distraction from the important business of being sick.
 
-I'm neither of those defaults. I built a career through serious rooms (the kind of corporate and finance work where you learn what real rigor costs) and I did it while managing a body that keeps its own schedule. I know I'm not the only one in this city living in that exact overlap. The overlap is the whole point. It's why I named this [Built & Unmasking](/about/): the layer that grows and holds everything up from the shade, unseen.
+I'm neither of those defaults. I built a career through serious rooms (the kind of corporate and finance work where you learn what real rigor costs) and I did it while managing a body that keeps its own schedule. I know I'm not the only one in this city living in that exact overlap. The overlap is the whole point. It's why I named this [Built & Unmasking](/): the layer that grows and holds everything up from the shade, unseen.
 
 ## Why this is not a medical site
 
@@ -50,4 +50,4 @@ Many of the people I most want in the room are women. Men who genuinely fit belo
 
 Two things, starting now. There's this blog, a new post regularly, always rooted here in Austin, always in my actual voice. And there's a [monthly gathering downtown](/events/), built for real bodies: seated, quiet, come and go as you need.
 
-If you've read this far and felt the click of recognition, that's not an accident. [Come find the room.](/community/) I'll keep building it either way, but it's better with you in it.
+If you've read this far and felt the click of recognition, that's not an accident. [Come find the room.](/events/) I'll keep building it either way, but it's better with you in it.

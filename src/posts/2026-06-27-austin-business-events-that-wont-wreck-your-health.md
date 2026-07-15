@@ -43,4 +43,4 @@ The city's marquee event is survivable if you refuse to play it the way the badg
 
 Here's the quiet truth after years of this: the single highest value-per-energy format isn't a conference at all. It's a small, curated, seated room of the **right** people. That's the entire thesis behind a good community, you stop chasing the big rooms because you already have the right small one. It's why the [monthly downtown gathering](/events/) is deliberately tiny and low-effort to attend.
 
-Triage the big calendar. Protect your energy. And [keep one standing table](/community/) of people worth spending it on.
+Triage the big calendar. Protect your energy. And [keep one standing table](/events/) of people worth spending it on.

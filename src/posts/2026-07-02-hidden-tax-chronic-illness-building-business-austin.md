@@ -45,4 +45,4 @@ You can't get the tax repealed. You can stop overpaying:
 
 The founders I know here who've made peace with this aren't working less hard. They're just done paying the shame surtax on top of the real one. That alone gives you a quarter of your capacity back.
 
-That's a conversation worth having in person. It's most of what we talk about at the [monthly downtown gathering](/events/), and why I [built this network](/community/) in the first place.
+That's a conversation worth having in person. It's most of what we talk about at the [monthly downtown gathering](/events/), and why I [built this network](/events/) in the first place.

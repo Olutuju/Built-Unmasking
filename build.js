@@ -181,8 +181,6 @@ function nav(active = "") {
       ${link("/", "Home", "home")}
       ${link("/blog/", "Blog", "blog")}
       ${link("/events/", "Events", "events")}
-      ${link("/about/", "About", "about")}
-      ${link("/community/", "Join", "community")}
     </nav>
   </div>
 </header>`;
@@ -200,8 +198,7 @@ function footer() {
     <nav aria-label="Footer">
       <a href="${url("/blog/")}">All posts</a>
       <a href="${url("/events/")}">Monthly meetup</a>
-      <a href="${url("/about/")}">About</a>
-      <a href="${url("/community/")}">Join the network</a>
+      <a href="${url("/")}#how-to-come">How it works</a>
       <a href="${abs("/feed.xml")}">RSS</a>
     </nav>
   </div>
@@ -365,9 +362,9 @@ for (let i = 0; i < posts.length; i++) {
   ${faqBlock(p.faq)}
   <div class="post-cta">
     <h2>Nobody here needs it explained</h2>
-    <p>Built &amp; Unmasking is for accomplished professionals and operators living with chronic illness. If that's you, you belong here, and you won't have to justify a single word of it.</p>
+    <p>Built &amp; Unmasking is for accomplished professionals and operators living with chronic illness or high-functioning autism. If that's you, you belong here, and you won't have to justify a single word of it.</p>
     <a class="btn" href="${url("/events/")}">See the next ${esc(site.neighborhood)} meetup</a>
-    <a class="btn ghost" href="${url("/community/")}">How it works</a>
+    <a class="btn ghost" href="${url("/")}#how-to-come">How it works</a>
   </div>
 </article>
 ${related.length ? `<section class="wrap related"><h2>Keep reading</h2><div class="grid">${related.map(postCard).join("")}</div></section>` : ""}`;
@@ -491,7 +488,7 @@ for (const pg of pages) {
   <p class="lede">${esc(site.description)}</p>
   <div class="hero-actions">
     <a class="btn" href="${url("/events/")}">Come to the next gathering</a>
-    <a class="btn ghost" href="${url("/community/")}">How it works</a>
+    <a class="btn ghost" href="#how-to-come">How it works</a>
   </div>
   <p class="hero-note">I built things I'm proud of. I'm also chronically ill. I got tired of picking which one to talk about. So once a month, downtown, I sit at a table with people who don't make me pick.</p>
 </section>
@@ -506,9 +503,16 @@ for (const pg of pages) {
 
 <section class="wrap band">
   <div class="band-single">
+    <h2>Why "Built &amp; Unmasking"</h2>
+    <p><strong>Built</strong>: because everyone here has already done the hard thing, a company, a career, a P&amp;L, a team. <strong>Unmasking</strong>: because what you're carrying, chronic illness, high-functioning autism, or something else, gets performed away every day so nobody has to see it. Not "unwell," autism isn't an illness. Not "seen" either, whether anyone else notices was never something you controlled. Unmasking is the part that's actually yours: the choice to stop performing fine, with people who already get it.</p>
+  </div>
+</section>
+
+<section class="wrap band">
+  <div class="band-single">
     <h2>I know, because I live it</h2>
-    <p>I came up through corporate and finance, then built my own businesses, all while living with chronic illness. I never found the room that let both be true at once, so I started sitting down with people once a month instead.</p>
-    <p>Nearly 80% of autoimmune disease patients are women, and high-functioning autism follows a similar pattern: people don't expect it to look like a woman running a company, so a lot of us mask for years before anyone, including ourselves, notices. This isn't a medical site and it never will be. What happens at the table is peer to peer, lived experience only, nothing prescribed.</p>
+    <p>I came up doing corporate strategy at Accenture, then built a career across corporate and finance, then built my own businesses, all while living with chronic illness. I learned I had autism at 41 and had my first fully unmasked week at nearly 42, close to two decades into that career. I never found the room that let all of that be true at once, so I started sitting down with people once a month instead.</p>
+    <p>Nearly 80% of autoimmune disease patients are women, and high-functioning autism follows a similar pattern: people don't expect it to look like a woman running a company, so a lot of us mask for years, sometimes decades, before anyone, including ourselves, notices. This isn't a medical site and it never will be. What happens at the table is peer to peer, lived experience only, nothing prescribed.</p>
   </div>
 </section>
 
@@ -516,21 +520,33 @@ for (const pg of pages) {
   <div class="band-single">
     <h2>What's different here</h2>
     <ul class="ticks">
-      <li>Nobody makes you explain why you're tired, why you left corporate, or why today's a bad day</li>
+      <li>Nobody makes you explain why you're tired, why you left corporate, why today's a bad day, or why you carry an autism diagnosis nobody would guess from the outside</li>
       <li>Say the real thing instead of the polished version, discretion is the price of entry for everyone</li>
       <li>Trade tactics that actually cut the load, not just sympathy</li>
-      <li>Seated, quiet, come and go freely, built for a body that doesn't always cooperate</li>
+      <li>Seated, quiet, come and go freely, built for a body and a nervous system that don't always cooperate</li>
     </ul>
   </div>
 </section>
 
 <section class="wrap band">
+  <div class="band-single">
+    <h2>Who ends up in the room</h2>
+    <p>Mostly it's people who came up through top-50 corporate roles, strategy consulting firms like Accenture, private equity, investment banking, or built their own company from nothing, and who are also carrying chronic illness, high-functioning autism, or something else no one can see. A lot of us are women. Men who fit that same shape are welcome too. Nobody's checking credentials at the door, that's just who tends to walk in.</p>
+  </div>
+</section>
+
+<section class="wrap band" id="how-to-come">
   <h2>How to come</h2>
   <ol class="steps">
     <li><span class="step-num">1</span><div><h3>RSVP</h3><p>Save one of ${esc(String(site.event.seats))} seats. No application, nothing reviewed.</p></div></li>
     <li><span class="step-num">2</span><div><h3>Get the address</h3><p>Sent the moment the venue's locked in, nothing else.</p></div></li>
     <li><span class="step-num">3</span><div><h3>Show up</h3><p>Seated, quiet, say the real thing. Leave whenever you need to.</p></div></li>
   </ol>
+  <ul class="ticks" style="margin-top:24px">
+    <li><strong>Discretion.</strong> What's said in the room stays in the room.</li>
+    <li><strong>Reciprocity.</strong> Come to give as much as to get: an intro, a warm lead, a "here's how I handled that."</li>
+    <li><strong>Honesty over polish.</strong> Drop the "I'm crushing it" performance at the door.</li>
+  </ul>
 </section>
 
 <section class="wrap event-strip">
@@ -553,8 +569,10 @@ for (const pg of pages) {
   const homeFaq = [
     { q: `What is ${site.name}?`, a: site.description },
     { q: `Who is ${site.name} for?`, a: site.audience },
-    { q: `Is this a medical or health-advice website?`, a: `No. ${site.name} is a peer community of entrepreneurs in Austin who live with chronic illness. It is explicitly not a medical resource and does not offer medical advice.` },
+    { q: `Is this a medical or health-advice website?`, a: `No. ${site.name} is a peer community of professionals in Austin who live with chronic illness or high-functioning autism. It is explicitly not a medical resource and does not offer medical advice.` },
     { q: `Where is ${site.name} based?`, a: `${site.name} is based in ${site.neighborhood}, ${site.region}, and runs a monthly in-person meetup downtown.` },
+    { q: `How do I join ${site.name}?`, a: `RSVP on the events page. Once the venue's set, you'll get the address and show up. No application, nothing to explain beforehand.` },
+    { q: `Does it cost anything?`, a: `Right now it's free while the community is forming in Austin.` },
   ];
 
   write("index.html", shell(
@@ -590,9 +608,7 @@ for (const pg of pages) {
   const urls = [
     { loc: abs("/"), pri: "1.0" },
     { loc: abs("/blog/"), pri: "0.9" },
-    { loc: abs("/events/"), pri: "0.7" },
-    { loc: abs("/about/"), pri: "0.7" },
-    { loc: abs("/community/"), pri: "0.8" },
+    { loc: abs("/events/"), pri: "0.8" },
     ...posts.map((p) => ({ loc: abs(`/blog/${p.slug}/`), pri: "0.8", lastmod: iso(p.updated || p.date) })),
     ...Object.keys(tagMap).map((t) => ({ loc: abs(`/tags/${slugify(t)}/`), pri: "0.4" })),
   ];
@@ -700,9 +716,7 @@ ${items}
     "## Pages",
     `- [Home](${abs("/")})`,
     `- [Blog](${abs("/blog/")})`,
-    `- [Events](${abs("/events/")})`,
-    `- [About](${abs("/about/")})`,
-    `- [Join the network](${abs("/community/")})`,
+    `- [Events, RSVP, and how to join](${abs("/events/")})`,
     "",
     "## Blog posts",
     ...posts.map((p) => `- [${p.title}](${abs(`/blog/${p.slug}/`)}): ${p.description}`),

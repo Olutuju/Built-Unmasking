@@ -44,4 +44,4 @@ Here's the reframe that helped me. Refusing to delegate doesn't make you more ca
 
 Working through that knot is a lot easier alongside people who've untied it themselves. It comes up constantly at the [monthly downtown gathering](/events/).
 
-[Come learn to let go with people who get why it's hard.](/community/)
+[Come learn to let go with people who get why it's hard.](/events/)

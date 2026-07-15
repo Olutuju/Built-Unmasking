@@ -39,4 +39,4 @@ That's the real gift the consulting toolkit gave me, not any single framework, b
 
 If you've got that same background, you already own these tools. Come point them at the same problem alongside people who speak the language, that's a lot of the conversation at the [monthly downtown gathering](/events/).
 
-[Come structure the chaos together.](/community/)
+[Come structure the chaos together.](/events/)

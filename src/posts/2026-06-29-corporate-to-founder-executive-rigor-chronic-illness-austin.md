@@ -40,4 +40,4 @@ Austin's scene skews first-time and solo. That's its charm and its ceiling. When
 
 Pair that operating pedigree with the hard-won self-knowledge that chronic illness forces on you, and you get a rare kind of founder: disciplined, unfoolable about your own limits, and impossible to sell a hustle-culture fantasy to. That's not a diminished entrepreneur. That's a formidable one.
 
-This is exactly the caliber of person I'm gathering in Austin, people who [built something](/about/) and refuse to pretend the illness away. If that's you, [come find your peers](/community/).
+This is exactly the caliber of person I'm gathering in Austin, people who [built something](/) and refuse to pretend the illness away. If that's you, [come find your peers](/events/).

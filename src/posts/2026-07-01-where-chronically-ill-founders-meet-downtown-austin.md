@@ -45,4 +45,4 @@ Here's the reframe that saved my calendar. The goal was never to "work the room.
 
 So build your networking around small, seated, quiet, daytime, time-boxed contact, and give yourself permission to skip everything else without guilt. [Networking when your body won't cooperate](/blog/networking-in-austin-when-your-body-wont-cooperate/) goes deeper on the tactics.
 
-And if you want the easiest possible version of the right table: the [monthly downtown gathering](/events/) is built on exactly these rules. Seated, quiet, come and go as you need. [Come sit down.](/community/)
+And if you want the easiest possible version of the right table: the [monthly downtown gathering](/events/) is built on exactly these rules. Seated, quiet, come and go as you need. [Come sit down.](/events/)

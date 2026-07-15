@@ -43,4 +43,4 @@ Not better wording. I've tried the better version of the sentence, the calmer to
 
 > You don't get believed by explaining harder. You get believed by finding the room that never needed convincing.
 
-That's the actual case for [a room built for this specifically](/about/), not a better disclosure script for the rooms that weren't built for it. [Come to the next gathering](/events/) and skip the part where you have to prove it first.
+That's the actual case for [a room built for this specifically](/), not a better disclosure script for the rooms that weren't built for it. [Come to the next gathering](/events/) and skip the part where you have to prove it first.

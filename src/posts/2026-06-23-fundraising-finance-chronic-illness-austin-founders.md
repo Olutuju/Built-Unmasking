@@ -47,4 +47,4 @@ Here's a strategic bias worth holding: **capital-efficient, cash-generating busi
 
 The nuances (how much runway buffer is enough, how to structure a team for redundancy without overhiring) are exactly the things you want to talk through with peers who've raised and operated while managing the same variable. That's the kind of conversation the [monthly downtown gathering](/events/) exists for.
 
-[Come run the numbers with people who get it.](/community/)
+[Come run the numbers with people who get it.](/events/)

@@ -41,4 +41,4 @@ The model that beats hustle isn't laziness. It's **sustainable, compounding outp
 
 Austin loves to talk about a better way to build than Silicon Valley's. Fine, then prove it on this. A founder culture that measures people by durable output instead of visible martyrdom would be genuinely differentiating, and it would be **better for everyone**, not just the chronically ill. We're simply the canary that shows the flaw first.
 
-That's part of what I want [this community](/about/) to model in Austin: proof that you can build something serious without lighting yourself on fire to do it. [Come help make that the norm here.](/community/)
+That's part of what I want [this community](/) to model in Austin: proof that you can build something serious without lighting yourself on fire to do it. [Come help make that the norm here.](/events/)

@@ -45,4 +45,4 @@ Cold networking is a numbers game that burns energy you can't spare. Warm intros
 
 The guilt of canceling is often more damaging than the cancellation. Serious people (the ex-operators and founders you actually want) understand rescheduling. The ones who penalize you for it just told you they aren't your people. That's not a loss. That's a filter working.
 
-Run this playbook and networking stops being a gamble you keep losing. Want the easiest possible reps? The [monthly downtown gathering](/events/) is built for exactly this, [come try it](/community/).
+Run this playbook and networking stops being a gamble you keep losing. Want the easiest possible reps? The [monthly downtown gathering](/events/) is built for exactly this, [come try it](/events/).

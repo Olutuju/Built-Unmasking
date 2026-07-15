@@ -19,7 +19,7 @@ I want to end this first stretch of writing where a community should always star
 
 ## Where this starts
 
-Right now, [Built & Unmasking](/about/) is two things: this blog, in my real voice, and a [monthly gathering in downtown Austin](/events/) built for real bodies. That's it, and that's on purpose. I'm not interested in a big empty launch. I'm interested in the **right people**, accomplished professionals and operators in Austin who live with chronic illness and are tired of having no room that fits both halves of who they are.
+Right now, [Built & Unmasking](/) is two things: this blog, in my real voice, and a [monthly gathering in downtown Austin](/events/) built for real bodies. That's it, and that's on purpose. I'm not interested in a big empty launch. I'm interested in the **right people**, accomplished professionals and operators in Austin who live with chronic illness and are tired of having no room that fits both halves of who they are.
 
 Year one is not a numbers game. I would rather have twenty people who genuinely belong than two thousand who don't. [Depth over breadth](/blog/where-chronically-ill-founders-meet-downtown-austin/) isn't just my networking advice; it's the whole design principle of this community. The strongest networks (the [First Round](https://review.firstround.com/) communities, the real ones) were never built on size. They were built on trust and fit, slowly.
 
@@ -39,8 +39,8 @@ I'm holding that vision loosely on the details and tightly on the core: accompli
 
 This is being built in the open, and the earliest people shape it more than anyone who comes later ever will. So:
 
-- **Introduce yourself.** [Tell me who you are](/community/) and what you've built. The community is quite literally its members.
+- **Introduce yourself.** [Tell me who you are](/events/) and what you've built. The community is quite literally its members.
 - **Come downtown.** [Show up to a gathering.](/events/) Be one of the faces that sets the tone.
 - **Pass it on.** If you know the woman I keep [describing](/blog/accomplished-women-chronically-ill-austin/) (accomplished, quietly running something serious, carrying something no one else can see) send her here.
 
-I couldn't find this room in Austin, so I'm building it. A year from now I want to look back at this post and see how much of it we made real together. [Come help me.](/community/)
+I couldn't find this room in Austin, so I'm building it. A year from now I want to look back at this post and see how much of it we made real together. [Come help me.](/events/)

@@ -44,4 +44,4 @@ This is the same rigor you'd apply to [running a business like a P&L](/blog/corp
 
 Here's the catch: allocating energy well requires **permission**, permission to decline, to protect your window, to not perform availability. That permission is far easier to hold when you're surrounded by people who allocate the same way, instead of a culture screaming at you to grind. It's a lot of what we trade at the [monthly downtown gathering](/events/): the tactics, yes, but also the collective backbone to actually use them.
 
-[Come compare portfolios.](/community/)
+[Come compare portfolios.](/events/)

@@ -39,4 +39,4 @@ I built this room because I got tired of being the only one at the table who und
 
 Not a room where you have to explain the "strong Black woman" trope before anyone will hear you past it. Not a room where "I don't know how you do it all" is the whole conversation. A room where the exhaustion gets to just be exhaustion, not a compliment, not evidence you're handling it, just a true thing you get to say once and have it land the first time.
 
-If that's the room you've been missing, [it meets downtown, monthly](/events/), and [nobody's checking credentials at the door](/about/).
+If that's the room you've been missing, [it meets downtown, monthly](/events/), and [nobody's checking credentials at the door](/).

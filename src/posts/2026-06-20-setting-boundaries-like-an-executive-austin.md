@@ -43,4 +43,4 @@ And when you set boundaries openly as a founder, you give everyone around you (y
 
 The hardest part of boundaries isn't knowing what they should be. It's holding them when someone pushes, and quieting the guilt that follows. That's dramatically easier inside a peer group that treats boundaries as normal and expected rather than difficult. It's one of the most practical things we reinforce for each other at the [monthly downtown gathering](/events/).
 
-[Come build your edges with people who'll back them.](/community/)
+[Come build your edges with people who'll back them.](/events/)

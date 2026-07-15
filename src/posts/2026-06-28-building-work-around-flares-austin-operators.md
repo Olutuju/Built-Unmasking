@@ -37,4 +37,4 @@ The instinct is to over-explain to clients and partners. Resist it. What clients
 
 That's the quiet power move, not hiding, exactly, but making the illness irrelevant to whether you deliver. It takes real design work up front. It's a lot easier when you're comparing notes with people who've solved the same puzzle, which is most of what happens at the [monthly downtown gathering](/events/).
 
-[Come build the version of your business that bends.](/community/)
+[Come build the version of your business that bends.](/events/)
