@@ -556,7 +556,7 @@ for (const pg of pages) {
   <h2>How to come</h2>
   <ol class="steps">
     <li><span class="step-num">1</span><div><h3>RSVP</h3><p>Request one of ${esc(String(site.event.seats))} seats.</p></div></li>
-    <li><span class="step-num">2</span><div><h3>Get reviewed</h3><p>Every RSVP gets a look, this keeps the room the right shape.</p></div></li>
+    <li><span class="step-num">2</span><div><h3>Get approved</h3><p>Every RSVP gets a look, this keeps the room the right shape.</p></div></li>
     <li><span class="step-num">3</span><div><h3>Get the address</h3><p>Approved RSVPs get the date and address once the venue's locked in.</p></div></li>
     <li><span class="step-num">4</span><div><h3>Show up</h3><p>Seated, quiet, say the real thing. Leave whenever you need to.</p></div></li>
   </ol>
