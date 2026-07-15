@@ -7,3 +7,6 @@ npm-debug.log*
 # build artifacts
 built-and-unmasking-site.zip
 *.zip
+
+# Real people's email addresses — this repo is public, never commit this.
+data/subscribers.md
