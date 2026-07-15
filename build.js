@@ -170,8 +170,9 @@ function nav(active = "") {
       <span class="brand-mark" role="img" aria-label="${esc(site.name)} mark">
         <svg viewBox="0 0 64 64" width="40" height="40" aria-hidden="true">
           <rect width="64" height="64" rx="14" fill="#c1502e"/>
-          <circle cx="29" cy="32" r="16" fill="#2a160c"/>
-          <circle cx="38" cy="25" r="14" fill="#c1502e"/>
+          <rect x="10" y="25" width="44" height="14" rx="7" fill="#2a160c"/>
+          <circle cx="24" cy="32" r="5" fill="#c1502e"/>
+          <circle cx="40" cy="32" r="5" fill="#c1502e"/>
         </svg>
       </span>
       <span class="brand-name">${site.name}</span>
@@ -364,7 +365,7 @@ for (let i = 0; i < posts.length; i++) {
   ${faqBlock(p.faq)}
   <div class="post-cta">
     <h2>Nobody here needs it explained</h2>
-    <p>Built &amp; Unmasking is for accomplished founders and operators living with chronic illness. If that's you, you belong here, and you won't have to justify a single word of it.</p>
+    <p>Built &amp; Unmasking is for accomplished professionals and operators living with chronic illness. If that's you, you belong here, and you won't have to justify a single word of it.</p>
     <a class="btn" href="${url("/events/")}">See the next ${esc(site.neighborhood)} meetup</a>
     <a class="btn ghost" href="${url("/community/")}">How it works</a>
   </div>
@@ -497,21 +498,39 @@ for (const pg of pages) {
 
 <section class="wrap band">
   <div class="band-single">
-    <h2>Why this exists</h2>
-    <p>Most rooms make you do the explaining first: what's wrong, why you're tired today, why you stepped back from the corporate track. ${esc(site.name)} skips that part. Everyone here already carries something invisible, so nobody's waiting on your backstory before they'll talk business, ideas, or anything else with you.</p>
-    <p>This only works if people are honest. Not a directory, not a chat channel, just what happens when you sit at the table and say the real thing instead of the polished version.</p>
-    <p>I came up through corporate and finance, then built my own businesses, all while living with chronic illness. Every entrepreneur room I walked into assumed a body that always cooperates. Every chronic-illness room I walked into treated the business part like it was beside the point. I never found the room that let both be true, so I started sitting down with people once a month instead.</p>
-    <p>Nearly 80% of autoimmune disease patients are women. High-functioning autism follows a similar pattern: people don't expect it to look like a woman running a company, so a lot of us mask for years before anyone, including ourselves, notices.</p>
-    <p>This isn't a medical site and it never will be. A lot of us have been failed by providers, dismissed or sent away worse than we came. What happens at the table is peer to peer, lived experience only, nothing prescribed.</p>
+    <h2>Two rooms, and neither fits</h2>
+    <p>Walk into a typical entrepreneur room and the unspoken assumption is a body that always shows up: early mornings, late networking, just push through. Walk into a typical chronic illness space and you're a patient first, symptoms and coping, and the ambitious part of you is beside the point.</p>
+    <p>So you pick a room and hide the other half. Every day you do, it costs something: the energy of performing fine, the isolation of thinking you're the only one, the exhaustion of masking so well that even you stop noticing what it's taking.</p>
   </div>
 </section>
 
-<section class="wrap">
-  <div class="section-head">
-    <h2>Latest from the blog</h2>
-    <a href="${url("/blog/")}">All ${posts.length} posts →</a>
+<section class="wrap band">
+  <div class="band-single">
+    <h2>I know, because I live it</h2>
+    <p>I came up through corporate and finance, then built my own businesses, all while living with chronic illness. I never found the room that let both be true at once, so I started sitting down with people once a month instead.</p>
+    <p>Nearly 80% of autoimmune disease patients are women, and high-functioning autism follows a similar pattern: people don't expect it to look like a woman running a company, so a lot of us mask for years before anyone, including ourselves, notices. This isn't a medical site and it never will be. What happens at the table is peer to peer, lived experience only, nothing prescribed.</p>
   </div>
-  <div class="grid">${featured.map(postCard).join("")}</div>
+</section>
+
+<section class="wrap band">
+  <div class="band-single">
+    <h2>What's different here</h2>
+    <ul class="ticks">
+      <li>Nobody makes you explain why you're tired, why you left corporate, or why today's a bad day</li>
+      <li>Say the real thing instead of the polished version, discretion is the price of entry for everyone</li>
+      <li>Trade tactics that actually cut the load, not just sympathy</li>
+      <li>Seated, quiet, come and go freely, built for a body that doesn't always cooperate</li>
+    </ul>
+  </div>
+</section>
+
+<section class="wrap band">
+  <h2>How to come</h2>
+  <ol class="steps">
+    <li><span class="step-num">1</span><div><h3>RSVP</h3><p>Save one of ${esc(String(site.event.seats))} seats. No application, nothing reviewed.</p></div></li>
+    <li><span class="step-num">2</span><div><h3>Get the address</h3><p>Sent the moment the venue's locked in, nothing else.</p></div></li>
+    <li><span class="step-num">3</span><div><h3>Show up</h3><p>Seated, quiet, say the real thing. Leave whenever you need to.</p></div></li>
+  </ol>
 </section>
 
 <section class="wrap event-strip">
@@ -521,6 +540,14 @@ for (const pg of pages) {
     <p>${esc(site.event.blurb)} Capped at ${esc(String(site.event.seats))} seats, RSVP to save yours. ${esc(site.event.cadence)}, ${esc(site.event.time)}.</p>
   </div>
   <a class="btn" href="${url("/events/")}">Event details</a>
+</section>
+
+<section class="wrap">
+  <div class="section-head">
+    <h2>Latest from the blog</h2>
+    <a href="${url("/blog/")}">All ${posts.length} posts →</a>
+  </div>
+  <div class="grid">${featured.map(postCard).join("")}</div>
 </section>`;
 
   const homeFaq = [

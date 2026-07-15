@@ -1,7 +1,7 @@
 ---
 title: "Why I'm Building a Network for Chronic Entrepreneurs in Austin"
 date: 2026-07-03
-description: "I couldn't find a room in Austin for accomplished founders who also live with chronic illness. So I'm building one downtown. Here's the whole idea."
+description: "I couldn't find a room in Austin for accomplished professionals who also live with chronic illness. So I'm building one downtown. Here's the whole idea."
 place: "Downtown Austin"
 tags: [austin, downtown-austin, community, chronic-illness, entrepreneurship]
 takeaways:
@@ -10,7 +10,7 @@ takeaways:
   - "Home base is downtown Austin, where I live and where the monthly gathering happens."
 faq:
   - q: "What is Built & Unmasking in Austin?"
-    a: "Built & Unmasking is a peer network for accomplished founders and operators in Austin, Texas who build businesses while living with chronic illness. It centers on a monthly downtown gathering plus writing in a founder's own voice. It is not a medical resource."
+    a: "Built & Unmasking is a peer network for accomplished professionals and operators in Austin, Texas who build businesses while living with chronic illness. It centers on a monthly downtown gathering plus writing in a founder's own voice. It is not a medical resource."
   - q: "Why start a chronic-entrepreneur community in Austin specifically?"
     a: "Because community is local before it's anything else. The founder lives in downtown Austin and wanted people she could actually sit across from, not another Slack group, but a real room in her own city."
 ---

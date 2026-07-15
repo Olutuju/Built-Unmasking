@@ -1,7 +1,7 @@
 ---
 title: "Join Built & Unmasking"
 slug: community
-description: "How to join Built & Unmasking, a private-feeling network for accomplished founders in Austin living with chronic illness. RSVP, hear where, show up. No application."
+description: "How to join Built & Unmasking, a private-feeling network for accomplished professionals in Austin living with chronic illness. RSVP, hear where, show up. No application."
 takeaways:
   - "RSVP on the events page. No application, that's just how you get a seat and hear where the room is."
   - "Nobody in the room needs your illness or your business explained to them. Say what you're actually dealing with, and nobody questions it."
