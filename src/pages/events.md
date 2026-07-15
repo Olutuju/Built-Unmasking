@@ -20,11 +20,11 @@ faq:
 
 Community is a local thing before it's anything else. So the heart of Built & Unmasking isn't a Slack channel or an inbox. It's a table in **downtown Austin**, once a month, with people who get it, no explanation required.
 
-**Next gathering: Wednesday, August 5, 6:00 to 8:00 PM CT. Venue still being picked, capped at 20 seats.**
+**Next gathering: date being finalized, first Wednesday, 6:00 to 8:00 PM CT. Venue still being picked, capped at 20 seats.**
 
 <form class="rsvp-form" action="__FORMSPREE_ENDPOINT__" method="POST">
-  <h3>RSVP for August 5</h3>
-  <p class="rsvp-sub">20 seats. 6 to 8 PM CT, downtown Austin, address to follow once it's locked in.</p>
+  <h3>RSVP for the next gathering</h3>
+  <p class="rsvp-sub">20 seats. 6 to 8 PM CT, downtown Austin, date and address to follow once they're locked in.</p>
 
   <div class="field">
     <label for="rsvp-name">Name</label>
