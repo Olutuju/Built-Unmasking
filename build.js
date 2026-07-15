@@ -368,6 +368,13 @@ for (let i = 0; i < posts.length; i++) {
     <a class="btn" href="${url("/events/")}">See the next ${esc(site.neighborhood)} meetup</a>
     <a class="btn ghost" href="${url("/")}#how-to-come">How it works</a>
   </div>
+  <div class="notify-form">
+    <p>Not ready for the room yet? Get new posts and the next gathering announcement by email, just email, nothing else.</p>
+    <form class="notify-row" action="__NOTIFY_FORMSPREE_ENDPOINT__" method="POST">
+      <input type="email" name="email" placeholder="you@wherever.com" required>
+      <button type="submit" class="btn">Keep me posted</button>
+    </form>
+  </div>
 </article>
 ${related.length ? `<section class="wrap related"><h2>Keep reading</h2><div class="grid">${related.map(postCard).join("")}</div></section>` : ""}`;
 
@@ -499,7 +506,15 @@ for (const pg of pages) {
   <div class="band-single">
     <h2>Two rooms, and neither fits</h2>
     <p>Walk into a typical entrepreneur room and the unspoken assumption is a body that always shows up: early mornings, late networking, just push through. Walk into a typical chronic illness space and you're a patient first, symptoms and coping, and the ambitious part of you is beside the point.</p>
-    <p>So you pick a room and hide the other half. Every day you do, it costs something: the energy of performing fine, the isolation of thinking you're the only one, the exhaustion of masking so well that even you stop noticing what it's taking.</p>
+    <p>So you pick a room, and perform the other half away.</p>
+  </div>
+</section>
+
+<section class="wrap band">
+  <div class="band-single">
+    <h2>What staying quiet actually costs</h2>
+    <p>It doesn't show up as one bad day. It shows up as the slow math of masking, compounding for as long as you let it run: the energy spent performing fine in rooms that don't get it, gone before you ever get to the real work. The friendships that stay shallow because the actual thing never comes up. The burnout that looks sudden to everyone watching but felt inevitable to you, because you'd been paying that tax alone for years.</p>
+    <p>Nothing forces you to fix this. You can keep doing exactly what you're doing, most people do, for years, sometimes a whole career. The room doesn't disappear because you didn't find it. You just keep paying full price for staying quiet, indefinitely, while people who found their room stopped.</p>
   </div>
 </section>
 
