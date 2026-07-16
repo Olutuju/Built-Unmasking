@@ -65,6 +65,12 @@ a:hover { color: var(--accent-2); }
 .btn.ghost { background: transparent; color: var(--accent); }
 .btn.ghost:hover { background: var(--accent-soft); }
 
+/* Full-bleed photo band */
+.photo-band { margin: 24px 0 0; }
+.photo-band img { display: block; width: 100%; height: clamp(220px, 38vw, 420px); object-fit: cover; }
+.photo-band figcaption { text-align: right; font-size: .72rem; color: var(--muted); padding: 4px 20px 0; }
+.photo-band figcaption a { color: var(--muted); }
+
 /* Bands */
 .band { padding: 28px 20px 8px; }
 /* Full-width color bands: section stretches edge to edge, inner .wrap holds content */

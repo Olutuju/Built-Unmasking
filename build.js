@@ -503,6 +503,11 @@ for (const pg of pages) {
   <p class="hero-note">I built things I'm proud of. I'm also chronically ill. I got tired of picking which one to talk about. So once a month, downtown, I sit at a table with people who don't make me pick.</p>
 </section>
 
+<figure class="photo-band">
+  <img src="${url("/assets/austin-evening.jpg")}" alt="Downtown Austin skyline at dusk" width="1920" height="848">
+  <figcaption>Downtown Austin. Photo: <a href="https://commons.wikimedia.org/wiki/File:Austin_Texas_skyline,_December_2023_-_Evening.jpg" rel="noopener nofollow" target="_blank">Steve</a>, CC BY-SA 2.0</figcaption>
+</figure>
+
 <section class="band-full bg-white">
   <div class="wrap band-single">
     <h2>Two rooms, and neither fits</h2>
