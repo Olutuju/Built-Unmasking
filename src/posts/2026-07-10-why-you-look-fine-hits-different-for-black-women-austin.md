@@ -13,7 +13,7 @@ faq:
     a: "Research on pain assessment has found clinicians and observers systematically underrate Black patients' pain, partly tied to false beliefs about biological differences that have no basis in fact. Layer that onto a professional culture that already reads competence as evidence of wellness, and the discount compounds instead of cancels out."
   - q: "What is the 'strong Black woman' trope and how does it affect disclosure?"
     a: "It's a cultural script that frames endurance under pressure as an identity trait rather than a cost being paid. It shows up as praise ('I don't know how you do it all') that quietly forecloses the follow-up question ('are you okay'). The more visibly capable a Black woman is, the more that script overrides whatever she actually says about how she's doing."
-  - q: "Does Built & Unmasking have programming specific to Black women?"
+  - q: "Does Built & Unmasked have programming specific to Black women?"
     a: "No separate track. The gathering is peer to peer for anyone carrying an invisible difference. But naming this pattern explicitly, instead of pretending the room is one flat experience, is part of actually being honest about who's in it and what they're each carrying into it."
 ---
 

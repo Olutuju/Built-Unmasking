@@ -1,5 +1,5 @@
 // ---------------------------------------------------------------------------
-// Built & Unmasking static site generator
+// Built & Unmasked static site generator
 // Reads markdown from src/posts + src/pages and emits a fully SEO/GEO/GAIO
 // optimized static site into ./dist. No framework; just marked + gray-matter.
 // ---------------------------------------------------------------------------
@@ -172,9 +172,10 @@ function nav(active = "") {
       <span class="brand-mark" role="img" aria-label="${esc(site.name)} mark">
         <svg viewBox="0 0 64 64" width="40" height="40" aria-hidden="true">
           <rect width="64" height="64" rx="14" fill="#c1502e"/>
-          <rect x="10" y="25" width="44" height="14" rx="7" fill="#2a160c"/>
-          <circle cx="24" cy="32" r="5" fill="#c1502e"/>
-          <circle cx="40" cy="32" r="5" fill="#c1502e"/>
+          <path d="M6 25 C14 20 24 21 32 26 C40 21 50 20 58 25 C57 35 50 42 41 42 C37 42 34 39 32 37 C30 39 27 42 23 42 C14 42 7 35 6 25 Z" fill="#2a160c"/>
+          <ellipse cx="21" cy="30.5" rx="7" ry="3.6" transform="rotate(-10 21 30.5)" fill="#c1502e"/>
+          <ellipse cx="43" cy="30.5" rx="7" ry="3.6" transform="rotate(10 43 30.5)" fill="#c1502e"/>
+          <circle cx="32" cy="44" r="2.2" fill="#f0c7a3"/>
         </svg>
       </span>
       <span class="brand-name">${site.name}</span>
@@ -364,7 +365,7 @@ for (let i = 0; i < posts.length; i++) {
   ${faqBlock(p.faq)}
   <div class="post-cta">
     <h2>Nobody here needs it explained</h2>
-    <p>Built &amp; Unmasking is for accomplished professionals and operators living with chronic illness or high-functioning autism. If that's you, you belong here, and you won't have to justify a single word of it.</p>
+    <p>Built &amp; Unmasked is for accomplished professionals and operators living with chronic illness or high-functioning autism. If that's you, you belong here, and you won't have to justify a single word of it.</p>
     <a class="btn" href="${url("/events/")}">See the next ${esc(site.neighborhood)} meetup</a>
     <a class="btn ghost" href="${url("/")}#how-to-come">How it works</a>
   </div>
@@ -502,26 +503,26 @@ for (const pg of pages) {
   <p class="hero-note">I built things I'm proud of. I'm also chronically ill. I got tired of picking which one to talk about. So once a month, downtown, I sit at a table with people who don't make me pick.</p>
 </section>
 
-<section class="wrap band">
-  <div class="band-single">
+<section class="band-full bg-white">
+  <div class="wrap band-single">
     <h2>Two rooms, and neither fits</h2>
     <p>Walk into a typical entrepreneur room and the unspoken assumption is a body that always shows up: early mornings, late networking, just push through. Walk into a typical chronic illness space and you're a patient first, symptoms and coping, and the ambitious part of you is beside the point.</p>
     <p>So you pick a room, and perform the other half away.</p>
   </div>
 </section>
 
-<section class="wrap band">
-  <div class="band-single">
+<section class="band-full bg-peach">
+  <div class="wrap band-single">
     <h2>What staying quiet actually costs</h2>
     <p>It doesn't show up as one bad day. It shows up as the slow math of masking, compounding for as long as you let it run: the energy spent performing fine in rooms that don't get it, gone before you ever get to the real work. The friendships that stay shallow because the actual thing never comes up. The burnout that looks sudden to everyone watching but felt inevitable to you, because you'd been paying that tax alone for years.</p>
     <p>Nothing forces you to fix this. You can keep doing exactly what you're doing, most people do, for years, sometimes a whole career. The room doesn't disappear because you didn't find it. You just keep paying full price for staying quiet, indefinitely, while people who found their room stopped.</p>
   </div>
 </section>
 
-<section class="wrap band">
-  <div class="band-single">
-    <h2>Why "Built &amp; Unmasking"</h2>
-    <p><strong>Built</strong>: because everyone here has already done the hard thing, a company, a career, a P&amp;L, a team. <strong>Unmasking</strong>: because what you're carrying, chronic illness, high-functioning autism, or something else, gets performed away every day so nobody has to see it. Not "unwell," autism isn't an illness. Not "seen" either, whether anyone else notices was never something you controlled. Unmasking is the part that's actually yours: the choice to stop performing fine, with people who already get it.</p>
+<section class="band-full bg-white">
+  <div class="wrap band-single">
+    <h2>Why "Built &amp; Unmasked"</h2>
+    <p><strong>Built</strong>: because everyone here has already done the hard thing, a company, a career, a P&amp;L, a team. <strong>Unmasked</strong>: because what you're carrying, chronic illness, high-functioning autism, or something else, gets performed away every day so nobody has to see it. Not "unwell," autism isn't an illness. Not "seen" either, whether anyone else notices was never something you controlled. Unmasking is the part that's actually yours: the choice to stop performing fine, with people who already get it.</p>
   </div>
 </section>
 
@@ -533,8 +534,8 @@ for (const pg of pages) {
   </div>
 </section>
 
-<section class="wrap band">
-  <div class="band-single">
+<section class="band-full bg-white">
+  <div class="wrap band-single">
     <h2>What's different here</h2>
     <ul class="ticks">
       <li>Nobody makes you explain why you're tired, why you left corporate, why today's a bad day, or why you carry an autism diagnosis nobody would guess from the outside</li>
@@ -552,19 +553,21 @@ for (const pg of pages) {
   </div>
 </section>
 
-<section class="wrap band" id="how-to-come">
-  <h2>How to come</h2>
-  <ol class="steps">
-    <li><span class="step-num">1</span><div><h3>RSVP</h3><p>Request one of ${esc(String(site.event.seats))} seats.</p></div></li>
-    <li><span class="step-num">2</span><div><h3>Get approved</h3><p>Every RSVP gets a look, this keeps the room the right shape.</p></div></li>
-    <li><span class="step-num">3</span><div><h3>Get the address</h3><p>Approved RSVPs get the date and address once the venue's locked in.</p></div></li>
-    <li><span class="step-num">4</span><div><h3>Show up</h3><p>Seated, quiet, say the real thing. Leave whenever you need to.</p></div></li>
-  </ol>
-  <ul class="ticks" style="margin-top:24px">
-    <li><strong>Discretion.</strong> What's said in the room stays in the room.</li>
-    <li><strong>Reciprocity.</strong> Come to give as much as to get: an intro, a warm lead, a "here's how I handled that."</li>
-    <li><strong>Honesty over polish.</strong> Drop the "I'm crushing it" performance at the door.</li>
-  </ul>
+<section class="band-full bg-peach" id="how-to-come">
+  <div class="wrap">
+    <h2>How to come</h2>
+    <ol class="steps">
+      <li><span class="step-num">1</span><div><h3>RSVP</h3><p>Request one of ${esc(String(site.event.seats))} seats.</p></div></li>
+      <li><span class="step-num">2</span><div><h3>Get approved</h3><p>Every RSVP gets a look, this keeps the room the right shape.</p></div></li>
+      <li><span class="step-num">3</span><div><h3>Get the address</h3><p>Approved RSVPs get the date and address once the venue's locked in.</p></div></li>
+      <li><span class="step-num">4</span><div><h3>Show up</h3><p>Seated, quiet, say the real thing. Leave whenever you need to.</p></div></li>
+    </ol>
+    <ul class="ticks" style="margin-top:24px">
+      <li><strong>Discretion.</strong> What's said in the room stays in the room.</li>
+      <li><strong>Reciprocity.</strong> Come to give as much as to get: an intro, a warm lead, a "here's how I handled that."</li>
+      <li><strong>Honesty over polish.</strong> Drop the "I'm crushing it" performance at the door.</li>
+    </ul>
+  </div>
 </section>
 
 <section class="wrap event-strip">

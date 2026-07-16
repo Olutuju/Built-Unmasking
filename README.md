@@ -1,10 +1,10 @@
-# Built & Unmasking
+# Built & Unmasked
 
 A peer network for business owners, founders, and company executives in Austin who carry an invisible difference — chronic illness, high-functioning autism, or something else no one can see. Based in **downtown Austin, Texas**.
 
 This repository is the whole website: a fast, static, SEO/GEO/GAIO-optimized blog and community site. Every blog post centers Austin (and downtown Austin) on purpose. It is a **peer community, not a medical resource.**
 
-**Round two.** Round one's content and structure were right; the process wasn't — pages got rewritten five times chasing CTA wording, tone, and contact-info changes mid-build. This round starts from that already-settled direction (see `../built-and-unmasking-summary.md` for the full brief) instead of re-litigating it.
+**Round two.** Round one's content and structure were right; the process wasn't — pages got rewritten five times chasing CTA wording, tone, and contact-info changes mid-build. This round starts from that already-settled direction (see `../built-and-unmasked-summary.md` for the full brief) instead of re-litigating it.
 
 **Status:** live at [built-unseen.vercel.app](https://built-unseen.vercel.app/), auto-deploying on every push to `main`. GitHub Pages was tried first and dropped, it served the page with no CSS/fonts applied (a base-path mismatch not worth chasing down) — Vercel renders correctly, so it's the only deployment target now.
 
@@ -100,4 +100,4 @@ dist/                   # build output (gitignored)
 
 ---
 
-*Built & Unmasking — community and lived experience. Not medical advice.*
+*Built & Unmasked — community and lived experience. Not medical advice.*

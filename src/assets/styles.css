@@ -67,6 +67,10 @@ a:hover { color: var(--accent-2); }
 
 /* Bands */
 .band { padding: 28px 20px 8px; }
+/* Full-width color bands: section stretches edge to edge, inner .wrap holds content */
+.band-full { padding: 44px 0 36px; }
+.band-full.bg-white { background: var(--card); border-top: 1px solid var(--line); border-bottom: 1px solid var(--line); }
+.band-full.bg-peach { background: var(--accent-soft); }
 .band-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 36px; }
 .band-grid h2 { margin-top: 0; }
 .band-single { max-width: 680px; }

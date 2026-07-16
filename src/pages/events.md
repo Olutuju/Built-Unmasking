@@ -1,14 +1,14 @@
 ---
 title: "Monthly Gathering in Downtown Austin"
 slug: events
-description: "Built & Unmasking hosts a monthly in-person gathering in downtown Austin for accomplished professionals living with chronic illness or high-functioning autism. Capped at 20 seats, RSVPs are reviewed before the address goes out."
+description: "Built & Unmasked hosts a monthly in-person gathering in downtown Austin for accomplished professionals living with chronic illness or high-functioning autism. Capped at 20 seats, RSVPs are reviewed before the address goes out."
 takeaways:
   - "Monthly, first Wednesday, evening, in downtown Austin. Capped at 20 seats."
   - "RSVP, then it's reviewed. Approved RSVPs get the date and address once the venue's locked in."
   - "Designed low-spoons: seated, quiet-friendly, no pressure to stay the whole time."
   - "Real tactics get traded, not just feelings, things like AI agents that manage appointments and cut the mental load."
 faq:
-  - q: "When and where is the Built & Unmasking gathering?"
+  - q: "When and where is the Built & Unmasked gathering?"
     a: "It's monthly, on the first Wednesday evening, in downtown Austin. The venue for the next gathering isn't locked in yet. RSVP below, and once it's approved and the venue's set, you'll get the address."
   - q: "Do I need to RSVP?"
     a: "Yes. The room's capped at 20, so RSVPing is how you're considered for a seat. RSVPs are reviewed, not automatic, and approved RSVPs get the address once it's locked in."
@@ -18,7 +18,7 @@ faq:
     a: "There's no membership to apply for ahead of time, but RSVPs are reviewed, not first-come-first-served. This keeps the room the right shape, accomplished professionals at a senior enough level that the conversation lands the same way for everyone at the table."
 ---
 
-Community is a local thing before it's anything else. So the heart of Built & Unmasking isn't a Slack channel or an inbox. It's a table in **downtown Austin**, once a month, with people who get it, no explanation required.
+Community is a local thing before it's anything else. So the heart of Built & Unmasked isn't a Slack channel or an inbox. It's a table in **downtown Austin**, once a month, with people who get it, no explanation required.
 
 **Next gathering: date being finalized, first Wednesday, 6:00 to 8:00 PM CT. Venue still being picked, capped at 20 seats.**
 
@@ -83,7 +83,7 @@ Community is a local thing before it's anything else. So the heart of Built & Un
 
 ## The details
 
-- **What:** Built & Unmasking Monthly Gathering
+- **What:** Built & Unmasked Monthly Gathering
 - **Who:** Accomplished professionals, executives, and operators living with chronic illness or high-functioning autism (and anyone who fits the room's shape). Many of us are women; men who fit are welcome.
 - **When:** Monthly, **first Wednesday, 6:00 to 8:00 PM CT**
 - **Where:** Venue still being picked, same room every month once it's set
