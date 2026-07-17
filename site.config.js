@@ -7,9 +7,9 @@
 // target (GitHub Pages was tried and dropped — see README), so this is always
 // root-served: no BASE_PATH sub-folder to account for.
 // On Vercel, set SITE_URL in the project's Environment Variables to the real
-// URL (e.g. https://built-unmasking.vercel.app, later a custom domain)
+// URL (e.g. https://built-and-unmasked.vercel.app, later a custom domain)
 // for correct canonical/OpenGraph/sitemap links.
-const SITE_URL = (process.env.SITE_URL || "https://built-unmasking.vercel.app").replace(/\/$/, "");
+const SITE_URL = (process.env.SITE_URL || "https://built-and-unmasked.vercel.app").replace(/\/$/, "");
 const BASE_PATH = "";
 
 export default {
@@ -76,7 +76,7 @@ export default {
   // formspree.io for this (keeps notify-list signups from mixing with RSVP
   // data), paste the endpoint below, then rebuild. Leave blank and the form
   // won't submit anywhere yet.
-  notifyFormspreeEndpoint: "",
+  notifyFormspreeEndpoint: "https://formspree.io/f/xojgeevo",
 
   // Build output folder.
   outDir: "dist",

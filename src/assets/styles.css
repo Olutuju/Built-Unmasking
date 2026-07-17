@@ -67,7 +67,7 @@ a:hover { color: var(--accent-2); }
 
 /* Full-bleed photo band */
 .photo-band { margin: 24px 0 0; }
-.photo-band img { display: block; width: 100%; height: clamp(220px, 38vw, 420px); object-fit: cover; object-position: center 85%; }
+.photo-band img { display: block; width: 100%; height: clamp(220px, 38vw, 420px); object-fit: cover; object-position: center 60%; }
 .photo-band figcaption { text-align: right; font-size: .72rem; color: var(--muted); padding: 4px 20px 0; }
 .photo-band figcaption a { color: var(--muted); }
 
@@ -141,7 +141,7 @@ a:hover { color: var(--accent-2); }
 .rsvp-form .rsvp-fine { margin: 14px 0 0; font-size: .82rem; color: var(--muted); }
 
 /* Lightweight secondary signup: not ready to RSVP, get emailed instead */
-.notify-form { max-width: var(--narrow); margin: 20px 0 40px; padding: 18px 20px; background: var(--accent-soft); border: 1px solid #f0c7ab; border-radius: var(--radius); }
+.notify-form { max-width: 680px; margin: 20px auto 40px; padding: 18px 20px; background: var(--accent-soft); border: 1px solid #f0c7ab; border-radius: var(--radius); }
 .notify-form p { margin: 0 0 12px; font-size: .92rem; color: var(--ink-soft); }
 .notify-form .notify-row { display: flex; gap: 10px; flex-wrap: wrap; }
 .notify-form input[type="email"] { flex: 1 1 220px; font-family: inherit; font-size: .92rem; color: var(--ink); background: #fff; border: 1px solid var(--line); border-radius: 8px; padding: 9px 12px; }

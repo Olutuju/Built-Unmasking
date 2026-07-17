@@ -504,8 +504,8 @@ for (const pg of pages) {
 </section>
 
 <figure class="photo-band">
-  <img src="${url("/assets/austin-lady-bird-lake.jpg")}" alt="Kayakers on calm water at Lady Bird Lake with the Austin skyline behind" width="1920" height="1280">
-  <figcaption>Lady Bird Lake, downtown Austin. Photo: <a href="https://commons.wikimedia.org/wiki/File:Austin_August_2019_19_(skyline_and_Lady_Bird_Lake).jpg" rel="noopener nofollow" target="_blank">Michael Barera</a>, CC BY-SA 4.0</figcaption>
+  <img src="${url("/assets/austin-pennybacker-sunset.jpg")}" alt="Pennybacker Bridge over calm water at sunset, Lake Austin" width="1600" height="1066">
+  <figcaption>Pennybacker Bridge, Lake Austin. Photo: <a href="https://commons.wikimedia.org/wiki/File:Pennybacker_bridge_sunset_2006.jpg" rel="noopener nofollow" target="_blank">Larry D. Moore</a>, CC BY 4.0</figcaption>
 </figure>
 
 <section class="band-full bg-white">
