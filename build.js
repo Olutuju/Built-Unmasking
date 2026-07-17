@@ -664,6 +664,11 @@ ${urls
 const INDEXNOW_KEY = "ceb1055faf2fba2a8e280964db714a6c";
 write(`${INDEXNOW_KEY}.txt`, INDEXNOW_KEY);
 
+// ---- Google Search Console verification ------------------------------------
+// HTML-file verification for the built-and-unmasked.vercel.app property.
+// The file's required content is simply its own filename.
+write("google30ea42e61f4ab47d.html", "google-site-verification: google30ea42e61f4ab47d.html");
+
 // ---- robots.txt -----------------------------------------------------------
 write(
   "robots.txt",
