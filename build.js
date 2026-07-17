@@ -403,7 +403,7 @@ ${related.length ? `<section class="wrap related"><h2>Keep reading</h2><div clas
   const body = `
 <section class="hero hero-sub wrap">
   <h1>The Blog</h1>
-  <p class="lede">${posts.length} essays and field notes on building a business while unmasking, every one of them rooted in ${esc(site.city)}, ${esc(site.region)}. A new post goes up regularly.</p>
+  <p class="lede">${posts.length} essays and field notes on building while unmasked, every one of them rooted in ${esc(site.city)}, ${esc(site.region)}. A new post goes up regularly.</p>
 </section>
 <section class="wrap">
   ${latest ? `<a class="feature" href="${url(`/blog/${latest.slug}/`)}">
