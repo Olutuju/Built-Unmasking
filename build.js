@@ -495,66 +495,64 @@ for (const pg of pages) {
 <section class="hero wrap">
   <span class="kicker">${esc(site.neighborhood)}, ${esc(site.region)}</span>
   <h1>Take off the mask. The full you is welcome here.</h1>
-  <p class="lede">${esc(site.description)}</p>
+  <p class="lede">A peer network in Austin for accomplished professionals carrying an invisible difference: chronic illness, high-functioning autism, or something else no one can see.</p>
   <div class="hero-actions">
-    <a class="btn" href="${url("/events/")}">Come to the next gathering</a>
+    <a class="btn" href="${url("/events/")}">Request a seat</a>
     <a class="btn ghost" href="#how-to-come">How it works</a>
   </div>
   <p class="hero-note">I built things I'm proud of. I'm also chronically ill. I got tired of picking which one to talk about. So once a month, downtown, I sit at a table with people who don't make me pick.</p>
 </section>
 
 <figure class="photo-band">
-  <img src="${url("/assets/austin-evening.jpg")}" alt="Downtown Austin skyline at dusk" width="1920" height="848">
-  <figcaption>Downtown Austin. Photo: <a href="https://commons.wikimedia.org/wiki/File:Austin_Texas_skyline,_December_2023_-_Evening.jpg" rel="noopener nofollow" target="_blank">Steve</a>, CC BY-SA 2.0</figcaption>
+  <img src="${url("/assets/austin-lady-bird-lake.jpg")}" alt="Kayakers on calm water at Lady Bird Lake with the Austin skyline behind" width="1920" height="1280">
+  <figcaption>Lady Bird Lake, downtown Austin. Photo: <a href="https://commons.wikimedia.org/wiki/File:Austin_August_2019_19_(skyline_and_Lady_Bird_Lake).jpg" rel="noopener nofollow" target="_blank">Michael Barera</a>, CC BY-SA 4.0</figcaption>
 </figure>
 
 <section class="band-full bg-white">
   <div class="wrap band-single">
     <h2>Two rooms, and neither fits</h2>
-    <p>Walk into a typical entrepreneur room and the unspoken assumption is a body that always shows up: early mornings, late networking, just push through. Walk into a typical chronic illness space and you're a patient first, symptoms and coping, and the ambitious part of you is beside the point.</p>
-    <p>So you pick a room, and perform the other half away.</p>
+    <p>Entrepreneur rooms assume a body that always cooperates. Chronic illness spaces treat you as a patient first. So you pick a room, and perform the other half away.</p>
   </div>
 </section>
 
 <section class="band-full bg-peach">
   <div class="wrap band-single">
     <h2>What staying quiet actually costs</h2>
-    <p>It doesn't show up as one bad day. It shows up as the slow math of masking, compounding for as long as you let it run: the energy spent performing fine in rooms that don't get it, gone before you ever get to the real work. The friendships that stay shallow because the actual thing never comes up. The burnout that looks sudden to everyone watching but felt inevitable to you, because you'd been paying that tax alone for years.</p>
-    <p>Nothing forces you to fix this. You can keep doing exactly what you're doing, most people do, for years, sometimes a whole career. The room doesn't disappear because you didn't find it. You just keep paying full price for staying quiet, indefinitely, while people who found their room stopped.</p>
+    <p>Masking has a bill. Energy that never reaches the real work. Friendships that stay shallow because the real thing never comes up. Burnout that looks sudden to everyone but you.</p>
+    <p>Nothing forces you to stop. Most people pay full price for years.</p>
+  </div>
+</section>
+
+<section class="band-full">
+  <div class="wrap band-single">
+    <h2>I know, because I live it</h2>
+    <p>I did corporate strategy at Accenture, then corporate and finance, then built my own businesses, all with chronic illness. I learned I had autism at 41. My first fully unmasked week came at nearly 42. I never found a room where all of that could be true at once. So I built one.</p>
   </div>
 </section>
 
 <section class="band-full bg-white">
   <div class="wrap band-single">
     <h2>Why "Built &amp; Unmasked"</h2>
-    <p><strong>Built</strong>: because everyone here has already done the hard thing, a company, a career, a P&amp;L, a team. <strong>Unmasked</strong>: because what you're carrying, chronic illness, high-functioning autism, or something else, gets performed away every day so nobody has to see it. Not "unwell," autism isn't an illness. Not "seen" either, whether anyone else notices was never something you controlled. Unmasking is the part that's actually yours: the choice to stop performing fine, with people who already get it.</p>
+    <p><strong>Built</strong> means you already did the hard thing: a company, a career, a P&amp;L, a team. <strong>Unmasked</strong> means you stop performing fine. Whether anyone really saw you was never in your control. Taking the mask off is.</p>
   </div>
 </section>
 
-<section class="wrap band">
-  <div class="band-single">
-    <h2>I know, because I live it</h2>
-    <p>I came up doing corporate strategy at Accenture, then built a career across corporate and finance, then built my own businesses, all while living with chronic illness. I learned I had autism at 41 and had my first fully unmasked week at nearly 42, close to two decades into that career. I never found the room that let all of that be true at once, so I started sitting down with people once a month instead.</p>
-    <p>Nearly 80% of autoimmune disease patients are women, and high-functioning autism follows a similar pattern: people don't expect it to look like a woman running a company, so a lot of us mask for years, sometimes decades, before anyone, including ourselves, notices. This isn't a medical site and it never will be. What happens at the table is peer to peer, lived experience only, nothing prescribed.</p>
+<section class="band-full">
+  <div class="wrap band-single">
+    <h2>What's different here</h2>
+    <ul class="ticks">
+      <li>No explaining why you're tired, why you left corporate, or why today's a bad day</li>
+      <li>Real things said out loud, discretion is the price of entry</li>
+      <li>Tactics that cut the load, not just sympathy</li>
+      <li>Seated, quiet, come and go freely</li>
+    </ul>
   </div>
 </section>
 
 <section class="band-full bg-white">
   <div class="wrap band-single">
-    <h2>What's different here</h2>
-    <ul class="ticks">
-      <li>Nobody makes you explain why you're tired, why you left corporate, why today's a bad day, or why you carry an autism diagnosis nobody would guess from the outside</li>
-      <li>Say the real thing instead of the polished version, discretion is the price of entry for everyone</li>
-      <li>Trade tactics that actually cut the load, not just sympathy</li>
-      <li>Seated, quiet, come and go freely, built for a body and a nervous system that don't always cooperate</li>
-    </ul>
-  </div>
-</section>
-
-<section class="wrap band">
-  <div class="band-single">
     <h2>Who ends up in the room</h2>
-    <p>Mostly it's people who came up through top-50 corporate roles, strategy consulting firms like Accenture, private equity, investment banking, or built their own company from nothing, and who are also carrying chronic illness, high-functioning autism, or something else no one can see. A lot of us are women. Men who fit that same shape are welcome too. That's why every RSVP gets a look before the address goes out, so the room stays that shape instead of whoever finds the link first.</p>
+    <p>Top-50 corporate alumni, strategy consultants, private equity and banking people, and owners who built from nothing, all carrying something invisible. Mostly women. Nearly 80% of autoimmune patients are, and high-functioning autism hides the same way. Men who fit are welcome. Every RSVP gets a look so the room keeps that shape. Peer to peer, lived experience, never a medical site.</p>
   </div>
 </section>
 
@@ -567,11 +565,17 @@ for (const pg of pages) {
       <li><span class="step-num">3</span><div><h3>Get the address</h3><p>Approved RSVPs get the date and address once the venue's locked in.</p></div></li>
       <li><span class="step-num">4</span><div><h3>Show up</h3><p>Seated, quiet, say the real thing. Leave whenever you need to.</p></div></li>
     </ol>
-    <ul class="ticks" style="margin-top:24px">
-      <li><strong>Discretion.</strong> What's said in the room stays in the room.</li>
-      <li><strong>Reciprocity.</strong> Come to give as much as to get: an intro, a warm lead, a "here's how I handled that."</li>
-      <li><strong>Honesty over polish.</strong> Drop the "I'm crushing it" performance at the door.</li>
-    </ul>
+    <p style="margin:26px 0 0"><a class="btn" href="${url("/events/")}">Request a seat</a></p>
+  </div>
+</section>
+
+<section class="band-full">
+  <div class="wrap band-single notify-form">
+    <p>Not ready to walk into a room yet? That's a normal place to start. Get each post by email, plus the next gathering announcement.</p>
+    <form class="notify-row" action="__NOTIFY_FORMSPREE_ENDPOINT__" method="POST">
+      <input type="email" name="email" placeholder="you@wherever.com" required>
+      <button type="submit" class="btn">Keep me posted</button>
+    </form>
   </div>
 </section>
 
