@@ -208,6 +208,7 @@ function footer() {
   <div class="wrap fineprint muted">
     <span>© ${site.publisherSince} to ${yr} ${esc(site.name)}.</span>
     <span>Community &amp; lived experience, not medical advice.</span>
+    <span>Homepage photo: Pennybacker Bridge, Lake Austin, <a href="https://commons.wikimedia.org/wiki/File:Pennybacker_bridge_sunset_2006.jpg" rel="noopener nofollow" target="_blank">Larry D. Moore</a>, CC BY 4.0.</span>
   </div>
 </footer>`;
 }
@@ -505,7 +506,6 @@ for (const pg of pages) {
 
 <figure class="photo-band">
   <img src="${url("/assets/austin-pennybacker-sunset.jpg")}" alt="Pennybacker Bridge over calm water at sunset, Lake Austin" width="1600" height="1066">
-  <figcaption>Pennybacker Bridge, Lake Austin. Photo: <a href="https://commons.wikimedia.org/wiki/File:Pennybacker_bridge_sunset_2006.jpg" rel="noopener nofollow" target="_blank">Larry D. Moore</a>, CC BY 4.0</figcaption>
 </figure>
 
 <section class="band-full bg-white">
