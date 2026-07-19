@@ -29,6 +29,14 @@ Nobody handed you this skill. You built it yourself, before you learned long div
 
 That's masking. Not a personality flaw, not fakeness. A survival system, built early, by someone small who had no other tools.
 
+## When it's the whole house
+
+For some people it was one difficult parent, with a second parent or a sibling as shelter. For others there was no shelter. A narcissistic mother, a narcissistic father, and a narcissistic sister is a real configuration, and a child in that house has no safe corner at all. Every room requires a performance. Every performance gets graded.
+
+Now add autism to that child. Reading rooms doesn't come pre-installed for her; she has to hand-build, consciously, the social radar other kids absorb for free, and she has to build it under fire, in a house where a wrong read has consequences. The severity isn't one hardship plus another. It stacks. More danger, fewer tools, higher stakes on every single interaction, which forces survival skills most people never need to develop at all.
+
+If that was your house, the depth of your mask isn't a character flaw. It's a measure of what you got through.
+
 ## Why so many of us ended up accomplished
 
 Here's the part almost nobody says out loud: that childhood built professional superpowers. Reading a room instantly. Anticipating what powerful people need before they say it. Performing calm under scrutiny. Delivering flawlessly because mistakes were never safe.
